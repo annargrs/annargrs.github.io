@@ -1,0 +1,15 @@
+main:
+  - title: "Publications"
+    url: /docs/quick-start-guide/
+  - title: "Talks"
+    url: /year-archive/
+  - title: "Service"
+    url: /year-archive/
+  - title: "Outreach"
+    url: /categories/
+#  - title: "Teaching"
+#    url: /tags/
+  - title: "Blog"
+    url: /page-archive/
+  - title: "Contact"
+    url: /collection-archive/

@@ -1,0 +1,55 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: Anna Rogers
+email: arogers@sodas.ku.dk
+description: >- # this means to ignore newlines until "baseurl:"
+  Anna Rogers' personal page
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: annargrs
+github_username:  annargrs
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+
+theme: minimal-mistakes-jekyll
+plugins:
+  - jekyll-scholar
+
+scholar:
+  # more options: https://pages.lip6.fr/Pascal.Poizat/blog/posts/2016/02/01/jekyll-and-bibtex/
+  style: _bibliography/apa_modified.csl
+  sort_by: year
+  order: descending
+  bibliography_template: bib
+  use_raw_bibtex_entry: true # to enable {{...}} inside bibtex
+  bibliography_template: "{{ reference | replace_first: 'Rogers, A.', '<b>Rogers, A.</b>' }}"
+  bibliography_template: "{{ reference | replace_first: 'Gladkova, A.', '<b>Gladkova, A.</b>' }}"
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
