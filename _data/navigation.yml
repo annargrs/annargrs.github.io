@@ -1,15 +1,15 @@
 main:
   - title: "Publications"
-    url: /docs/quick-start-guide/
+    url: /publications/
   - title: "Talks"
-    url: /year-archive/
+    url: /talks/
   - title: "Service"
-    url: /year-archive/
+    url: /service/
   - title: "Outreach"
-    url: /categories/
+    url: /outreach/
 #  - title: "Teaching"
 #    url: /tags/
   - title: "Blog"
-    url: /page-archive/
+    url: https://hackingsemantics.xyz/year-archive/
   - title: "Contact"
-    url: /collection-archive/
+    url: mailto:arogers@cs.uml.edu
