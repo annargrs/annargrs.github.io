@@ -1,0 +1,18 @@
+{% assign words_per_minute = site.words_per_minute | default: 200 %}
+
+{% assign post_array = post.content | strip_html | split: "References" %}
+{% assign page_array = page.content | strip_html | split: "References" %}
+
+{% if post.read_time %}
+  {% assign words = post_array.first | number_of_words %}
+{% elsif page.read_time %}
+  {% assign words = page_array.first | number_of_words %}
+{% endif %}
+
+{% if words < words_per_minute %}
+  {{ site.data.ui-text[site.locale].less_than | default: "less than" }} 1 {{ site.data.ui-text[site.locale].minute_read | default: "minute read" }}
+{% elsif words == words_per_minute %}
+  1 {{ site.data.ui-text[site.locale].minute_read | default: "minute read" }}
+{% else %}
+  {{ words | divided_by:words_per_minute }} {{ site.data.ui-text[site.locale].minute_read | default: "minute read" }}
+{% endif %}

@@ -1,0 +1,137 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@charset "utf-8";
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
+
+$doc-font-size: 14 !default;
+
+$serif              : 'Roboto', sans-serif;
+$sans-serif-narrow  : 'Oswald', sans-serif;
+
+$global-font-family : $serif;
+$header-font-family : $sans-serif-narrow;
+
+.bibtex {
+  padding: 0 18px;
+  display: none;
+  overflow: hidden;
+  background-color: #f1f1f1;
+  font-size: smaller;
+}
+
+.twitter-tweet {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.btn--reddit {
+    color: #fff;
+    background-color: #ff4500 !important;
+}
+
+.btn--bibtex {
+    background-color: #3b9cba;
+    color: #fff;
+    display: inline-block;
+    margin-bottom: 0.25em;
+    padding: 0.5em 1em;
+    font-family: "Roboto", "Helvetica Neue", sans-serif;
+    font-size: 0.75em;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+    border-width: 0;
+    border-radius: 4px;
+    cursor: pointer;
+    line-height: 1.5;
+}
+
+.btn--info, .btn--success {
+  border-width: 0;
+  border-radius: 4px;
+}
+
+.header-link {
+  display: none;
+}
+
+#footer {
+  position: inherit;
+}
+
+.about {
+    padding: 1em;
+  text-align: justify;
+}
+
+.profile-pic {
+    max-width: 50%;
+    margin-left: auto;
+    display: block;
+    padding-top: 1em;
+    padding-right: 2em;
+}
+
+.news {
+    overflow:auto;
+    height: 600px;
+    //text-align: left;
+    text-align: justify;
+    padding-right: 2em;
+}
+
+@media (max-width: 600px) {
+  /* CSS that should be displayed if width is equal to or less than 800px goes here */
+  .news {
+      padding-right: 0em;
+  }
+  //.profile-pic {
+  //  padding-right: 2em;
+  //}
+}
+
+.twitter-timeline {
+    width: 400px;
+}
+
+.news-Header {
+  direction: ltr;
+  text-align: left;
+  font: normal normal 14px/1.4 Helvetica,Roboto,"Segoe UI",Calibri,sans-serif;
+  color: #292F33;
+  white-space: initial;
+  padding: 10px;
+  position: relative;
+  direction: ltr;
+  text-align: left;
+  font: normal normal 14px/1.4 Helvetica,Roboto,"Segoe UI",Calibri,sans-serif;
+  white-space: initial;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  display: inline-block!important;
+  max-width: 100%;
+  font-weight: 300;
+  color: #292F33;
+  font-size: 27px;
+  line-height: 36px;
+  border-bottom: none!important;
+}
+
+.news-container {
+  direction: ltr;
+  text-align: left;
+  //font: normal normal 14px/1.4 Helvetica,Roboto,"Segoe UI",Calibri,sans-serif;
+  color: #292F33;
+  white-space: initial;
+  -webkit-locale: "en";
+  max-width: 1200px;
+  background-color: #fff;
+  border-radius: 5px;
+}
+
