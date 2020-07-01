@@ -14,6 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Anna Rogers
+author: annargrs
 email: arogers@sodas.ku.dk
 description: >- # this means to ignore newlines until "baseurl:"
   Anna Rogers' personal page
@@ -42,6 +43,8 @@ scholar:
   bibliography_template: "{{ reference | replace_first: 'Rogers, A.', '<b>Rogers, A.</b>' }}"
   bibliography_template: "{{ reference | replace_first: 'Gladkova, A.', '<b>Gladkova, A.</b>' }}"
 
+include: ['_pages']
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
@@ -53,3 +56,33 @@ scholar:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+
+## default YAML for all posts
+defaults:
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+      read_time: false
+      comments: false
+      share: false
+      related: false
+
+author:
+#  name: "Anna Rogers"
+  avatar: "/assets/images/aro.jpg"
+#  bio: "University of Copenhagen"
+#  uri: "http://www.annargrs.github.io"
+  twitter: "annargrs"
+  linkedin: "annargrs"
+  github: "annargrs"
+#  vine: "doesn't matter"
+  links:
+    - label: "University of Copenhagen"
+      icon: "fas fa-fw fa-university"
+      url: "http://sodas.ku.dk/"
+
