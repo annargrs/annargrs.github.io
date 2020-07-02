@@ -15,13 +15,18 @@
 # in the templates via {{ site.myvariable }}.
 title: Anna Rogers
 author: annargrs
-email: arogers@sodas.ku.dk
+email: arogers@cs.uml.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Anna Rogers' personal page
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: annargrs
 github_username:  annargrs
+url: "https://annargrs.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+repository: "annargrs/annargrs.github.io"
+
+# try publishing from the docs folder
+destination: docs
 
 # Build settings
 markdown: kramdown
