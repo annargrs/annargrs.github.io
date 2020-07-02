@@ -25,8 +25,8 @@ github_username:  annargrs
 url: "https://annargrs.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 repository: "annargrs/annargrs.github.io"
 
-# try publishing from the docs folder
-destination: _site
+# publishing from the docs folder
+destination: docs
 
 # Build settings
 markdown: kramdown

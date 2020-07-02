@@ -8,7 +8,7 @@ deploy:
   provider: pages
   skip_cleanup: true
   github_token: $GITHUB_TOKEN
-  local_dir: _site
-  target_branch: gh-pages
+  local_dir: docs
+  target_branch: master
   on:
     branch: master
