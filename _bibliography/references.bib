@@ -1,17 +1,4 @@
 
-@inproceedings{KovalevaRomanovEtAl_2019_Revealing_Dark_Secrets_of_BERT,
-  title = {Revealing the {{Dark Secrets}} of {{BERT}}},
-  booktitle = {Proceedings of the 2019 {{Conference}} on {{Empirical Methods}} in {{Natural Language Processing}} and the 9th {{International Joint Conference}} on {{Natural Language Processing}} ({{EMNLP}}-{{IJCNLP}})},
-  author = {Kovaleva, Olga and Romanov, Alexey and Rogers, Anna and Rumshisky, Anna},
-  year = {2019},
-  pages = {4356--4365},
-  publisher = {{Association for Computational Linguistics}},
-  address = {{Hong Kong, China}},
-  doi = {10.18653/v1/D19-1445},
-  url = {https://www.aclweb.org/anthology/D19-1445}
-}
-
-
 @inproceedings{DrozdGladkovaEtAl_2015_Discovering_aspectual_classes_of_Russian_verbs_in_untagged_large_corpora,
   title = {Discovering Aspectual Classes of {{Russian}} Verbs in Untagged Large Corpora},
   booktitle = {Proceedings of 2015 {{IEEE International Conference}} on {{Data Science}} and {{Data Intensive Systems}} ({{DSDIS}})},
@@ -19,7 +6,8 @@
   year = {2015},
   pages = {61--68},
   doi = {10.1109/DSDIS.2015.30},
-  url = {http://www.ieeexplore.ieee.org/document/7396482/}
+  url = {http://www.ieeexplore.ieee.org/document/7396482/},
+  abstract = {This paper presents a case study of discovering and classifying verbs in large web-corpora. Many tasks in natural language processing require corpora containing billions of words, and with such volumes of data co-occurrence extraction becomes one of the performance bottlenecks in the Vector Space Models of computational linguistics. We propose a co-occurrence extraction kernel based on ternary trees as an alternative (or a complimentary stage) to conventional map-reduce based approach, this kernel achieves an order of magnitude improvement in memory footprint and processing speed. Our classifier successfully and efficiently identified verbs in a 1.2-billion words untagged corpus of Russian fiction and distinguished between their two aspectual classes. The model proved efficient even for low-frequency vocabulary, including nonce verbs and neologisms.}
 }
 
 @inproceedings{DrozdGladkovaEtAl_2015_Python_performance_and_Natural_Language_Processing,
@@ -32,11 +20,12 @@
   address = {{New York, NY, USA}},
   doi = {10.1145/2835857.2835858},
   url = {http://dl.acm.org/citation.cfm?id=2835858},
+  abstract = {We present a case study of Python-based workflow for a data-intensive natural language processing problem, namely word classification with vector space model methodology. Problems in the area of natural language processing are typically solved in many steps which require transformation of the data to vastly different formats (in our case, raw text to sparse matrices to dense vectors). A Python implementation for each of these steps would require a different solution. We survey existing approaches to using Python for high-performance processing of large volumes of data, and we propose a sample solution for each step for our case study (aspectual classification of Russian verbs), attempting to preserve both efficiency and user-friendliness. For the most computationally intensive part of the workflow we develop a prototype distributed implementation of co-occurrence extraction module using IPython.parallel cluster.},
   isbn = {978-1-4503-4010-6},
   series = {{{PyHPC}} '15}
 }
 
-@inproceedings{DrozdGladkovaEtAl_2016_Word_embeddings_analogies_and_machine_learning_beyond_king_man_woman_queen,
+@inproceedings{DrozdGladkovaEtAl_2016_Word_embeddings_analogies_and_machine_learning_beyond_king_-_man_woman_queen,
   title = {Word Embeddings, Analogies, and Machine Learning: Beyond King - Man + Woman = Queen},
   shorttitle = {Word {{Embeddings}}, {{Analogies}}, and {{Machine Learning}}},
   booktitle = {Proceedings of {{COLING}} 2016, the 26th {{International Conference}} on {{Computational Linguistics}}: {{Technical Papers}}},
@@ -44,7 +33,8 @@
   year = {2016},
   pages = {3519--3530},
   address = {{Osaka, Japan, December 11-17}},
-  url = {https://www.aclweb.org/anthology/C/C16/C16-1332.pdf}
+  url = {https://www.aclweb.org/anthology/C/C16/C16-1332.pdf},
+  code = {https://github.com/vecto-ai/vecto/}
 }
 
 @inproceedings{GladkovaDrozd_2016_Intrinsic_evaluations_of_word_embeddngs_what_can_we_do_better,
@@ -59,7 +49,7 @@
   url = {http://www.aclweb.org/anthology/W/W16/W16-2507.pdf}
 }
 
-@inproceedings{GladkovaDrozdEtAl_2016_Analogybased_detection_of_morphological_and_semantic_relations_with_word_embeddings_what_works_and_what_doesnt,
+@inproceedings{GladkovaDrozdEtAl_2016_Analogy-based_detection_of_morphological_and_semantic_relations_with_word_embeddings_what_works_and_what_doesnt,
   title = {Analogy-Based Detection of Morphological and Semantic Relations with Word Embeddings: What Works and What Doesn't.},
   booktitle = {Proceedings of the {{NAACL}}-{{HLT SRW}}},
   author = {Gladkova, Anna and Drozd, Aleksandr and Matsuoka, Satoshi},
@@ -68,7 +58,10 @@
   publisher = {{ACL}},
   address = {{San Diego, California, June 12-17, 2016}},
   doi = {10.18653/v1/N16-2002},
-  url = {https://www.aclweb.org/anthology/N/N16/N16-2002.pdf}
+  url = {https://www.aclweb.org/anthology/N/N16/N16-2002.pdf},
+  blog = {https://vecto.space/projects/BATS/},
+  code = {https://vecto.space/projects/BATS/},
+  data = {https://vecto.space/projects/BATS/}
 }
 
 @inproceedings{KarpinskaLiEtAl_2018_Subcharacter_Information_in_Japanese_Embeddings_When_Is_It_Worth_It,
@@ -79,7 +72,25 @@
   pages = {28--37},
   publisher = {{Association for Computational Linguistics}},
   address = {{Melbourne, Australia}},
-  url = {http://aclweb.org/anthology/W18-2905}
+  url = {http://aclweb.org/anthology/W18-2905},
+  blog = {https://vecto.space/projects/jBATS/},
+  code = {https://vecto.space/projects/jBATS/},
+  data = {https://vecto.space/projects/jBATS/}
+}
+
+@inproceedings{KovalevaRomanovEtAl_2019_Revealing_Dark_Secrets_of_BERT,
+  title = {Revealing the {{Dark Secrets}} of {{BERT}}},
+  booktitle = {Proceedings of the 2019 {{Conference}} on {{Empirical Methods}} in {{Natural Language Processing}} and the 9th {{International Joint Conference}} on {{Natural Language Processing}} ({{EMNLP}}-{{IJCNLP}})},
+  author = {Kovaleva, Olga and Romanov, Alexey and Rogers, Anna and Rumshisky, Anna},
+  year = {2019},
+  pages = {4356--4365},
+  publisher = {{Association for Computational Linguistics}},
+  address = {{Hong Kong, China}},
+  doi = {10.18653/v1/D19-1445},
+  url = {https://www.aclweb.org/anthology/D19-1445},
+  abstract = {BERT-based architectures currently give state-of-the-art performance on many NLP tasks, but little is known about the exact mechanisms that contribute to its success. In the current work, we focus on the interpretation of self-attention, which is one of the fundamental underlying components of BERT. Using a subset of GLUE tasks and a set of handcrafted features-of-interest, we propose the methodology and carry out a qualitative and quantitative analysis of the information encoded by the individual BERT's heads. Our findings suggest that there is a limited set of attention patterns that are repeated across different heads, indicating the overall model overparametrization. While different heads consistently use the same attention patterns, they have varying impact on performance across different tasks. We show that manually disabling attention in certain heads leads to a performance improvement over the regular fine-tuned BERT models.},
+  blog = {https://text-machine-lab.github.io/blog/2020/bert-secrets/},
+  code = {https://github.com/text-machine-lab/dark-secrets-of-BERT/}
 }
 
 @inproceedings{LevyGoldbergEtAl_2014_Linguistic_Regularities_in_Sparse_and_Explicit_Word_Representations,
@@ -92,14 +103,15 @@
   url = {http://anthology.aclweb.org/W/W14/W14-1618.pdf}
 }
 
-@inproceedings{LiLiuEtAl_2017_Investigating_Different_Syntactic_Context_Types_and_Context_Representations_for_Learning_Word_Embeddings,
+@inproceedings{LiLiuEtAl_2017_Investigating_different_syntactic_context_types_and_context_representations_for_learning_word_embeddings,
   title = {Investigating Different Syntactic Context Types and Context Representations for Learning Word Embeddings},
   booktitle = {Proceedings of the 2017 {{Conference}} on {{Empirical Methods}} in {{Natural Language Processing}}},
   author = {Li, Bofang and Liu, Tao and Zhao, Zhe and Tang, Buzhou and Drozd, Aleksandr and Rogers, Anna and Du, Xiaoyong},
   year = {2017},
   pages = {2411--2421},
   address = {{Copenhagen, Denmark, September 7\textendash 11, 2017}},
-  url = {http://aclweb.org/anthology/D17-1257}
+  url = {http://aclweb.org/anthology/D17-1257},
+  data = {https://vecto.readthedocs.io/en/docs/tutorial/getting\_vectors.html\#pre-trained-vsms}
 }
 
 @article{PrasannaRogersEtAl_2020_When_BERT_Plays_Lottery_All_Tickets_Are_Winning,
@@ -107,6 +119,7 @@
   author = {Prasanna, Sai and Rogers, Anna and Rumshisky, Anna},
   year = {2020},
   url = {http://arxiv.org/abs/2005.00561},
+  abstract = {Much of the recent success in NLP is due to the large Transformer-based models such as BERT (Devlin et al, 2019). However, these models have been shown to be reducible to a smaller number of self-attention heads and layers. We consider this phenomenon from the perspective of the lottery ticket hypothesis. For fine-tuned BERT, we show that (a) it is possible to find a subnetwork of elements that achieves performance comparable with that of the full model, and (b) similarly-sized subnetworks sampled from the rest of the model perform worse. However, the "bad" subnetworks can be fine-tuned separately to achieve only slightly worse performance than the "good" ones, indicating that most weights in the pre-trained BERT are potentially useful. We also show that the "good" subnetworks vary considerably across GLUE tasks, opening up the possibilities to learn what knowledge BERT actually uses at inference time.},
   archivePrefix = {arXiv},
   journal = {arXiv:2005.00561 [cs]},
   primaryClass = {cs}
@@ -145,7 +158,8 @@
   pages = {2690--2703},
   publisher = {{Association for Computational Linguistics}},
   address = {{Santa Fe, New Mexico, USA, August 20-26, 2018}},
-  url = {http://aclweb.org/anthology/C18-1228}
+  url = {http://aclweb.org/anthology/C18-1228},
+  code = {http://ldtoolkit.space}
 }
 
 @inproceedings{RogersKovalevaEtAl_2019_Calls_to_Action_on_Social_Media_Potential_for_Censorship_and_Social_Impact,
@@ -162,7 +176,10 @@
   author = {Rogers, Anna and Kovaleva, Olga and Downey, Matthew and Rumshisky, Anna},
   year = {2020},
   pages = {11},
-  url = {https://aaai.org/Papers/AAAI/2020GB/AAAI-RogersA.7778.pdf}
+  url = {https://aaai.org/Papers/AAAI/2020GB/AAAI-RogersA.7778.pdf},
+  abstract = {The recent explosion in question answering research produced a wealth of both factoid RC and commonsense reasoning datasets. Combining them presents a different kind of task: not deciding simply whether information is present in the text, but also whether a confident guess could be made for the missing information. To that end, we present QuAIL, the first reading comprehension dataset (a) to combine textbased, world knowledge and unanswerable questions, and (b) to provide annotation that would enable precise diagnostics of the reasoning strategies by a given QA system. QuAIL contains 15K multi-choice questions for 800 texts in 4 domains (fiction, blogs, political news, and user story texts). Crucially, to solve QuAIL a system would need to handle both general and text-specific questions, impossible to answer from pretraining data. We show that the new benchmark poses substantial challenges to the current state-of-the-art systems, with a 30\% drop in accuracy compared to the most similar existing dataset.},
+  blog = {https://text-machine-lab.github.io/blog/2020/quail/},
+  data = {http://text-machine.cs.uml.edu/lab2/projects/quail/}
 }
 
 @article{RogersKovalevaEtAl_2020_Primer_in_BERTology_What_we_know_about_how_BERT_works,
@@ -171,12 +188,12 @@
   author = {Rogers, Anna and Kovaleva, Olga and Rumshisky, Anna},
   year = {2020},
   url = {http://arxiv.org/abs/2002.12327},
+  abstract = {Transformer-based models are now widely used in NLP, but we still do not understand a lot about their inner workings. This paper describes what is known to date about the famous BERT model (Devlin et al. 2019), synthesizing over 40 analysis studies. We also provide an overview of the proposed modifications to the model and its training regime. We then outline the directions for further research.},
   archivePrefix = {arXiv},
   journal = {(accepted to TACL)}
 }
 
 @inproceedings{RogersRomanovEtAl_2018_RuSentiment_Enriched_Sentiment_Analysis_Dataset_for_Social_Media_in_Russian,
-  ids = {RogersRomanovEtAl\_2018\_RuSentiment\_An\_Enriched\_Sentiment\_Analysis\_Dataset\_for\_Social\_Media\_in\_Russian},
   title = {{{RuSentiment}}: {{An Enriched Sentiment Analysis Dataset}} for {{Social Media}} in {{Russian}}},
   shorttitle = {{{RuSentiment}}},
   booktitle = {Proceedings of the 27th {{International Conference}} on {{Computational Linguistics}}},
@@ -185,7 +202,10 @@
   pages = {755--763},
   publisher = {{Association for Computational Linguistics}},
   address = {{Santa Fe, New Mexico, USA}},
-  url = {http://aclweb.org/anthology/C18-1064}
+  url = {http://aclweb.org/anthology/C18-1064},
+  code = {https://github.com/text-machine-lab/rusentiment\_baselines},
+  data = {http://text-machine.cs.uml.edu/lab2/projects/rusentiment/},
+  guidelines = {https://github.com/text-machine-lab/rusentiment}
 }
 
 @article{RogersSmelkovEtAl_2019_NarrativeTime_Dense_High-Speed_Temporal_Annotation_on_Timeline,
@@ -194,6 +214,7 @@
   author = {Rogers, Anna and Smelkov, Gregory and Rumshisky, Anna},
   year = {2019},
   url = {http://arxiv.org/abs/1908.11443},
+  abstract = {We present NarrativeTime, a new timeline-based annotation scheme for temporal order of events in text, and a new densely annotated fiction corpus comparable to TimeBank-Dense. NarrativeTime is considerably faster than schemes based on event pairs such as TimeML, and it produces more temporal links between events than TimeBank-Dense, while maintaining comparable agreement on temporal links. This is achieved through new strategies for encoding vagueness in temporal relations and an annotation workflow that takes into account the annotators' chunking and commonsense reasoning strategies. NarrativeTime comes with new specialized web-based tools for annotation and adjudication.},
   archivePrefix = {arXiv},
   journal = {arXiv:1908.11443 [cs]},
   primaryClass = {cs}
@@ -208,7 +229,7 @@
   url = {https://aclweb.org/anthology/papers/N/N19/N19-1088/}
 }
 
-@inproceedings{SantusGladkovaEtAl_2016_CogALexV_shared_task_on_corpusbased_identification_of_semantic_relations,
+@inproceedings{SantusGladkovaEtAl_2016_CogALex-V_shared_task_on_corpus-based_identification_of_semantic_relations,
   title = {The {{CogALex}}-{{V}} Shared Task on the Corpus-Based Identification of Semantic Relations},
   booktitle = {Proceedings of the 5th {{Workshop}} on {{Cognitive Aspects}} of the {{Lexicon}} ({{CogALex}}-{{V}})},
   author = {Santus, Enrico and Gladkova, Anna and Evert, Stefan and Lenci, Alessandro},
@@ -216,8 +237,8 @@
   pages = {69--79},
   publisher = {{ACL}},
   address = {{Osaka, Japan, December 11-17}},
-  url = {http://www.aclweb.org/anthology/W/W16/W16-53.pdf\#page=83}
+  url = {http://www.aclweb.org/anthology/W/W16/W16-53.pdf\#page=83},
+  data = {https://sites.google.com/site/cogalex2016/home/shared-task}
 }
-
 
 

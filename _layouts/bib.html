@@ -1,19 +1,42 @@
 ---
 ---
 <div class="text-justify">
-    {{reference}}
+    {{reference | replace_first: 'Gladkova, A.', '<b>Gladkova, A.</b>' | replace_first: 'Rogers, A.', '<b>Rogers, A.</b>' }}
 
     {% assign simpleKey = entry.key | split: "_" | slice:0, 4 %}
     {% assign simpleKey = simpleKey | join: "_" %}
 
-    <button class="btn--info" onclick="showBibtex('{{ simpleKey }}')">BibTex</button>
-
-    {% if entry.url %}
-    <button class="btn--success" onclick="window.location.href = '{{ entry.url }}'">URL</button>
+    {% if entry.abstract %}
+    <button class="btn--info" onclick="showBibtex('{{ simpleKey }}')">Abstract</button>
     {% endif %}
 
-<div class="bibtex" id='{{ simpleKey }}'><pre>{{ entry.bibtex }}</pre>
-</div>
+    {% if entry.url %}
+    <button class="btn--success" onclick="window.location.href = '{{ entry.url }}'">PDF</button>
+    {% endif %}
+
+    {% if entry.blog %}
+    <button class="btn--success" onclick="window.location.href = '{{ entry.blog }}'">BLOG</button>
+    {% endif %}
+
+    {% if entry.code %}
+    <button class="btn--success" onclick="window.location.href = '{{ entry.code }}'">CODE</button>
+    {% endif %}
+
+    {% if entry.data %}
+    <button class="btn--success" onclick="window.location.href = '{{ entry.data }}'">DATA</button>
+    {% endif %}
+
+    {% if entry.slides %}
+    <button class="btn--success" onclick="window.location.href = '{{ entry.slides }}'">SLIDES</button>
+    {% endif %}
+
+    {% if entry.poster %}
+    <button class="btn--success" onclick="window.location.href = '{{ entry.poster }}'">POSTER</button>
+    {% endif %}
+
+    {% if entry.abstract %}
+    <div class="abstract" id='{{ simpleKey }}'>{{ entry.abstract }}</div>
+    {% endif %}
 </div>
 
 {% if entry.note %}
@@ -22,8 +45,6 @@
 </div-->
 {% endif %}
 
-<div>
     {% if entry.pdf %}
     <span><a href="{{ entry.pdf }}">pdf</a></span>
     {% endif %}
-</div>

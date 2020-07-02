@@ -1,7 +1,7 @@
 ---
 layout: single
 author_profile: true
-title: Outreach activities
+title: Events I helped to organize
 permalink: /service/
 ---
 

@@ -71,10 +71,25 @@ $header-font-family : $sans-serif-narrow;
 
 .profile-pic {
     max-width: 50%;
-    margin-left: auto;
+}
+
+.profile-pic-container {
+    //margin-left: auto;
     display: block;
     padding-top: 1em;
     padding-right: 2em;
+    margin-bottom: 0em!important;
+    text-align: right;
+}
+
+.profile-links {
+  font-size: smaller!important;
+  margin-bottom: 0em!important;
+  margin-top: 0.1em!important;
+}
+
+.bibliography {
+list-style:none!important;
 }
 
 .news {
@@ -135,4 +150,13 @@ $header-font-family : $sans-serif-narrow;
   border-radius: 5px;
 }
 
-
+.abstract {
+  //display: block;
+  padding: 0.5em;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+  color: gray;
+  display: none;
+  overflow: hidden;
+  font-size: smaller;
+}

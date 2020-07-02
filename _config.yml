@@ -36,12 +36,12 @@ plugins:
 scholar:
   # more options: https://pages.lip6.fr/Pascal.Poizat/blog/posts/2016/02/01/jekyll-and-bibtex/
   style: _bibliography/apa_modified.csl
+#  style: _bibliography/springer-lecture-notes-in-computer-science.csl
   sort_by: year
   order: descending
   bibliography_template: bib
   use_raw_bibtex_entry: true # to enable {{...}} inside bibtex
-  bibliography_template: "{{ reference | replace_first: 'Gladkova, A.', '<b>Gladkova, A.</b>' }}"
-  bibliography_template: "{{ reference | replace: 'Rogers, A.', '<b>Rogers, A.</b>' }}"
+#  bibliography_template: "{{ reference | replace_first: 'Gladkova, A.', '<b>Gladkova, A.</b>' | replace_first: 'Rogers, A.', '<b>Rogers, A.</b>' }}"
 
 include: ['_pages']
 
@@ -91,4 +91,18 @@ author:
       icon: "ai ai-google-scholar ai"
       # ai-semantic-scholar, ai-orcid - see more at https://jpswalsh.github.io/academicons/
       url: "https://scholar.google.com/citations?user=5oCYOE0AAAAJ&hl=en"
+    - label: "Semantic Scholar"
+      icon: "ai ai-semantic-scholar ai"
+      url: "https://www.semanticscholar.org/author/Anna-Rogers/145046059"
+    - label: "ORCID"
+      icon: "ai ai-orcid ai"
+      url: "https://orcid.org/0000-0002-4845-4023"
 
+# SEO and Analytics
+#google_site_verification : "todo"
+#bing_site_verification   : "todo"
+analytics:
+  provider: "google-gtag" # false (default), "google", "google-universal", "custom"
+  google:
+    tracking_id: "UA-127096214-3"
+environment: production # should work, if not check if env set to development

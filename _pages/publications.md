@@ -5,6 +5,8 @@ title: Publications
 permalink: /publications/
 ---
 
+Total pubs: {% bibliography_count -f references %}
+
 ### 2020
 
 {% bibliography --query @*[year=2020] %}
