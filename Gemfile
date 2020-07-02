@@ -14,7 +14,7 @@ gem 'unicode_utils', require: false unless RUBY_VERSION >= '2.4'
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 gem "minima", "~> 2.0"
-gem "minimal-mistakes-jekyll"
+gem "minimal-mistakes-jekyll", "4.13.0"
 gem "classifier-reborn"
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
