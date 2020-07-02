@@ -34,10 +34,11 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-include-cache
+  - jekyll-scholar
+  - jekyll-sitemap
+  - jemoji
 
 theme: minimal-mistakes-jekyll
-plugins:
-  - jekyll-scholar
 
 scholar:
   # more options: https://pages.lip6.fr/Pascal.Poizat/blog/posts/2016/02/01/jekyll-and-bibtex/

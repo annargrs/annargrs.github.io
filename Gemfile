@@ -16,6 +16,7 @@ gem 'unicode_utils', require: false unless RUBY_VERSION >= '2.4'
 gem "minima", "~> 2.0"
 gem "minimal-mistakes-jekyll", "4.13.0"
 gem "classifier-reborn"
+gem "jekyll-include-cache"
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
