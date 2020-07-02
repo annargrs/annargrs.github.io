@@ -33,6 +33,7 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-include-cache
 
 theme: minimal-mistakes-jekyll
 plugins:
