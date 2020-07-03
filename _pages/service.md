@@ -1,7 +1,7 @@
 ---
 layout: single
 author_profile: true
-title: Events I helped to organize
+title: Organization
 permalink: /service/
 ---
 
