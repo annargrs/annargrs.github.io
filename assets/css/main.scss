@@ -103,12 +103,12 @@ list-style:none!important;
 @media (max-width: 600px) {
   /* CSS that should be displayed if width is equal to or less than 800px goes here */
   .news {
-      padding-right: 0em;
-      height: 220px;
-      padding: 1em;
+      padding-right: 0em!important;
+      height: 220px!important;
+      padding: 1em!important;
   }
   .profile-pic-container {
-    margin-right: -1em;
+    margin-right: -1em!important;
   }
 }
 
