@@ -9,8 +9,8 @@ main:
     url: /service/
   - title: "Outreach"
     url: /outreach/
-#  - title: "Teaching"
-#    url: /tags/
+  - title: "Teaching"
+    url: /teaching/
   - title: "Blog"
     url: https://hackingsemantics.xyz/year-archive/
   - title: "Contact"

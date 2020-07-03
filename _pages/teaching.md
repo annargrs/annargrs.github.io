@@ -1,0 +1,20 @@
+---
+layout: single
+author_profile: true
+title: Teaching
+permalink: /teaching/
+---
+
+## University courses
+
+* **COMP-1005**: [Introduction to Programming for Data Science](https://sites.google.com/view/comp1005-spring2019) <br/> [University of Massachusetts Lowell](https://www.uml.edu/catalog/courses/COMP/1005), Computer Science department, spring 2019
+
+## Summer schools
+
+* **NLP with Python**: [Introduction to NLP with Python](https://sites.google.com/view/esslli2019-nlp): a suite of two 1-week courses at  @ ESSLLI 2019 <br/> [European Summer School in Logic, Language and Information](http://esslli2019.folli.info/programme/week-1/), Riga, Latvia, August 5-16 2019
+
+## Tutorials
+
+* **T4 LREC 2018 tutorial:** [Distributional compositional semantics in the age of word embeddings: tasks, resources and methodology](http://text-machine.cs.uml.edu/lrec2018_t4/index.html) <br/> May 7, 2018: Miyazaki, Japan (LREC 2018) </p> <br/>
+* **ACML 2019 tutorial:** [Text Representations Learning and Compositional Semantics](http://www.acml-conf.org/2019/tutorials/) <br/> November 17, 2019: Nagoya, Japan</p> <br/>
+* **COLING 2020 tutorial:** [A guide to the dataset explosion in QA, NLI, and commonsense reasoning](https://coling2020.org/pages/tutorials) <br/> December 13, 2020: Barcelona, Spain</p>             
