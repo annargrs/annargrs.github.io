@@ -7,6 +7,7 @@ permalink: /talks/
 
 ## 2020
 
+* **When BERT plays the lottery, all tickets are winning.** <br/> 18 Sep 2020: NYU Center for Data Science (online). 
 * **How Much Should Conversational AI Developers know about ML and Linguistics?** <br/> 16 Jun 2020: The Level 3 AI Assistant Conference, panel discussion with Emily M. Bender, Thomas Wolf, and Vladimir Vlasov (online). [[URL]](https://www.l3-ai.dev/)
 * **The questions that the current AI can't answer** <br/> 8 Feb 2020: [Evaluating Evaluation of AI Systems](href="http://eval.how/aaai-2020/program.html) (Workshop co-located with AAAI 2020, New York, USA). [[SLIDES]](http://pc.cd/2f3italK)
 
