@@ -10,14 +10,19 @@ permalink: /service/
 * publicity chair for **EMNLP 2020:** [The 2020 Conference on Empirical Methods in Natural Language Processing](https://2020.emnlp.org/) <br/> November 16-20 2020: online
 * publicity chair for **COLING 2020:** [The 28th International Conference on Computational Linguistics](https://coling2020.org/) <br/>
             December 8-13 2020: Barselona, Spain
-            
+* area chair (EACL 2021, NAACL 2021), senior area chair (ACL 2021)   
 
 ## Workshops
 
-* **RepEval 2019:** [The Third Workshop on Evaluating Vector Space Representations for NLP](https://repeval2019.github.io/) <br/>
-            June 6 2019: Minneapolis, USA (co-located with NAACL 2019)
+* **Rep4NLP2021:** [The 6th Workshop on Representation Learning for NLP](https://sites.google.com/view/repl4nlp-2021/) <br/>
+  co-located with ACL 2021
+* **Insights 2021:** [The First Workshop on Insights from Negative Results in NLP](https://insights-workshop.github.io/) <br/>
+  (co-located with EMNLP 2021)  
 * **Insights 2020:** [The First Workshop on Insights from Negative Results in NLP](https://insights-workshop.github.io/) <br/>
-            November 11-12 2020: Punta Cana, Dominican Republic (co-located with EMNLP 2020)
+  November 11-12 2020: Punta Cana, Dominican Republic (co-located with EMNLP 2020)
+* **RepEval 2019:** [The Third Workshop on Evaluating Vector Space Representations for NLP](https://repeval2019.github.io/) <br/>
+  June 6 2019: Minneapolis, USA (co-located with NAACL 2019)
+
             
             
 ## Tutorials
