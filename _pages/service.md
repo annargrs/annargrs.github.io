@@ -15,7 +15,9 @@ permalink: /service/
 ## Workshops
 
 * **Rep4NLP2021:** [The 6th Workshop on Representation Learning for NLP](https://sites.google.com/view/repl4nlp-2021/) <br/>
-  co-located with ACL 2021
+  (co-located with ACL 2021)
+* [Rethinking ML Papers](https://rethinkingmlpapers.github.io/) <br/>
+  (co-located with ICLR 2021)
 * **Insights 2021:** [The First Workshop on Insights from Negative Results in NLP](https://insights-workshop.github.io/) <br/>
   (co-located with EMNLP 2021)  
 * **Insights 2020:** [The First Workshop on Insights from Negative Results in NLP](https://insights-workshop.github.io/) <br/>

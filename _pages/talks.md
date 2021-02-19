@@ -5,6 +5,12 @@ title: Selected Talks
 permalink: /talks/
 ---
 
+## 2021
+
+* **Reviewing Natural Language Processing research.** <br/>
+  19 April 2021: tutorial at [EACL 2021](https://2021.eacl.org/program/tutorials/) (with Kevin Cohen, Karën Fort, Margot Mieskes and Aurélie Névéol) 
+* 7 May 2021: [LTI Colloquium](https://lti.cs.cmu.edu/lti-colloquium)
+
 ## 2020
 
 * **When BERT plays the lottery, all tickets are winning.** <br/> 18 Sep 2020: NYU Center for Data Science (online). 
