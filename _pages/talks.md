@@ -8,12 +8,13 @@ permalink: /talks/
 ## 2021
 
 * **Reviewing Natural Language Processing research.** <br/>
-  19 April 2021: tutorial at [EACL 2021](https://2021.eacl.org/program/tutorials/) (with Kevin Cohen, Karën Fort, Margot Mieskes and Aurélie Névéol) 
+  20 April 2021: tutorial at [EACL 2021](https://github.com/reviewingNLP/EACL2021T5) (with Kevin Cohen, Karën Fort, Margot Mieskes and Aurélie Névéol) 
 * 7 May 2021: [LTI Colloquium](https://lti.cs.cmu.edu/lti-colloquium)
 
 ## 2020
 
-* **When BERT plays the lottery, all tickets are winning.** <br/> 18 Sep 2020: NYU Center for Data Science (online). 
+* **A guide to the dataset explosion in QA, NLI, and commonsense reasoning.** <br/> 13 Dec 2020: Tutorial at COLING 2020 (online). [[URL]](https://coling2020.org/pages/tutorials.html)
+* **When BERT plays the lottery, all tickets are winning.** <br/> 20 Nov 2020: invited talk at BlackBox NLP (online). [[URL]](https://slideslive.com/38939762)
 * **How Much Should Conversational AI Developers know about ML and Linguistics?** <br/> 16 Jun 2020: The Level 3 AI Assistant Conference, panel discussion with Emily M. Bender, Thomas Wolf, and Vladimir Vlasov (online). [[URL]](https://www.l3-ai.dev/)
 * **The questions that the current AI can't answer** <br/> 8 Feb 2020: [Evaluating Evaluation of AI Systems](href="http://eval.how/aaai-2020/program.html) (Workshop co-located with AAAI 2020, New York, USA). [[SLIDES]](http://pc.cd/2f3italK)
 
