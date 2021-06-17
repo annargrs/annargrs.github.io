@@ -7,6 +7,8 @@ permalink: /talks/
 
 ## 2021
 
+* **A primer in BERTology: what we know about how BERT works** <br/>
+June 17 2021: invited talk at [L3-AI](https://l3-ai.dev/) [[SLIDES]](https://u.pcloud.link/publink/show?code=XZ7JsTXZxkfM84V2cVHyAWvPJdrhNR9NIRY7)  
 * **The quest for difficult benchmarks in question answering and reading comprehension.** <br/> 
 7 May 2021: LTI Colloquium at Carnegie Mellon University [[URL]](https://lti.cs.cmu.edu/lti-colloquium) [[SLIDES]](https://u.pcloud.link/publink/show?code=XZKfheXZTrUhvUYVniQvyXFwq6nePjFw7RMk)
 * **Reviewing Natural Language Processing research.** <br/>
