@@ -7,6 +7,8 @@ permalink: /talks/
 
 ## 2021
 
+* **Changing the world by changing the data**<br/>
+  3 August 2021: oral talk at ACL 2021 [[SLIDES]](https://u.pcloud.link/publink/show?code=XZkiIxXZRHfXWjEPnUVsNrbStQUY8mxj2qYk)
 * **A primer in BERTology: what we know about how BERT works** <br/>
 June 17 2021: invited talk at [L3-AI](https://l3-ai.dev/) [[SLIDES]](https://u.pcloud.link/publink/show?code=XZ7JsTXZxkfM84V2cVHyAWvPJdrhNR9NIRY7)  
 * **The quest for difficult benchmarks in question answering and reading comprehension.** <br/> 
