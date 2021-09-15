@@ -7,6 +7,10 @@ permalink: /publications/
 
 Total pubs: {% bibliography_count -f references %}
 
+### 2021
+
+{% bibliography --query @*[year=2021] %}
+
 ### 2020
 
 {% bibliography --query @*[year=2020] %}
