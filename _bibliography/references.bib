@@ -1,29 +1,31 @@
 
 @inproceedings{GonzalezRogersEtAl_2021_On_Interaction_of_Belief_Bias_and_Explanations,
   title = {On the {{Interaction}} of {{Belief Bias}} and {{Explanations}}},
-  booktitle = {Findings of the {{Association}} for {{Computational Linguistics}}: {{ACL}}-{{IJCNLP}} 2021},
+  booktitle = {Findings of {{ACL}}-{{IJCNLP}} 2021},
   author = {González, Ana Valeria and Rogers, Anna and Søgaard, Anders},
   year = {2021},
   month = aug,
   pages = {2930--2942},
-  publisher = {{Association for Computational Linguistics}},
+  publisher = {{ACL}},
   address = {{Online}},
   url = {https://aclanthology.org/2021.findings-acl.259},
+  abstract = {A myriad of explainability methods have been proposed in recent years, but there is little consensus on how to evaluate them. While automatic metrics allow for quick benchmarking, it isn't clear how such metrics reflect human interaction with explanations. Human evaluation is of paramount importance, but previous protocols fail to account for belief biases affecting human performance, which may lead to misleading conclusions. We provide an overview of belief bias, its role in human evaluation, and ideas for NLP practitioners on how to account for it. For two experimental paradigms, we present a case study of gradient-based explainability introducing simple ways to account for humans' prior beliefs: models of varying quality and adversarial examples. We show that conclusions about the highest performing methods change when introducing such controls, pointing to the importance of accounting for belief bias in evaluation.},
   urldate = {2021-07-27}
 }
 
 @inproceedings{KovalevaKulshreshthaEtAl_2021_BERT_Busters_Outlier_Dimensions_that_Disrupt_Transformersa,
   title = {{{BERT Busters}}: {{Outlier Dimensions}} That {{Disrupt Transformers}}},
   shorttitle = {{{BERT Busters}}},
-  booktitle = {Findings of the {{Association}} for {{Computational Linguistics}}: {{ACL}}-{{IJCNLP}} 2021},
+  booktitle = {Findings of {{ACL}}-{{IJCNLP}} 2021},
   author = {Kovaleva, Olga and Kulshreshtha, Saurabh and Rogers, Anna and Rumshisky, Anna},
   year = {2021},
   month = aug,
   pages = {3392--3405},
-  publisher = {{Association for Computational Linguistics}},
+  publisher = {{ACL}},
   address = {{Online}},
-  doi = {10.18653/v1/2021.findings-acl.300},
+  blog = {https://text-machine-lab.github.io/blog/2021/busters},
   url = {https://aclanthology.org/2021.findings-acl.300},
+  abstract = {Multiple studies have shown that Transformers are remarkably robust to pruning. Contrary to this received wisdom, we demonstrate that pre-trained Transformer encoders are surprisingly fragile to the removal of a very small number of features in the layer outputs (<0.0001% of model weights). In case of BERT and other pre-trained encoder Transformers, the affected component is the scaling factors and biases in the LayerNorm. The outliers are high-magnitude normalization parameters that emerge early in pre-training and show up consistently in the same dimensional position throughout the model. We show that disabling them significantly degrades both the MLM loss and the downstream task performance. This effect is observed across several BERT-family models and other popular pre-trained Transformer architectures, including BART, XLNet and ELECTRA; we also show a similar effect in GPT-2.},
   urldate = {2021-08-11}
 }
 
@@ -34,7 +36,7 @@
   year = {2021},
   month = aug,
   pages = {2182--2194},
-  publisher = {{Association for Computational Linguistics}},
+  publisher = {{ACL}},
   address = {{Online}},
   url = {https://aclanthology.org/2021.acl-long.170},
   urldate = {2021-07-27},
@@ -81,7 +83,7 @@
   year = {2020},
   month = nov,
   pages = {1256--1262},
-  publisher = {{Association for Computational Linguistics}},
+  publisher = {{ACL}},
   address = {{Online}},
   url = {https://www.aclweb.org/anthology/2020.findings-emnlp.112/}
 }
@@ -157,7 +159,7 @@
   author = {Karpinska, Marzena and Li, Bofang and Rogers, Anna and Drozd, Aleksandr},
   year = {2018},
   pages = {28--37},
-  publisher = {{Association for Computational Linguistics}},
+  publisher = {{ACL}},
   address = {{Melbourne, Australia}},
   url = {http://aclweb.org/anthology/W18-2905},
   blog = {https://vecto.space/projects/jBATS/},
@@ -167,11 +169,11 @@
 
 @inproceedings{KovalevaRomanovEtAl_2019_Revealing_Dark_Secrets_of_BERT,
   title = {Revealing the {{Dark Secrets}} of {{BERT}}},
-  booktitle = {Proceedings of the 2019 {{Conference}} on {{Empirical Methods}} in {{Natural Language Processing}} and the 9th {{International Joint Conference}} on {{Natural Language Processing}} ({{EMNLP}}-{{IJCNLP}})},
+  booktitle = {Proceedings of {{EMNLP-IJCNLP}})},
   author = {Kovaleva, Olga and Romanov, Alexey and Rogers, Anna and Rumshisky, Anna},
   year = {2019},
   pages = {4356--4365},
-  publisher = {{Association for Computational Linguistics}},
+  publisher = {{ACL}},
   address = {{Hong Kong, China}},
   doi = {10.18653/v1/D19-1445},
   url = {https://www.aclweb.org/anthology/D19-1445},
@@ -201,16 +203,24 @@
   data = {https://vecto.readthedocs.io/en/docs/tutorial/getting\_vectors.html\#pre-trained-vsms}
 }
 
-@article{PrasannaRogersEtAl_2020_When_BERT_Plays_Lottery_All_Tickets_Are_Winning,
+
+@inproceedings{PrasannaRogersEtAl_2020_When_BERT_Plays_Lottery_All_Tickets_Are_Winning,
   title = {When {{BERT Plays}} the {{Lottery}}, {{All Tickets Are Winning}}},
+  booktitle = {Proceedings of {{EMNLP}}},
   author = {Prasanna, Sai and Rogers, Anna and Rumshisky, Anna},
   year = {2020},
-  url = {http://arxiv.org/abs/2005.00561},
+  month = nov,
+  eprint = {2005.00561},
+  eprinttype = {arxiv},
+  pages = {3208--3229},
+  publisher = {{ACL}},
+  address = {{Online}},
+  url = {https://www.aclweb.org/anthology/2020.emnlp-main.259/},
+  urldate = {2020-06-23},
   abstract = {Much of the recent success in NLP is due to the large Transformer-based models such as BERT (Devlin et al, 2019). However, these models have been shown to be reducible to a smaller number of self-attention heads and layers. We consider this phenomenon from the perspective of the lottery ticket hypothesis. For fine-tuned BERT, we show that (a) it is possible to find a subnetwork of elements that achieves performance comparable with that of the full model, and (b) similarly-sized subnetworks sampled from the rest of the model perform worse. However, the "bad" subnetworks can be fine-tuned separately to achieve only slightly worse performance than the "good" ones, indicating that most weights in the pre-trained BERT are potentially useful. We also show that the "good" subnetworks vary considerably across GLUE tasks, opening up the possibilities to learn what knowledge BERT actually uses at inference time.},
-  archivePrefix = {arXiv},
-  journal = {arXiv:2005.00561 [cs]},
-  primaryClass = {cs}
+  archiveprefix = {arXiv}
 }
+
 
 @phdthesis{Rogers_2017_Multilingual_computational_lexicography_frame_semantics_meets_distributional_semantics,
   title = {Multilingual Computational Lexicography: Frame Semantics Meets Distributional Semantics},
@@ -243,7 +253,7 @@
   author = {Rogers, Anna and Hosur Ananthakrishna, Shashwath and Rumshisky, Anna},
   year = {2018},
   pages = {2690--2703},
-  publisher = {{Association for Computational Linguistics}},
+  publisher = {{ACL}},
   address = {{Santa Fe, New Mexico, USA, August 20-26, 2018}},
   url = {http://aclweb.org/anthology/C18-1228},
   code = {http://ldtoolkit.space}
@@ -283,7 +293,6 @@
   eprinttype = {arxiv},
   pages = {842--866},
   publisher = {{MIT Press}},
-  doi = {10.1162/tacl_a_00349},
   url = {https://doi.org/10.1162/tacl_a_00349},
   urldate = {2021-01-26},
   abstract = {Transformer-based models have pushed state of the art in many areas of NLP, but our understanding of what is behind their success is still limited. This paper is the first survey of over 150 studies of the popular BERT model. We review the current state of knowledge about how BERT works, what kind of information it learns and how it is represented, common modifications to its training objectives and architecture, the overparameterization issue, and approaches to compression. We then outline directions for future research.},
@@ -297,7 +306,7 @@
   author = {Rogers, Anna and Romanov, Alexey and Rumshisky, Anna and Volkova, Svitlana and Gronas, Mikhail and Gribov, Alex},
   year = {2018},
   pages = {755--763},
-  publisher = {{Association for Computational Linguistics}},
+  publisher = {{ACL}},
   address = {{Santa Fe, New Mexico, USA}},
   url = {http://aclweb.org/anthology/C18-1064},
   code = {https://github.com/text-machine-lab/rusentiment\_baselines},
