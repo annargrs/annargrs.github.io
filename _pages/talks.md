@@ -7,6 +7,8 @@ permalink: /talks/
 
 ## 2021
 
+* **What we know about how BERT works**<br/> 
+* 27 October 2021: [Technical University of Denmark](https://www.dtu.dk/service/kalender/arrangement?id=4caa466a-c27a-4f75-8560-e014423678ef), [[SLIDES]](https://u.pcloud.link/publink/show?code=XZshhOXZpAIBba2nXvQwNj3Ukc9cvhkIK84V)
 * **Changing the world by changing the data**<br/>
   21 September 2021: oral talk at [Machine Learning for NLP](https://hopin.com/events/machine-learning-in-nlp-summit#speakers) (Toronto ML Series) [[SLIDES]](https://u.pcloud.link/publink/show?code=XZrR8tXZGy6cJte1mybjsXD5U3rVp7eNfnRk)
 * **Changing the world by changing the data**<br/>
