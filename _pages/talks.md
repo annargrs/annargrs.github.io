@@ -7,6 +7,14 @@ permalink: /talks/
 
 ## 2021
 
+* **Generalization in NLI: Ways (Not) To Go Beyond Simple Heuristics**<br/>
+  10 November 2021: presentation at [Workshop on Insights from Negative Results](https://insights-workshop.github.io/) co-located with EMNLP 2021
+* **Just what do you think you're doing, Dave?**<br/>
+  10 November 2021: presentation at [NLLP workshop](https://nllpw.org/) co-located with EMNLP 2021
+* **Changing the world by changing the data**<br/>
+  09 November 2021: invited talk at [Data-centric AI Day](https://www.data-centric-ai.com/) (France is AI) [[SLIDES]](https://u.pcloud.link/publink/show?code=XZFn4UXZECArXx1WDJ4twArWb401KyJ4PonX)
+* **Changing the world by changing the data**<br/>
+  09 November 2021: invited talk at [Data-centric AI Day](https://www.data-centric-ai.com/) (France is AI) [[SLIDES]](https://u.pcloud.link/publink/show?code=XZFn4UXZECArXx1WDJ4twArWb401KyJ4PonX)
 * **What we know about how BERT works**<br/> 
 * 27 October 2021: [Technical University of Denmark](https://www.dtu.dk/service/kalender/arrangement?id=4caa466a-c27a-4f75-8560-e014423678ef), [[SLIDES]](https://u.pcloud.link/publink/show?code=XZshhOXZpAIBba2nXvQwNj3Ukc9cvhkIK84V)
 * **Changing the world by changing the data**<br/>
