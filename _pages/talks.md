@@ -7,6 +7,8 @@ permalink: /talks/
 
 ## 2021
 
+* **BERTology nuggets: what we have learned about how BERT works** <br/>
+  15 December 2021: invited talk at [London Machine Learning Meetup](https://www.meetup.com/London-Machine-Learning-Meetup/), [[SLIDES]](https://u.pcloud.link/publink/show?code=XZRYtNXZPKAWDwhNefuSIGuOnHEQ68NlySDy)
 * **Generalization in NLI: Ways (Not) To Go Beyond Simple Heuristics**<br/>
   10 November 2021: presentation at [Workshop on Insights from Negative Results](https://insights-workshop.github.io/) co-located with EMNLP 2021
 * **Just what do you think you're doing, Dave?**<br/>
