@@ -34,6 +34,10 @@
     <button class="btn--success" onclick="window.location.href = '{{ entry.poster }}'">POSTER</button>
     {% endif %}
 
+    {% if entry.video %}
+    <button class="btn--success" onclick="window.location.href = '{{ entry.video }}'">VIDEO</button>
+    {% endif %}
+
     {% if entry.abstract %}
     <div class="abstract" id='{{ simpleKey }}'>{{ entry.abstract }}</div>
     {% endif %}

@@ -1,4 +1,19 @@
 
+@inproceedings{BhargavaDrozdEtAl_2021_Generalization_in_NLI_Ways_Not_To_Go_Beyond_Simple_Heuristics,
+  title = {Generalization in {{NLI}}: {{Ways}} ({{Not}}) {{To Go Beyond Simple Heuristics}}},
+  shorttitle = {Generalization in {{NLI}}},
+  booktitle = {Proceedings of the {{Second Workshop}} on {{Insights}} from {{Negative Results}} in {{NLP}}},
+  author = {Bhargava, Prajjwal and Drozd, Aleksandr and Rogers, Anna},
+  year = {2021},
+  month = nov,
+  pages = {125--135},
+  publisher = {{Association for Computational Linguistics}},
+  address = {{Online and Punta Cana, Dominican Republic}},
+  url = {https://aclanthology.org/2021.insights-1.18},
+  urldate = {2021-11-17},
+  abstract = {Much of recent progress in NLU was shown to be due to models' learning dataset-specific heuristics. We conduct a case study of generalization in NLI (from MNLI to the adversarially constructed HANS dataset) in a range of BERT-based architectures (adapters, Siamese Transformers, HEX debiasing), as well as with subsampling the data and increasing the model size. We report 2 successful and 3 unsuccessful strategies, all providing insights into how Transformer-based models learn to generalize.}
+}
+
 @inproceedings{GonzalezRogersEtAl_2021_On_Interaction_of_Belief_Bias_and_Explanations,
   title = {On the {{Interaction}} of {{Belief Bias}} and {{Explanations}}},
   booktitle = {Findings of {{ACL}}-{{IJCNLP}} 2021},
@@ -210,15 +225,13 @@
   author = {Prasanna, Sai and Rogers, Anna and Rumshisky, Anna},
   year = {2020},
   month = nov,
-  eprint = {2005.00561},
-  eprinttype = {arxiv},
   pages = {3208--3229},
   publisher = {{ACL}},
   address = {{Online}},
   url = {https://www.aclweb.org/anthology/2020.emnlp-main.259/},
   urldate = {2020-06-23},
   abstract = {Much of the recent success in NLP is due to the large Transformer-based models such as BERT (Devlin et al, 2019). However, these models have been shown to be reducible to a smaller number of self-attention heads and layers. We consider this phenomenon from the perspective of the lottery ticket hypothesis. For fine-tuned BERT, we show that (a) it is possible to find a subnetwork of elements that achieves performance comparable with that of the full model, and (b) similarly-sized subnetworks sampled from the rest of the model perform worse. However, the "bad" subnetworks can be fine-tuned separately to achieve only slightly worse performance than the "good" ones, indicating that most weights in the pre-trained BERT are potentially useful. We also show that the "good" subnetworks vary considerably across GLUE tasks, opening up the possibilities to learn what knowledge BERT actually uses at inference time.},
-  archiveprefix = {arXiv}
+  video = {https://slideslive.com/38939762/when-bert-plays-the-lottery-all-tickets-are-winning}
 }
 
 
