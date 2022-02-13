@@ -7,6 +7,8 @@ permalink: /talks/
 
 ## 2021
 
+* **Case Studies in BERTology: shallow heuristics or verbal reasoning?** <br/>
+  14 February 2022: invited talk at [Oslo Language Technology Group](https://www.mn.uio.no/ifi/english/research/groups/ltg/), [[SLIDES]](https://u.pcloud.link/publink/show?code=XZ6147VZpjVf8rdDQXjjKXNP8DH4P45Jfzf7)
 * **BERTology nuggets: what we have learned about how BERT works** <br/>
   15 December 2021: invited talk at [London Machine Learning Meetup](https://www.meetup.com/London-Machine-Learning-Meetup/), [[SLIDES]](https://u.pcloud.link/publink/show?code=XZRYtNXZPKAWDwhNefuSIGuOnHEQ68NlySDy)
 * **Generalization in NLI: Ways (Not) To Go Beyond Simple Heuristics**<br/>
