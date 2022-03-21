@@ -5,30 +5,39 @@ title: Selected Talks
 permalink: /talks/
 ---
 
-## 2021
+## 2022
 
 * **Case Studies in BERTology: shallow heuristics or verbal reasoning?** <br/>
-  14 February 2022: invited talk at [Oslo Language Technology Group](https://www.mn.uio.no/ifi/english/research/groups/ltg/), [[SLIDES]](https://u.pcloud.link/publink/show?code=XZ6147VZpjVf8rdDQXjjKXNP8DH4P45Jfzf7)
-* **BERTology nuggets: what we have learned about how BERT works** <br/>
+  14 February 2022: invited talk at [Oslo Language Technology Group](https://www.mn.uio.no/ifi/english/research/groups/ltg/research-seminar/), [[SLIDES]](https://u.pcloud.link/publink/show?code=XZ6147VZpjVf8rdDQXjjKXNP8DH4P45Jfzf7)
+
+## 2021
+
+* **BERTology nuggets** <br/>
   15 December 2021: invited talk at [London Machine Learning Meetup](https://www.meetup.com/London-Machine-Learning-Meetup/), [[SLIDES]](https://u.pcloud.link/publink/show?code=XZRYtNXZPKAWDwhNefuSIGuOnHEQ68NlySDy)
+* **The Peer Review Process and Widening NLP**<br/>
+  11 November 2021: Panel with Bahar Mehmani and Cecilia Superchi at [Widening NLP](http://www.winlp.org/winlp-emnlp-2021/) (co-located with EMNLP 2021)
 * **Generalization in NLI: Ways (Not) To Go Beyond Simple Heuristics**<br/>
   10 November 2021: presentation at [Workshop on Insights from Negative Results](https://insights-workshop.github.io/) co-located with EMNLP 2021
 * **Just what do you think you're doing, Dave?**<br/>
   10 November 2021: presentation at [NLLP workshop](https://nllpw.org/) co-located with EMNLP 2021
 * **Changing the world by changing the data**<br/>
   09 November 2021: invited talk at [Data-centric AI Day](https://www.data-centric-ai.com/) (France is AI) [[SLIDES]](https://u.pcloud.link/publink/show?code=XZFn4UXZECArXx1WDJ4twArWb401KyJ4PonX)
-* **Changing the world by changing the data**<br/>
-  09 November 2021: invited talk at [Data-centric AI Day](https://www.data-centric-ai.com/) (France is AI) [[SLIDES]](https://u.pcloud.link/publink/show?code=XZFn4UXZECArXx1WDJ4twArWb401KyJ4PonX)
 * **What we know about how BERT works**<br/> 
-* 27 October 2021: [Technical University of Denmark](https://www.dtu.dk/service/kalender/arrangement?id=4caa466a-c27a-4f75-8560-e014423678ef), [[SLIDES]](https://u.pcloud.link/publink/show?code=XZshhOXZpAIBba2nXvQwNj3Ukc9cvhkIK84V)
+* 27 October 2021: invited talk at [Technical University of Denmark](https://www.dtu.dk/service/kalender/arrangement?id=4caa466a-c27a-4f75-8560-e014423678ef), [[SLIDES]](https://u.pcloud.link/publink/show?code=XZshhOXZpAIBba2nXvQwNj3Ukc9cvhkIK84V)
+* **Panel Discussion on Trustworthy NLP (Google)**<br/>
+  13 October 2021: Panel with Kellie Webster and Hannach Wallach at Google's [Trustworthy NLP Workshop](https://events.withgoogle.com/trustworthy-nlp-workshop-2021/)
 * **Changing the world by changing the data**<br/>
-  21 September 2021: oral talk at [Machine Learning for NLP](https://hopin.com/events/machine-learning-in-nlp-summit#speakers) (Toronto ML Series) [[SLIDES]](https://u.pcloud.link/publink/show?code=XZrR8tXZGy6cJte1mybjsXD5U3rVp7eNfnRk)
+  21 September 2021: invited talk at [Machine Learning for NLP](https://hopin.com/events/machine-learning-in-nlp-summit#speakers) (Toronto ML Series) [[SLIDES]](https://u.pcloud.link/publink/show?code=XZrR8tXZGy6cJte1mybjsXD5U3rVp7eNfnRk)
 * **Changing the world by changing the data**<br/>
   3 August 2021: oral talk at ACL 2021 [[SLIDES]](https://u.pcloud.link/publink/show?code=XZkiIxXZRHfXWjEPnUVsNrbStQUY8mxj2qYk)
+* **Reviewing Natural Language Processing research.** <br/>
+  29 June 2021: tutorial at [TALN 2021](https://talnrecital2021.inria.fr/relire/) (with Kevin Cohen, Karën Fort, Margot Mieskes and Aurélie Névéol)
 * **A primer in BERTology: what we know about how BERT works** <br/>
-June 17 2021: invited talk at [L3-AI](https://l3-ai.dev/) [[SLIDES]](https://u.pcloud.link/publink/show?code=XZ7JsTXZxkfM84V2cVHyAWvPJdrhNR9NIRY7)  
+  June 17 2021: invited talk at [L3-AI](https://l3-ai.dev/) [[SLIDES]](https://u.pcloud.link/publink/show?code=XZ7JsTXZxkfM84V2cVHyAWvPJdrhNR9NIRY7)
+* **A primer in BERTology: what we know about how BERT works** <br/>
+  June 8 2021: presentation at [NAACL 2021](https://2021.naacl.org/) [[SLIDES]](https://u.pcloud.link/publink/show?code=XZ7JsTXZxkfM84V2cVHyAWvPJdrhNR9NIRY7)  
 * **The quest for difficult benchmarks in question answering and reading comprehension.** <br/> 
-7 May 2021: LTI Colloquium at Carnegie Mellon University [[URL]](https://lti.cs.cmu.edu/lti-colloquium) [[SLIDES]](https://u.pcloud.link/publink/show?code=XZKfheXZTrUhvUYVniQvyXFwq6nePjFw7RMk)
+  7 May 2021: invited talk at LTI Colloquium at Carnegie Mellon University [[URL]](https://lti.cs.cmu.edu/lti-colloquium) [[SLIDES]](https://u.pcloud.link/publink/show?code=XZKfheXZTrUhvUYVniQvyXFwq6nePjFw7RMk)
 * **Reviewing Natural Language Processing research.** <br/>
   20 April 2021: tutorial at [EACL 2021](https://github.com/reviewingNLP/EACL2021T5) (with Kevin Cohen, Karën Fort, Margot Mieskes and Aurélie Névéol)
 
