@@ -8,6 +8,8 @@ permalink: /talks/
 ## 2022
 
 * **Challenges in defining and testing machine verbal reasoning skills** <br/>
+  11 April 2022: invited talk at [AMORE Mini-workshop on Referential Information in Deep Learning Models](https://www.upf.edu/web/amore/events/-/asset_publisher/fZ5EKyUIWYDK/content/id/256963087/maximized) (Universistat Pompeu Fabra, Barcelona)
+* **Challenges in defining and testing machine verbal reasoning skills** <br/>
   31 March 2022: invited talk at [Stanford NLP Group](https://nlp.stanford.edu/seminar), [[SLIDES]](https://u.pcloud.link/publink/show?code=XZeAj5VZubw6VuWs80fJsvoP0vSWNh4EtF0X)
 * **Case Studies in BERTology: shallow heuristics or verbal reasoning?** <br/>
   14 February 2022: invited talk at [Oslo Language Technology Group](https://www.mn.uio.no/ifi/english/research/groups/ltg/research-seminar/), [[SLIDES]](https://u.pcloud.link/publink/show?code=XZ6147VZpjVf8rdDQXjjKXNP8DH4P45Jfzf7)
