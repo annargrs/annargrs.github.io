@@ -7,6 +7,10 @@ permalink: /talks/
 
 ## 2022
 
+* **When does a machine "understand" what it "reads"?** <br/>
+  June 17 2022: keynote at [CLIN 2022](https://clin2022.uvt.nl/clin32/programme/), Tilburg, Netherlands
+* **When does a machine "understand" what it "reads"?** <br/>
+  April 29 2022: invited talk at the University of Edinburgh
 * **Challenges in defining and testing machine verbal reasoning skills** <br/>
   11 April 2022: invited talk at [AMORE Mini-workshop on Referential Information in Deep Learning Models](https://www.upf.edu/web/amore/events/-/asset_publisher/fZ5EKyUIWYDK/content/id/256963087/maximized) (Universistat Pompeu Fabra, Barcelona)
 * **Challenges in defining and testing machine verbal reasoning skills** <br/>
