@@ -7,6 +7,8 @@ permalink: /talks/
 
 ## 2022
 
+* **efining and testing reading comprehension "skills"** <br/>
+  July 4 2022: invited talk at the [Workshop on Ten Years of BabelNet and Multilingual Neurosymbolic Natural Language Understanding](http://mousse-project.org/events/event-a5f3r5.html), [[SLIDES]](https://u.pcloud.link/publink/show?code=XZOcJ4VZt6ROLOfKsTuEriJvxAiUj7uV2gKV)
 * **When does a machine "understand" what it "reads"?** <br/>
   June 17 2022: keynote at [CLIN 2022](https://clin2022.uvt.nl/clin32/programme/), Tilburg, Netherlands
 * **When does a machine "understand" what it "reads"?** <br/>
