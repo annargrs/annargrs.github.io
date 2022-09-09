@@ -7,6 +7,8 @@ permalink: /talks/
 
 ## 2022
 
+* **When does a machine "understand" what it "reads"?**
+  September 9 2022: Keynote at the [25th International Conference on Text, Speech and Dialogue (TSD)](https://www.tsdconference.org/tsd2022/conf_inv_sp.html), [[SLIDES]](https://u.pcloud.link/publink/show?code=XZOjtbVZm729yQ2EKUH2O7KQBL5hWHkUNXm7)
 * **What kinds of questions have we been asking? A taxonomy for QA/RC benchmarks**
   July 14 2022: invited talk at the [The First Workshop on Dynamic Adversarial Data Collection (DADC)](https://dadcworkshop.github.io/), [[SLIDES]](https://u.pcloud.link/publink/show?code=XZVWo4VZ1dPUMFmh3EByFdhb6FbJ10Ryjvny)
 * **Defining and testing reading comprehension "skills"** <br/> 
