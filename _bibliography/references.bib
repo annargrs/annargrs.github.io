@@ -1,3 +1,18 @@
+@inproceedings{ray-choudhury-etal-2022-machine,
+    title = "Machine Reading, Fast and Slow: When Do Models {``}Understand{''} Language?",
+    author = "Ray Choudhury, Sagnik  and
+      Rogers, Anna  and
+      Augenstein, Isabelle",
+    booktitle = "Proceedings of the 29th International Conference on Computational Linguistics",
+    month = oct,
+    year = "2022",
+    address = "Gyeongju, Republic of Korea",
+    publisher = "International Committee on Computational Linguistics",
+    url = "https://aclanthology.org/2022.coling-1.8",
+    pages = "78--93",
+    abstract = "Two of the most fundamental issues in Natural Language Understanding (NLU) at present are: (a) how it can established whether deep learning-based models score highly on NLU benchmarks for the {''}right{''} reasons; and (b) what those reasons would even be. We investigate the behavior of reading comprehension models with respect to two linguistic {''}skills{''}: coreference resolution and comparison. We propose a definition for the reasoning steps expected from a system that would be {''}reading slowly{''}, and compare that with the behavior of five models of the BERT family of various sizes, observed through saliency scores and counterfactual explanations. We find that for comparison (but not coreference) the systems based on larger encoders are more likely to rely on the {''}right{''} information, but even they struggle with generalization, suggesting that they still learn specific lexical patterns rather than the general principles of comparison.",
+}
+
 @inproceedings{thorn-jakobsen-rogers-2022-factors,
     title = "What Factors Should Paper-Reviewer Assignments Rely On? Community Perspectives on Issues and Ideals in Conference Peer-Review",
     author = "Thorn Jakobsen, Terne  and Rogers, Anna",
@@ -11,17 +26,26 @@
     abstract = "Both scientific progress and individual researcher careers depend on the quality of peer review, which in turn depends on paper-reviewer matching. Surprisingly, this problem has been mostly approached as an automated recommendation problem rather than as a matter where different stakeholders (area chairs, reviewers, authors) have accumulated experience worth taking into account. We present the results of the first survey of the NLP community, identifying common issues and perspectives on what factors should be considered by paper-reviewer matching systems. This study contributes actionable recommendations for improving future NLP conferences, and desiderata for interpretable peer review assignments.",
 }
 
-@misc{https://doi.org/10.48550/arxiv.2205.11380,
+@inproceedings{puccetti2022,
   doi = {10.48550/ARXIV.2205.11380},
+  booktitle = "Findings of EMNLP 2022 (to appear)",
   url = {https://arxiv.org/abs/2205.11380},
   author = {Puccetti, Giovanni and Rogers, Anna and Drozd, Aleksandr and Dell'Orletta, Felice},
   title = {Outliers Dimensions that Disrupt Transformers Are Driven by Frequency},
-  publisher = {arXiv},
+  publisher = "Association for Computational Linguistics",
+  url = "https://aclanthology.org/2022.naacl-main.354",
   year = {2022},
   abstract = {
 Transformer-based language models are known to display anisotropic behavior: the token embeddings are not homogeneously spread in space, but rather accumulate along certain directions. A related recent finding is the outlier phenomenon: the parameters in the final element of Transformer layers that consistently have unusual magnitude in the same dimension across the model, and significantly degrade its performance if disabled. We replicate the evidence for the outlier phenomenon and we link it to the geometry of the embedding space. Our main finding is that in both BERT and RoBERTa the token frequency, known to contribute to anisotropicity, also contributes to the outlier phenomenon. In its turn, the outlier phenomenon contributes to the "vertical" self-attention pattern that enables the model to focus on the special tokens. We also find that, surprisingly, the outlier effect on the model performance varies by layer, and that variance is also related to the correlation between outlier magnitude and encoded token frequency.}
 }
 
+@inproceedings{laurencon2022the,
+title={The BigScience {ROOTS} Corpus: A 1.6{TB} Composite Multilingual Dataset},
+author={Hugo Lauren{\c{c}}on and Lucile Saulnier and Thomas Wang and Christopher Akiki and Albert Villanova del Moral and Teven Le Scao and Leandro Von Werra and Chenghao Mou and Eduardo Gonz{\'a}lez Ponferrada and Huu Nguyen and J{\"o}rg Frohberg and Mario {\v{S}}a{\v{s}}ko and Quentin Lhoest and Angelina McMillan-Major and G{\'e}rard Dupont and Stella Biderman and Anna Rogers and Loubna Ben allal and Francesco De Toni and Giada Pistilli and Olivier Nguyen and Somaieh Nikpoor and Maraim Masoud and Pierre Colombo and Javier de la Rosa and Paulo Villegas and Tristan Thrush and Shayne Longpre and Sebastian Nagel and Leon Weber and Manuel Romero Mu{\~n}oz and Jian Zhu and Daniel Van Strien and Zaid Alyafeai and Khalid Almubarak and Vu Minh Chien and Itziar Gonzalez-Dios and Aitor Soroa and Kyle Lo and Manan Dey and Pedro Ortiz Suarez and Aaron Gokaslan and Shamik Bose and David Ifeoluwa Adelani and Long Phan and Hieu Tran and Ian Yu and Suhas Pai and Jenny Chim and Violette Lepercq and Suzana Ilic and Margaret Mitchell and Sasha Luccioni and Yacine Jernite},
+booktitle={Thirty-sixth Conference on Neural Information Processing Systems Datasets and Benchmarks Track},
+year={2022},
+url={https://openreview.net/forum?id=UoEw6KigkUn}
+}
 
 @inproceedings{JerniteNguyenEtAl_2022_Data_Governance_in_Age_of_Large-Scale_Data-Driven_Language_Technology,
   title = {Data {{Governance}} in the {{Age}} of {{Large-Scale Data-Driven Language Technology}}},
@@ -116,16 +140,11 @@ Transformer-based language models are known to display anisotropic behavior: the
   title = {{{QA Dataset Explosion}}: {{A Taxonomy}} of {{NLP Resources}} for {{Question Answering}} and {{Reading Comprehension}}},
   shorttitle = {{{QA Dataset Explosion}}},
   author = {Rogers, Anna and Gardner, Matt and Augenstein, Isabelle},
-  year = {2021},
-  month = jul,
-  journal = {to appear in ACM CSUR},
-  eprint = {2107.12708},
-  eprinttype = {arxiv},
-  primaryclass = {cs},
-  url = {http://arxiv.org/abs/2107.12708},
-  urldate = {2021-07-28},
-  abstract = {Alongside huge volumes of research on deep learning models in NLP in the recent years, there has been also much work on benchmark datasets needed to track modeling progress. Question answering and reading comprehension have been particularly prolific in this regard, with over 80 new datasets appearing in the past two years. This study is the largest survey of the field to date. We provide an overview of the various formats and domains of the current resources, highlighting the current lacunae for future work. We further discuss the current classifications of ``reasoning types" in question answering and propose a new taxonomy. We also discuss the implications of over-focusing on English, and survey the current monolingual resources for other languages and multilingual resources. The study is aimed at both practitioners looking for pointers to the wealth of existing data, and at researchers working on new resources.},
-  archiveprefix = {arXiv}
+  year = {2022},
+  month = aug,
+  journal = {ACM CSUR},
+  doi = {https://doi.org/10.1145/3560260},
+  abstract = {Alongside huge volumes of research on deep learning models in NLP in the recent years, there has been also much work on benchmark datasets needed to track modeling progress. Question answering and reading comprehension have been particularly prolific in this regard, with over 80 new datasets appearing in the past two years. This study is the largest survey of the field to date. We provide an overview of the various formats and domains of the current resources, highlighting the current lacunae for future work. We further discuss the current classifications of ``reasoning types" in question answering and propose a new taxonomy. We also discuss the implications of over-focusing on English, and survey the current monolingual resources for other languages and multilingual resources. The study is aimed at both practitioners looking for pointers to the wealth of existing data, and at researchers working on new resources.}
 }
 
 
