@@ -3,7 +3,7 @@ branches:
   only:
   - gh-pages
 rvm:
-- 2.3.1
+- 3.2.0
 install:
 - rm Gemfile.lock
 - bundle install
