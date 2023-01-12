@@ -9,7 +9,7 @@
   eprinttype = {arxiv},
   primaryclass = {cs},
   publisher = arXiv,
-  doi = {10.48550/arXiv.2211.05100},
+  url = {10.48550/arXiv.2211.05100},
   abstract = {Large language models (LLMs) have been shown to be able to perform new tasks based on a few demonstrations or natural language instructions. While these capabilities have led to widespread adoption, most LLMs are developed by resource-rich organizations and are frequently kept from the public. As a step towards democratizing this powerful technology, we present BLOOM, a 176B-parameter open-access language model designed and built thanks to a collaboration of hundreds of researchers. BLOOM is a decoder-only Transformer language model that was trained on the ROOTS corpus, a dataset comprising hundreds of sources in 46 natural and 13 programming languages (59 in total). We find that BLOOM achieves competitive performance on a wide variety of benchmarks, with stronger results after undergoing multitask prompted finetuning. To facilitate future research and applications using LLMs, we publicly release our models and code under the Responsible AI License.},
   archiveprefix = {arXiv}
 }
@@ -48,16 +48,18 @@
     booktitle = "Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies",
     month = jul,
     year = "2022",
+    video={https://aclanthology.org/2022.naacl-main.354.mp4},
     address = "Seattle, United States",
     publisher = "Association for Computational Linguistics",
     url = "https://aclanthology.org/2022.naacl-main.354",
     pages = "4810--4823",
+    data = {https://github.com/terne/Paper-Reviewer-Matching-Surveys},
     abstract = "Both scientific progress and individual researcher careers depend on the quality of peer review, which in turn depends on paper-reviewer matching. Surprisingly, this problem has been mostly approached as an automated recommendation problem rather than as a matter where different stakeholders (area chairs, reviewers, authors) have accumulated experience worth taking into account. We present the results of the first survey of the NLP community, identifying common issues and perspectives on what factors should be considered by paper-reviewer matching systems. This study contributes actionable recommendations for improving future NLP conferences, and desiderata for interpretable peer review assignments.",
 }
 
 @inproceedings{puccetti2022,
   doi = {10.48550/ARXIV.2205.11380},
-  booktitle = "Findings of EMNLP 2022 (to appear)",
+  booktitle = "Findings of EMNLP 2022",
   url = {https://arxiv.org/abs/2205.11380},
   author = {Puccetti, Giovanni and Rogers, Anna and Drozd, Aleksandr and Dell'Orletta, Felice},
   title = {Outliers Dimensions that Disrupt Transformers Are Driven by Frequency},
@@ -79,6 +81,7 @@ Transformer-based language models are known to display anisotropic behavior: the
   publisher = {{Association for Computing Machinery}},
   address = {{New York, NY, USA}},
   doi = {10.1145/3531146.3534637},
+  url={https://dl.acm.org/doi/10.1145/3531146.3534637},
   abstract = {The recent emergence and adoption of Machine Learning technology, and specifically of Large Language Models, has drawn attention to the need for systematic and transparent management of language data. This work proposes an approach to global language data governance that attempts to organize data management amongst stakeholders, values, and rights. Our proposal is informed by prior work on distributed governance that accounts for human values and grounded by an international research collaboration that brings together researchers and practitioners from 60 countries. The framework we present is a multi-party international governance structure focused on language data, and incorporating technical and organizational tools needed to support its work.},
   isbn = {978-1-4503-9352-2}
 }
@@ -95,6 +98,7 @@ Transformer-based language models are known to display anisotropic behavior: the
   address = {{Online and Punta Cana, Dominican Republic}},
   url = {https://aclanthology.org/2021.insights-1.18},
   urldate = {2021-11-17},
+  video={https://aclanthology.org/2021.insights-1.18.mp4},
   abstract = {Much of recent progress in NLU was shown to be due to models' learning dataset-specific heuristics. We conduct a case study of generalization in NLI (from MNLI to the adversarially constructed HANS dataset) in a range of BERT-based architectures (adapters, Siamese Transformers, HEX debiasing), as well as with subsampling the data and increasing the model size. We report 2 successful and 3 unsuccessful strategies, all providing insights into how Transformer-based models learn to generalize.}
 }
 
@@ -123,6 +127,7 @@ Transformer-based language models are known to display anisotropic behavior: the
   publisher = {{ACL}},
   address = {{Online}},
   blog = {https://text-machine-lab.github.io/blog/2021/busters},
+  video={https://aclanthology.org/2021.findings-acl.300.mp4},
   url = {https://aclanthology.org/2021.findings-acl.300},
   abstract = {Multiple studies have shown that Transformers are remarkably robust to pruning. Contrary to this received wisdom, we demonstrate that pre-trained Transformer encoders are surprisingly fragile to the removal of a very small number of features in the layer outputs (<0.0001% of model weights). In case of BERT and other pre-trained encoder Transformers, the affected component is the scaling factors and biases in the LayerNorm. The outliers are high-magnitude normalization parameters that emerge early in pre-training and show up consistently in the same dimensional position throughout the model. We show that disabling them significantly degrades both the MLM loss and the downstream task performance. This effect is observed across several BERT-family models and other popular pre-trained Transformer architectures, including BART, XLNet and ELECTRA; we also show a similar effect in GPT-2.},
   urldate = {2021-08-11}
@@ -139,13 +144,13 @@ Transformer-based language models are known to display anisotropic behavior: the
   address = {{Online}},
   url = {https://aclanthology.org/2021.acl-long.170},
   urldate = {2021-07-27},
+  video = {https://aclanthology.org/2021.acl-long.170.mp4},
   abstract = {NLP community is currently investing a lot more research and resources into development of deep learning models than training data. While we have made a lot of progress, it is now clear that our models learn all kinds of spurious patterns, social biases, and annotation artifacts. Algorithmic solutions have so far had limited success. An alternative that is being actively discussed is more careful design of datasets so as to deliver specific signals. This position paper maps out the arguments for and against data curation, and argues that fundamentally the point is moot: curation already is and will be happening, and it is changing the world. The question is only how much thought we want to invest into that process.}
 }
 
 
-@inproceedings{RogersBaldwinEtAl_2021_`Just_What_do_You_Think_Youre_Doing_Dave_Checklist_for_Responsible_Data_Use_in_NLPa,
-  title = {`{{Just What}} Do {{You Think You}}'re {{Doing}}, {{Dave}}?' {{A Checklist}} for {{Responsible Data Use}} in {{NLP}}},
-  shorttitle = {`{{Just What}} Do {{You Think You}}'re {{Doing}}, {{Dave}}?},
+@inproceedings{RogersBaldwinEtAl_2021_Just_What_do_You_Think_Youre_Doing_Dave_Checklist_for_Responsible_Data_Use_in_NLP,
+  title = {{{Just What}} Do {{You Think You}}'re {{Doing}}, {{Dave}}? {{A Checklist}} for {{Responsible Data Use}} in {{NLP}}},
   booktitle = {Findings of the {{Association}} for {{Computational Linguistics}}: {{EMNLP}} 2021},
   author = {Rogers, Anna and Baldwin, Timothy and Leins, Kobi},
   year = {2021},
@@ -154,6 +159,8 @@ Transformer-based language models are known to display anisotropic behavior: the
   publisher = {{Association for Computational Linguistics}},
   address = {{Punta Cana, Dominican Republic}},
   doi = {10.18653/v1/2021.findings-emnlp.414},
+  url= {https://aclanthology.org/2021.findings-emnlp.414/},
+  video = {https://aclanthology.org/2021.findings-emnlp.414.mp4},
   abstract = {A key part of the NLP ethics movement is responsible use of data, but exactly what that means or how it can be best achieved remain unclear. This position paper discusses the core legal and ethical principles for collection and sharing of textual data, and the tensions between them. We propose a potential checklist for responsible data (re-)use that could both standardise the peer review of conference submissions, as well as enable a more in-depth view of published research across the community. Our proposal aims to contribute to the development of a consistent standard for data (re-)use, embraced across NLP conferences.}
 }
 
@@ -165,12 +172,14 @@ Transformer-based language models are known to display anisotropic behavior: the
   month = aug,
   journal = {ACM CSUR},
   doi = {https://doi.org/10.1145/3560260},
+  url = {https://arxiv.org/abs/2107.12708},
   abstract = {Alongside huge volumes of research on deep learning models in NLP in the recent years, there has been also much work on benchmark datasets needed to track modeling progress. Question answering and reading comprehension have been particularly prolific in this regard, with over 80 new datasets appearing in the past two years. This study is the largest survey of the field to date. We provide an overview of the various formats and domains of the current resources, highlighting the current lacunae for future work. We further discuss the current classifications of ``reasoning types" in question answering and propose a new taxonomy. We also discuss the implications of over-focusing on English, and survey the current monolingual resources for other languages and multilingual resources. The study is aimed at both practitioners looking for pointers to the wealth of existing data, and at researchers working on new resources.}
 }
 
 
 @inproceedings{RogersAugenstein_2020_What_Can_We_Do_to_Improve_Peer_Review_in_NLP,
   title = {What {{Can We Do}} to {{Improve Peer Review}} in {{NLP}}?},
+  abstract = {Peer review is our best tool for judging the quality of conference submissions, but it is becoming increasingly spurious. We argue that a part of the problem is that the reviewers and area chairs face a poorly defined task forcing apples-to-oranges comparisons. There are several potential ways forward, but the key difficulty is creating the incentives and mechanisms for their consistent implementation in the NLP community.},
   booktitle = {Findings of {{EMNLP}}},
   author = {Rogers, Anna and Augenstein, Isabelle},
   year = {2020},
@@ -254,6 +263,7 @@ Transformer-based language models are known to display anisotropic behavior: the
   pages = {28--37},
   publisher = {{ACL}},
   address = {{Melbourne, Australia}},
+  abstract={Languages with logographic writing systems present a difficulty for traditional character-level models. Leveraging the subcharacter information was recently shown to be beneficial for a number of intrinsic and extrinsic tasks in Chinese. We examine whether the same strategies could be applied for Japanese, and contribute a new analogy dataset for this language.},
   url = {http://aclweb.org/anthology/W18-2905},
   blog = {https://vecto.space/projects/jBATS/},
   code = {https://vecto.space/projects/jBATS/},
@@ -293,6 +303,7 @@ Transformer-based language models are known to display anisotropic behavior: the
   pages = {2411--2421},
   address = {{Copenhagen, Denmark, September 7\textendash 11, 2017}},
   url = {http://aclweb.org/anthology/D17-1257},
+  abstract={The number of word embedding models is growing every year. Most of them are based on the co-occurrence information of words and their contexts. However, it is still an open question what is the best definition of context. We provide a systematical investigation of 4 different syntactic context types and context representations for learning word embeddings. Comprehensive experiments are conducted to evaluate their effectiveness on 6 extrinsic and intrinsic tasks. We hope that this paper, along with the published code, would be helpful for choosing the best context type and representation for a given task.},
   data = {https://vecto.readthedocs.io/en/docs/tutorial/getting\_vectors.html\#pre-trained-vsms}
 }
 
@@ -319,6 +330,7 @@ Transformer-based language models are known to display anisotropic behavior: the
   year = {2017},
   address = {{Tokyo}},
   school = {University of Tokyo},
+  url = {https://core.ac.uk/reader/228323707},
   type = {Ph.{{D}}. Dissertation}
 }
 
@@ -328,7 +340,8 @@ Transformer-based language models are known to display anisotropic behavior: the
   author = {Rogers, Anna and Drozd, Aleksandr and Li, Bofang},
   year = {2017},
   pages = {135--148},
-  url = {http://www.aclweb.org/anthology/S17-1017}
+  url = {http://www.aclweb.org/anthology/S17-1017},
+  abstract={This paper explores the possibilities of analogical reasoning with vector space models. Given two pairs of words with the same relation (e.g. man:woman :: king:queen), it was proposed that the offset between one pair of the corresponding word vectors can be used to identify the unknown member of the other pair (king - man + woman = queen). We argue against such “linguistic regularities” as a model for linguistic relations in vector space models and as a benchmark, and we show that the vector offset (as well as two other, better-performing methods) suffers from dependence on vector similarity.},
 }
 
 @book{RogersDrozdEtAl_2019_Proceedings_of_3rd_Workshop_on_Evaluating_Vector_Space_Representations_for_NLP,
@@ -345,6 +358,7 @@ Transformer-based language models are known to display anisotropic behavior: the
   year = {2018},
   pages = {2690--2703},
   publisher = {{ACL}},
+  abstract={Attempts to find a single technique for general-purpose intrinsic evaluation of word embeddings have so far not been successful. We present a new approach based on scaled-up qualitative analysis of word vector neighborhoods that quantifies interpretable characteristics of a given model (e.g. its preference for synonyms or shared morphological forms as nearest neighbors). We analyze 21 such factors and show how they correlate with performance on 14 extrinsic and intrinsic task datasets (and also explain the lack of correlation between some of them). Our approach enables multi-faceted evaluation, parameter search, and generally – a more principled, hypothesis-driven approach to development of distributional semantic representations.},
   address = {{Santa Fe, New Mexico, USA, August 20-26, 2018}},
   url = {http://aclweb.org/anthology/C18-1228},
   code = {http://ldtoolkit.space}
@@ -355,6 +369,7 @@ Transformer-based language models are known to display anisotropic behavior: the
   booktitle = {{{EMNLP}}-{{IJCNLP}} 2019 {{Second Workshop}} on {{Natural Language Processing}} for {{Internet Freedom}}},
   author = {Rogers, Anna and Kovaleva, Olga and Rumshisky, Anna},
   year = {2019},
+  abstract = {Calls to action on social media are known to be effective means of mobilization in social movements, and a frequent target of censorship. We investigate the possibility of their automatic detection and their potential for predicting real-world protest events, on historical data of Bolotnaya protests in Russia (2011-2013). We find that political calls to action can be annotated and detected with relatively high accuracy, and that in our sample their volume has a moderate positive correlation with rally attendance.},
   url = {https://www.aclweb.org/anthology/D19-5005}
 }
 
@@ -387,7 +402,7 @@ Transformer-based language models are known to display anisotropic behavior: the
   url = {https://doi.org/10.1162/tacl_a_00349},
   urldate = {2021-01-26},
   abstract = {Transformer-based models have pushed state of the art in many areas of NLP, but our understanding of what is behind their success is still limited. This paper is the first survey of over 150 studies of the popular BERT model. We review the current state of knowledge about how BERT works, what kind of information it learns and how it is represented, common modifications to its training objectives and architecture, the overparameterization issue, and approaches to compression. We then outline directions for future research.},
-  archiveprefix = {arXiv}
+  video = {https://aclanthology.org/2020.tacl-1.54.mp4}
 }
 
 @inproceedings{RogersRomanovEtAl_2018_RuSentiment_Enriched_Sentiment_Analysis_Dataset_for_Social_Media_in_Russian,
@@ -399,6 +414,7 @@ Transformer-based language models are known to display anisotropic behavior: the
   pages = {755--763},
   publisher = {{ACL}},
   address = {{Santa Fe, New Mexico, USA}},
+  abstract={This paper presents RuSentiment, a new dataset for sentiment analysis of social media posts in Russian, and a new set of comprehensive annotation guidelines that are extensible to other languages. RuSentiment is currently the largest in its class for Russian, with 31,185 posts annotated with Fleiss’ kappa of 0.58 (3 annotations per post). To diversify the dataset, 6,950 posts were pre-selected with an active learning-style strategy. We report baseline classification results, and we also release the best-performing embeddings trained on 3.2B tokens of Russian VKontakte posts.},
   url = {http://aclweb.org/anthology/C18-1064},
   code = {https://github.com/text-machine-lab/rusentiment\_baselines},
   data = {http://text-machine.cs.uml.edu/lab2/projects/rusentiment/},
@@ -421,10 +437,15 @@ Transformer-based language models are known to display anisotropic behavior: the
   title = {Adversarial {{Decomposition}} of {{Text Representation}}},
   booktitle = {Proceedings of the 2019 {{Conference}} of the {{North American Chapter}} of the {{Association}} for {{Computational Linguistics}}: {{Human Language Technologies}}, {{Volume}} 1 ({{Long}} and {{Short Papers}})},
   author = {Romanov, Alexey and Rumshisky, Anna and Rogers, Anna and Donahue, David},
+  abstract = {In this paper, we present a method for adversarial decomposition of text representation. This method can be used to decompose a representation of an input sentence into several independent vectors, each of them responsible for a specific aspect of the input sentence. We evaluate the proposed method on two case studies: the conversion between different social registers and diachronic language change. We show that the proposed method is capable of fine-grained controlled change of these aspects of the input sentence. It is also learning a continuous (rather than categorical) representation of the style of the sentence, which is more linguistically realistic. The model uses adversarial-motivational training and includes a special motivational loss, which acts opposite to the discriminator and encourages a better decomposition. Furthermore, we evaluate the obtained meaning embeddings on a downstream task of paraphrase detection and show that they significantly outperform the embeddings of a regular autoencoder.},
   year = {2019},
+  month = jun,
   pages = {815--825},
-  url = {https://aclweb.org/anthology/papers/N/N19/N19-1088/}
+  url = {https://aclweb.org/anthology/papers/N/N19/N19-1088/},
+  urldate = {2019-06-12},
+  langid = {american}
 }
+
 
 @inproceedings{SantusGladkovaEtAl_2016_CogALex-V_shared_task_on_corpus-based_identification_of_semantic_relations,
   title = {The {{CogALex}}-{{V}} Shared Task on the Corpus-Based Identification of Semantic Relations},
