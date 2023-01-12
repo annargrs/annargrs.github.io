@@ -7,6 +7,7 @@ permalink: /teaching/
 
 ## University courses
 
+* **ASDS II**: Advanced Social Data Science II <br/> [University of Copenhagen](https://kurser.ku.dk/course/ASDK20006U), spring 2022
 * **COMP-1005**: [Introduction to Programming for Data Science](https://sites.google.com/view/comp1005-spring2019) <br/> [University of Massachusetts Lowell](https://www.uml.edu/catalog/courses/COMP/1005), Computer Science department, spring 2019
 
 ## Summer schools

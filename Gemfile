@@ -8,11 +8,11 @@ source "https://rubygems.org"
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-gem "jekyll", "~> 3.7.4"
+gem "jekyll"
 gem "rake", "~> 12"
 gem 'unicode_utils', require: false unless RUBY_VERSION >= '2.4'
 gem 'jemoji'
-
+gem 'kramdown-parser-gfm'
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 gem "minima", "~> 2.0"
 gem "minimal-mistakes-jekyll" #, "4.13.0"

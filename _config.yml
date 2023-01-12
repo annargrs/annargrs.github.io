@@ -117,5 +117,5 @@ analytics:
     tracking_id: "UA-127096214-3"
 environment: production # should work, if not check if env set to development
 
-gems:
+plugins:
   - jemoji
