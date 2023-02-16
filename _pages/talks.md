@@ -5,6 +5,11 @@ title: Selected Talks
 permalink: /talks/
 ---
 
+## 2023
+
+* **Data governance and transparency for Large Language Models: lessons from 🌸 BigScience Workshop** <br/>
+  February 16 2023: Invited talk at the [Institute for Advanced Sociology](https://liu.se/en/article/seminarier-och-forelasningar-vid-ias) (Linköping Uni), [[SLIDES]](https://u.pcloud.link/publink/show?code=XZeaSgVZLoGmBlUJ0NzwvfwHpzeGzpmfSTMk)
+
 ## 2022
 
 * **When does a machine "understand" what it "reads"?**
