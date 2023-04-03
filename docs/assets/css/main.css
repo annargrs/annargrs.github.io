@@ -4260,12 +4260,7 @@ a.reversefootnote {
 @media (max-width: 600px) {
   /* CSS that should be displayed if width is equal to or less than 800px goes here */
   .news {
-    padding-right: 0em !important;
-    height: 220px !important;
-    padding: 1em !important; }
-
-  .profile-pic-container {
-    margin-right: -1em !important; } }
+    padding-right: 0em; } }
 .twitter-timeline {
   width: 400px; }
 
