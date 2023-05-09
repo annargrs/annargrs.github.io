@@ -7,6 +7,12 @@ permalink: /talks/
 
 ## 2023
 
+* **Training data for Large Language Models: how can we collect it ethically and study it?** <br/>
+  May 2 2023: Invited talk at the [Linguistic Circle of Copenhagen](https://lingvistkredsen.ku.dk/english/meetings/)
+* **"Writing Assistance or PlagAIrism? How Language Models Are Changing Our View of Knowledge** <br/>
+  April 29 2023: Invited talk at the [Complexity of Knowledge](https://santafe.edu/events/sbs-complexity-knowledge) symposium (Santa Fe Institute)
+* **Machine Reading, Fast and Slow: When Do Models "Understand" Language?** <br/>
+  April 24 2023: Invited talk at the [AI and the Barrier of Meaning](https://wiki.santafe.edu/index.php/AI_and_the_Barrier_of_Meaning_2_-_Agenda) seminar (Santa Fe Institute)
 * **Data governance and transparency for Large Language Models: lessons from 🌸 BigScience Workshop** <br/>
   March 30 2023: Invited talk at the [AI UK Fringe](https://www.eventbrite.co.uk/e/exploring-the-boundaries-and-capabilities-of-large-language-models-tickets-595247279637) (Queen's University Belfast, online)
 * **Data governance and transparency for Large Language Models: lessons from 🌸 BigScience Workshop** <br/>
