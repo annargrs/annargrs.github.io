@@ -7,6 +7,8 @@ permalink: /talks/
 
 ## 2023
 
+* **Panel Discussion: AI’s Impact on Technology, Research and Education**
+  May 16 2023: Panelist at the [Workshop on AI's impact on Society and Advancements in Technology](https://www.microsoft.com/en-us/research/event/the-workshop-on-ais-impact-on-society-and-advancements-in-technology/speakers/), Microsoft Research
 * **Training data for Large Language Models: how can we collect it ethically and study it?** <br/>
   May 2 2023: Invited talk at the [Linguistic Circle of Copenhagen](https://lingvistkredsen.ku.dk/english/meetings/)
 * **"Writing Assistance or PlagAIrism? How Language Models Are Changing Our View of Knowledge** <br/>

@@ -7,9 +7,10 @@ permalink: /teaching/
 
 ## University courses
 
-* **Reflections on Data Science** <br/> [IT University of Copenhagen](https://learnit.itu.dk/local/coursebase/view.php?s=ft&view=public&ciid=1127)
-* **ASDS II**: Advanced Social Data Science II <br/> [University of Copenhagen](https://kurser.ku.dk/course/ASDK20006U), spring 2022
-* **COMP-1005**: [Introduction to Programming for Data Science](https://sites.google.com/view/comp1005-spring2019) <br/> [University of Massachusetts Lowell](https://www.uml.edu/catalog/courses/COMP/1005), Computer Science department, spring 2019
+* **Seminars in Data Science**, Fall 2023 <br/> [IT University of Copenhagen](https://learnit.itu.dk/local/coursebase/view.php?ciid=1272), Computer Science Department
+* **Reflections on Data Science**, Spring 2023 <br/> [IT University of Copenhagen](https://learnit.itu.dk/local/coursebase/view.php?s=ft&view=public&ciid=1127), Computer Science Department
+* **ASDS II**: Advanced Social Data Science II, Spring 2022 <br/> [University of Copenhagen](https://kurser.ku.dk/course/ASDK20006U), Center for Social Data Science
+* **COMP-1005**: [Introduction to Programming for Data Science](https://sites.google.com/view/comp1005-spring2019), Spring 2019 <br/> [University of Massachusetts Lowell](https://www.uml.edu/catalog/courses/COMP/1005), Computer Science 
 
 ## Summer schools
 
