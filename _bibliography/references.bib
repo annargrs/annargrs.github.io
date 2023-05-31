@@ -22,7 +22,7 @@
   month = feb,
   number = {arXiv:2302.14035},
   eprint = {arXiv:2302.14035},
-  publisher = arXiv,
+  publisher = {To appear in proc. of ACL 2023 (demo track)},
   url = {http://arxiv.org/abs/2302.14035},
   urldate = {2023-03-15},
   demo={https://huggingface.co/spaces/bigscience-data/roots-search},
@@ -41,7 +41,8 @@
   eprinttype = {arxiv},
   primaryclass = {cs},
   publisher = arXiv,
-  url = {10.48550/arXiv.2211.05100},
+  url = {https://arxiv.org/abs/2211.05100},
+  demo = {https://huggingface.co/bigscience/bloom},
   abstract = {Large language models (LLMs) have been shown to be able to perform new tasks based on a few demonstrations or natural language instructions. While these capabilities have led to widespread adoption, most LLMs are developed by resource-rich organizations and are frequently kept from the public. As a step towards democratizing this powerful technology, we present BLOOM, a 176B-parameter open-access language model designed and built thanks to a collaboration of hundreds of researchers. BLOOM is a decoder-only Transformer language model that was trained on the ROOTS corpus, a dataset comprising hundreds of sources in 46 natural and 13 programming languages (59 in total). We find that BLOOM achieves competitive performance on a wide variety of benchmarks, with stronger results after undergoing multitask prompted finetuning. To facilitate future research and applications using LLMs, we publicly release our models and code under the Responsible AI License.},
   archiveprefix = {arXiv}
 }
@@ -57,49 +58,6 @@
   url = {https://openreview.net/forum?id=UoEw6KigkUn},
   urldate = {2023-01-03},
   abstract = {As language models grow ever larger, the need for large-scale high-quality text datasets has never been more pressing, especially in multilingual settings. The BigScience workshop, a 1-year international and multidisciplinary initiative, was formed with the goal of researching and training large language models as a values-driven undertaking, putting issues of ethics, harm, and governance in the foreground. This paper documents the data creation and curation efforts undertaken by BigScience to assemble the Responsible Open-science Open-collaboration Text Sources (ROOTS) corpus, a 1.6TB dataset spanning 59 languages that was used to train the 176-billion-parameter BigScience Large Open-science Open-access Multilingual (BLOOM) language model. We further release a large initial subset of the corpus and analyses thereof, and hope to empower large-scale monolingual and multilingual modeling projects with both the data and the processing tools, as well as stimulate research around this large multilingual corpus.}
-}
-
-@inproceedings{ray-choudhury-etal-2022-machine,
-    title = "Machine Reading, Fast and Slow: When Do Models {``}Understand{''} Language?",
-    author = "Ray Choudhury, Sagnik  and
-      Rogers, Anna  and
-      Augenstein, Isabelle",
-    booktitle = "Proceedings of the 29th International Conference on Computational Linguistics",
-    month = oct,
-    year = "2022",
-    address = "Gyeongju, Republic of Korea",
-    publisher = "International Committee on Computational Linguistics",
-    url = "https://aclanthology.org/2022.coling-1.8",
-    pages = "78--93",
-    abstract = "Two of the most fundamental issues in Natural Language Understanding (NLU) at present are: (a) how it can established whether deep learning-based models score highly on NLU benchmarks for the {''}right{''} reasons; and (b) what those reasons would even be. We investigate the behavior of reading comprehension models with respect to two linguistic {''}skills{''}: coreference resolution and comparison. We propose a definition for the reasoning steps expected from a system that would be {''}reading slowly{''}, and compare that with the behavior of five models of the BERT family of various sizes, observed through saliency scores and counterfactual explanations. We find that for comparison (but not coreference) the systems based on larger encoders are more likely to rely on the {''}right{''} information, but even they struggle with generalization, suggesting that they still learn specific lexical patterns rather than the general principles of comparison.",
-}
-
-@inproceedings{thorn-jakobsen-rogers-2022-factors,
-    title = "What Factors Should Paper-Reviewer Assignments Rely On? Community Perspectives on Issues and Ideals in Conference Peer-Review",
-    author = "Thorn Jakobsen, Terne  and Rogers, Anna",
-    booktitle = "Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies",
-    month = jul,
-    year = "2022",
-    video={https://aclanthology.org/2022.naacl-main.354.mp4},
-    address = "Seattle, United States",
-    publisher = "Association for Computational Linguistics",
-    url = "https://aclanthology.org/2022.naacl-main.354",
-    pages = "4810--4823",
-    data = {https://github.com/terne/Paper-Reviewer-Matching-Surveys},
-    abstract = "Both scientific progress and individual researcher careers depend on the quality of peer review, which in turn depends on paper-reviewer matching. Surprisingly, this problem has been mostly approached as an automated recommendation problem rather than as a matter where different stakeholders (area chairs, reviewers, authors) have accumulated experience worth taking into account. We present the results of the first survey of the NLP community, identifying common issues and perspectives on what factors should be considered by paper-reviewer matching systems. This study contributes actionable recommendations for improving future NLP conferences, and desiderata for interpretable peer review assignments.",
-}
-
-@inproceedings{puccetti2022,
-  doi = {10.48550/ARXIV.2205.11380},
-  booktitle = "Findings of EMNLP 2022",
-  url = {https://arxiv.org/abs/2205.11380},
-  author = {Puccetti, Giovanni and Rogers, Anna and Drozd, Aleksandr and Dell'Orletta, Felice},
-  title = {Outliers Dimensions that Disrupt Transformers Are Driven by Frequency},
-  publisher = "Association for Computational Linguistics",
-  url = "https://aclanthology.org/2022.naacl-main.354",
-  year = {2022},
-  abstract = {
-Transformer-based language models are known to display anisotropic behavior: the token embeddings are not homogeneously spread in space, but rather accumulate along certain directions. A related recent finding is the outlier phenomenon: the parameters in the final element of Transformer layers that consistently have unusual magnitude in the same dimension across the model, and significantly degrade its performance if disabled. We replicate the evidence for the outlier phenomenon and we link it to the geometry of the embedding space. Our main finding is that in both BERT and RoBERTa the token frequency, known to contribute to anisotropicity, also contributes to the outlier phenomenon. In its turn, the outlier phenomenon contributes to the "vertical" self-attention pattern that enables the model to focus on the special tokens. We also find that, surprisingly, the outlier effect on the model performance varies by layer, and that variance is also related to the correlation between outlier magnitude and encoded token frequency.}
 }
 
 @inproceedings{JerniteNguyenEtAl_2022_Data_Governance_in_Age_of_Large-Scale_Data-Driven_Language_Technology,
@@ -118,6 +76,58 @@ Transformer-based language models are known to display anisotropic behavior: the
   isbn = {978-1-4503-9352-2}
 }
 
+@inproceedings{ray-choudhury-etal-2022-machine,
+    title = "Machine Reading, Fast and Slow: When Do Models 'Understand' Language?",
+    author = {Ray Choudhury, Sagnik  and Rogers, Anna  and  Augenstein, Isabelle},
+    booktitle = {Proceedings of the 29th International Conference on Computational Linguistics},
+    year = "2022",
+    address = {{Gyeongju, Republic of Korea}},
+    url = "https://aclanthology.org/2022.coling-1.8",
+    abstract = {Two of the most fundamental issues in Natural Language Understanding (NLU) at present are: (a) how it can established whether deep
+    learning-based models score highly on NLU benchmarks for the 'right' reasons; and (b) what those reasons would even be.
+    We investigate the behavior of reading comprehension models with respect to two linguistic 'skills':
+    coreference resolution and comparison. We propose a definition for the reasoning steps expected from a system that would be 'reading slowly',
+    and compare that with the behavior of five models of the BERT family of various sizes, observed through saliency scores and counterfactual explanations.
+    We find that for comparison (but not coreference) the systems based on larger encoders are more likely to rely on the 'right' information, but even
+    they struggle with generalization, suggesting that they still learn specific lexical patterns rather than the general principles of comparison.},
+    pages = {{78-93}}
+}
+
+@inproceedings{thorn-jakobsen-rogers-2022-factors,
+    title = "What Factors Should Paper-Reviewer Assignments Rely On? Community Perspectives on Issues and Ideals in Conference Peer-Review",
+    author = "Thorn Jakobsen, Terne  and Rogers, Anna",
+    booktitle = "Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies",
+    month = jul,
+    year = "2022",
+    video={https://aclanthology.org/2022.naacl-main.354.mp4},
+    address = "Seattle, United States",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2022.naacl-main.354",
+    pages = "4810--4823",
+    abstract={Both scientific progress and individual researcher careers depend on the quality of peer review, which in turn depends on paper-reviewer matching. Surprisingly, this problem has been mostly approached as an automated recommendation problem rather than as a matter where different stakeholders (area chairs, reviewers, authors) have accumulated experience worth taking into account. We present the results of the first survey of the NLP community, identifying common issues and perspectives on what factors should be considered by paper-reviewer matching systems. This study contributes actionable recommendations for improving future NLP conferences, and desiderata for interpretable peer review assignments.},
+    data = {https://github.com/terne/Paper-Reviewer-Matching-Surveys},
+    abstract = "Both scientific progress and individual researcher careers depend on the quality of peer review, which in turn depends on paper-reviewer matching. Surprisingly, this problem has been mostly approached as an automated recommendation problem rather than as a matter where different stakeholders (area chairs, reviewers, authors) have accumulated experience worth taking into account. We present the results of the first survey of the NLP community, identifying common issues and perspectives on what factors should be considered by paper-reviewer matching systems. This study contributes actionable recommendations for improving future NLP conferences, and desiderata for interpretable peer review assignments.",
+}
+
+@inproceedings{puccetti2022,
+  booktitle = "Findings of EMNLP 2022",
+  author = {Puccetti, Giovanni and Rogers, Anna and Drozd, Aleksandr and Dell'Orletta, Felice},
+  title = {Outliers Dimensions that Disrupt Transformers Are Driven by Frequency},
+  publisher = "Association for Computational Linguistics",
+  url = "https://aclanthology.org/2022.findings-emnlp.93/",
+  year = {2022},
+  code={https://github.com/gpucce/outliersvsfreq/tree/main},
+  abstract = {Transformer-based language models are known to display anisotropic behavior: the token embeddings are not homogeneously spread in space,
+  but rather accumulate along certain directions. A related recent finding is the outlier phenomenon: the parameters in the final element of Transformer
+  layers that consistently have unusual magnitude in the same dimension across the model, and significantly degrade its performance if disabled.
+  We replicate the evidence for the outlier phenomenon and we link it to the geometry of the embedding space. Our main finding is that in both BERT and RoBERTa
+  the token frequency, known to contribute to anisotropicity, also contributes to the outlier phenomenon. In its turn, the outlier phenomenon contributes to the
+  'vertical' self-attention pattern that enables the model to focus on the special tokens. We also find that, surprisingly, the outlier effect on the model
+   performance varies by layer, and that variance is also related to the correlation between outlier magnitude and encoded token frequency.}
+}
+
+
+
 @inproceedings{BhargavaDrozdEtAl_2021_Generalization_in_NLI_Ways_Not_To_Go_Beyond_Simple_Heuristics,
   title = {Generalization in {{NLI}}: {{Ways}} ({{Not}}) {{To Go Beyond Simple Heuristics}}},
   shorttitle = {Generalization in {{NLI}}},
@@ -130,6 +140,7 @@ Transformer-based language models are known to display anisotropic behavior: the
   address = {{Online and Punta Cana, Dominican Republic}},
   url = {https://aclanthology.org/2021.insights-1.18},
   urldate = {2021-11-17},
+  code = {https://github.com/prajjwal1/generalize_lm_nli},
   video={https://aclanthology.org/2021.insights-1.18.mp4},
   abstract = {Much of recent progress in NLU was shown to be due to models' learning dataset-specific heuristics. We conduct a case study of generalization in NLI (from MNLI to the adversarially constructed HANS dataset) in a range of BERT-based architectures (adapters, Siamese Transformers, HEX debiasing), as well as with subsampling the data and increasing the model size. We report 2 successful and 3 unsuccessful strategies, all providing insights into how Transformer-based models learn to generalize.}
 }
@@ -190,7 +201,6 @@ Transformer-based language models are known to display anisotropic behavior: the
   pages = {4821--4833},
   publisher = {{Association for Computational Linguistics}},
   address = {{Punta Cana, Dominican Republic}},
-  doi = {10.18653/v1/2021.findings-emnlp.414},
   url= {https://aclanthology.org/2021.findings-emnlp.414/},
   video = {https://aclanthology.org/2021.findings-emnlp.414.mp4},
   abstract = {A key part of the NLP ethics movement is responsible use of data, but exactly what that means or how it can be best achieved remain unclear. This position paper discusses the core legal and ethical principles for collection and sharing of textual data, and the tensions between them. We propose a potential checklist for responsible data (re-)use that could both standardise the peer review of conference submissions, as well as enable a more in-depth view of published research across the community. Our proposal aims to contribute to the development of a consistent standard for data (re-)use, embraced across NLP conferences.}
@@ -362,7 +372,7 @@ Transformer-based language models are known to display anisotropic behavior: the
   year = {2017},
   address = {{Tokyo}},
   school = {University of Tokyo},
-  url = {https://core.ac.uk/reader/228323707},
+  url = {https://repository.dl.itc.u-tokyo.ac.jp/records/52196},
   type = {Ph.{{D}}. Dissertation}
 }
 
