@@ -7,7 +7,11 @@ permalink: /talks/
 
 ## 2023
 
-* **Panel Discussion: AI’s Impact on Technology, Research and Education**
+* **Towards Better Data Governance for Large Language Models** <br/>
+  June 13 2023: Keynote at [SwissText](https://www.swisstext.org/), [[SLIDES]](https://u.pcloud.link/publink/show?code=XZCPbOVZIgH2a4MP304R8Ww4Ethh0usw8BDk)
+* **Large Language Models: Data Governance** <br/>
+  June 6 2023: Invited talk for [CONNECT University](https://futurium.ec.europa.eu/en/connect-university/events/large-language-models-overview-limitations-opportunities), the flagship knowledge-sharing initiative of the European Commission
+* **Panel Discussion: AI’s Impact on Technology, Research and Education** <br/>
   May 16 2023: Panelist at the [Workshop on AI's impact on Society and Advancements in Technology](https://www.microsoft.com/en-us/research/event/the-workshop-on-ais-impact-on-society-and-advancements-in-technology/speakers/), Microsoft Research
 * **Training data for Large Language Models: how can we collect it ethically and study it?** <br/>
   May 2 2023: Invited talk at the [Linguistic Circle of Copenhagen](https://lingvistkredsen.ku.dk/english/meetings/)
