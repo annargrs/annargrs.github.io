@@ -7,7 +7,7 @@
     {% assign simpleKey = simpleKey | join: "_" %}
 
     {% if entry.abstract %}
-    <button class="btn--info" onclick="showBibtex('{{ simpleKey }}')">Abstract</button>
+    <button class="btn--info" onclick="showBibtex('{{ simpleKey }}_abs')">Abstract</button>
     {% endif %}
 
     {% if entry.url %}
@@ -47,7 +47,7 @@
     {% endif %}
 
     {% if entry.abstract %}
-    <div class="abstract" id='{{ simpleKey }}'>{{ entry.abstract }}</div>
+    <div class="abstract" id='{{ simpleKey }}_abs'>{{ entry.abstract }}</div>
     {% endif %}
 </div>
 
