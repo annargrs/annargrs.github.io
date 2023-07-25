@@ -88,7 +88,7 @@ author:
 #  uri: "http://www.annargrs.github.io"
   twitter: "annargrs"
   linkedin: "annargrs"
-  github: "annargrs"
+#  github: "annargrs"
 #  vine: "doesn't matter"
   links:
     - label: "University of Copenhagen"
@@ -104,9 +104,9 @@ author:
     - label: "ORCID"
       icon: "ai ai-orcid ai"
       url: "https://orcid.org/0000-0002-4845-4023"
-    - label: "Mastodon"
-      icon: "fab fa-brands fa-mastodon"
-      url: "https://sigmoid.social/@annargrs"
+#    - label: "Mastodon"
+#      icon: "fab fa-brands fa-mastodon"
+#      url: "https://sigmoid.social/@annargrs"
 
 # SEO and Analytics
 #google_site_verification : "todo"
