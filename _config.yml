@@ -91,9 +91,9 @@ author:
 #  github: "annargrs"
 #  vine: "doesn't matter"
   links:
-    - label: "University of Copenhagen"
+    - label: "IT University of Copenhagen"
       icon: "fas fa-fw fa-university"
-      url: "https://research.ku.dk/search/result/?pure=en%2Fpersons%2F692025"
+      url: "https://pure.itu.dk/en/persons/anna-rogers"
     - label: "Google Scholar"
       icon: "ai ai-google-scholar ai"
       # ai-semantic-scholar, ai-orcid - see more at https://jpswalsh.github.io/academicons/
