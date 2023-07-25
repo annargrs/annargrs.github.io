@@ -7,6 +7,8 @@ permalink: /talks/
 
 ## 2023
 
+* **Data Science in the age of LLMs**<br/>
+  June 27 2023: Keynote at [Growing Danish Data Science 2023](https://ddsa.dk/growing-danish-data-science-2023/)
 * **Towards Better Data Governance for Large Language Models** <br/>
   June 13 2023: Keynote at [SwissText](https://www.swisstext.org/), [[SLIDES]](https://u.pcloud.link/publink/show?code=XZCPbOVZIgH2a4MP304R8Ww4Ethh0usw8BDk)
 * **Large Language Models: Data Governance** <br/>
