@@ -85,7 +85,7 @@ $header-font-family : $sans-serif-narrow;
 .profile-links {
   font-size: smaller!important;
   margin-bottom: 0em!important;
-  margin-top: 0.1em!important;
+  margin-top: 0.5em!important;
 }
 
 .bibliography {
@@ -108,8 +108,12 @@ list-style:none!important;
       padding: 1em!important;
   }
   .profile-pic-container {
-    margin-right: -1em!important;
+//    margin-right: -1em!important;
   }
+  .twitter {
+    display: none;
+  }
+
 }
 
 .twitter-timeline {
