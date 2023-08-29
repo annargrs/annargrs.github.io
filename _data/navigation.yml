@@ -5,13 +5,13 @@ main:
     url: /publications/
   - title: "Talks"
     url: /talks/
+  - title: "Teaching"
+    url: /teaching/
   - title: "Organization"
     url: /service/
   - title: "Outreach"
     url: /outreach/
-  - title: "Teaching"
-    url: /teaching/
   - title: "Blog"
     url: https://hackingsemantics.xyz/year-archive/
-  - title: "Contact"
-    url: mailto:arog@itu.dk
+#  - title: "Contact"
+#    url: mailto:arog@itu.dk
