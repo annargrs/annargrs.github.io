@@ -7,8 +7,8 @@ permalink: /talks/
 
 ## 2023
 
-* **Self-supervised representations in NLP** <br/>
-  August 24 2023: Tutorial at [DTU summer school](www2.imm.dtu.dk/courses/02901/): [Slides](https://u.pcloud.link/publink/show?code=XZUXKaVZcFzRfRi3dQYreNG1PdJTnf7B2kUk), [Exercise](https://colab.research.google.com/drive/1Fia263yMPSKyoZ3eg8eDW4lAZVARNtpr?usp=sharing)
+* **Machine Reading, Fast and Slow: When Do Models "Understand" Language?** <br/> 
+  September 7 2023: lecture at [Analytical Connectionism](https://www.ucl.ac.uk/gatsby/analytical-connectionism-2023) (UCL, online)
 * **Data Science in the age of LLMs**<br/>
   June 27 2023: Keynote at [Growing Danish Data Science 2023](https://ddsa.dk/growing-danish-data-science-2023/)
 * **Towards Better Data Governance for Large Language Models** <br/>

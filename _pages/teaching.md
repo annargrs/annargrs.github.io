@@ -5,6 +5,10 @@ title: Teaching
 permalink: /teaching/
 ---
 
+## Thesis and project supervision
+
+- see the list of possible topics [here](https://annargrs.github.io/supervision)
+
 ## University courses
 
 * **Seminars in Data Science**, Fall 2023 <br/> [IT University of Copenhagen](https://learnit.itu.dk/local/coursebase/view.php?ciid=1272), Computer Science Department
@@ -15,6 +19,8 @@ permalink: /teaching/
 ## Summer schools
 
 * **NLP with Python**: [Introduction to NLP with Python](https://sites.google.com/view/esslli2019-nlp): a suite of two 1-week courses at  @ ESSLLI 2019 <br/> [European Summer School in Logic, Language and Information](http://esslli2019.folli.info/programme/week-1/), Riga, Latvia, August 5-16 2019
+* **Self-supervised representations in NLP**: tutorial at [DTU summer school](www2.imm.dtu.dk/courses/02901/): Denmark Technical University, August 24 2023. [Slides](https://u.pcloud.link/publink/show?code=XZUXKaVZcFzRfRi3dQYreNG1PdJTnf7B2kUk), [Exercise](https://colab.research.google.com/drive/1Fia263yMPSKyoZ3eg8eDW4lAZVARNtpr?usp=sharing)
+* **Machine Reading, Fast and Slow: When Do Models "Understand" Language?** [Analytical Connectionism](https://www.ucl.ac.uk/gatsby/analytical-connectionism-2023): UCL, UK, September 7 2023
 
 ## Tutorials
 
