@@ -14,6 +14,7 @@ author_profile: true
 
 {: .archive__item-excerpt .news}
 
+- **14.08.2023** New preprint with Sasha Luccioni: [Mind your Language (Model): Fact-Checking LLMs and their Role in NLP Research and Practice](https://arxiv.org/abs/2308.07120)
 - **14.07.2023** <a href="https://2023.aclweb.org/">ACL 2023</a> is over! Over 5K submissions, 15K authors and reviewers, 3.5K attendees! This was a LOT of work to organize.
 - **09.07.2023** Our 36-page <a href="https://aclanthology.org/2023.acl-long.911/">ACL 2023 peer review report</a> is live in ACL Anthology! And here is a summary <a href="https://2023.aclweb.org/blog/review-report/">blog post</a>.
 - **06.27.2023** Very excited to give a keynote at the National Data Science PhD Meetup for the <a href="https://ddsa.dk/growing-danish-data-science-2023/">Danish Data Science Academy</a>!
