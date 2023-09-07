@@ -7,8 +7,8 @@ permalink: /talks/
 
 ## 2023
 
-* **Machine Reading, Fast and Slow: When Do Models "Understand" Language?** <br/> 
-  September 7 2023: lecture at [Analytical Connectionism](https://www.ucl.ac.uk/gatsby/analytical-connectionism-2023) (UCL, online)
+* **Humans and language models: open questions from the NLP community** <br/> 
+  September 7 2023: lecture at [Analytical Connectionism](https://www.ucl.ac.uk/gatsby/analytical-connectionism-2023) (UCL, online) [[SLIDES pt1]](https://u.pcloud.link/publink/show?code=XZ5Sw3VZTy6XNswqHGHuY8pATImQ0FbU0tSV) [[SLIDES pt2]](https://u.pcloud.link/publink/show?code=XZrhw3VZGXtd0IcImpzNiu6EmOV6OuaFwQMy)
 * **Data Science in the age of LLMs**<br/>
   June 27 2023: Keynote at [Growing Danish Data Science 2023](https://ddsa.dk/growing-danish-data-science-2023/)
 * **Towards Better Data Governance for Large Language Models** <br/>

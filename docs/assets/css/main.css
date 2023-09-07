@@ -4246,7 +4246,7 @@ a.reversefootnote {
 .profile-links {
   font-size: smaller !important;
   margin-bottom: 0em !important;
-  margin-top: 0.1em !important; }
+  margin-top: 0.5em !important; }
 
 .bibliography {
   list-style: none !important; }
@@ -4260,7 +4260,12 @@ a.reversefootnote {
 @media (max-width: 600px) {
   /* CSS that should be displayed if width is equal to or less than 800px goes here */
   .news {
-    padding-right: 0em; } }
+    padding-right: 0em !important;
+    height: 220px !important;
+    padding: 1em !important; }
+
+  .twitter {
+    display: none; } }
 .twitter-timeline {
   width: 400px; }
 
