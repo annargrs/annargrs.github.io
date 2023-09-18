@@ -7,7 +7,7 @@ permalink: /teaching/
 
 ## Thesis and project supervision
 
-- see the list of possible topics [here](https://annargrs.github.io/supervision)
+- see the list of possible topics [here](/supervision)
 
 ## University courses
 

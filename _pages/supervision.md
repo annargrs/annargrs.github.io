@@ -1,11 +1,13 @@
 ---
 layout: single
 author_profile: true
-title: Projects for supervision
+title: Supervision
 permalink: /supervision/
 ---
 
-Here are some of the possible directions for thesis and research project supervision at ITU. Feel free to get in touch if you are interested in these topics. 
+If you'd like to work with me, please reach out introducing yourself and stating why you are interested in working with me, as well as your background and any relevant experience. It would help a lot if you also provided a list of four or five more concrete topics that you are interested in. If you're a MSc student at IT University of Copenhagen,please reach out stating `[ITU master’s thesis]` or `[ITU research project]` at the start of the subject. 
+
+Here are some of the general research directions that I would be interested in. Feel free to also look at my [publications](/publications).  
 
 - **Language model analysis**: identifying the types of knowledge acquired from language model pre-training
 - **Language processing strategies**: do NLP models perform well for the right reasons? What strategies should they follow when solving reasoning tasks?
