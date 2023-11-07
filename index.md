@@ -14,6 +14,7 @@ author_profile: true
 
 {: .archive__item-excerpt .news}
 
+- **07.11.2023** Speaking in the [Digital Tech Summit](https://event.ing.dk/digitaltechsummit/session/1576137/generative-ai-challenges-and-open-questions) session on challenges and opportunities in generative AI (Copenhagen) 
 - **07.09.2023** Invited lecture at [Analytical Connectionism 2023](https://www.ucl.ac.uk/gatsby/analytical-connectionism-2023) (University College London)
 - **14.08.2023** New preprint with Sasha Luccioni: [Mind your Language (Model): Fact-Checking LLMs and their Role in NLP Research and Practice](https://arxiv.org/abs/2308.07120)
 - **14.07.2023** <a href="https://2023.aclweb.org/">ACL 2023</a> is over! Over 5K submissions, 15K authors and reviewers, 3.5K attendees! This was a LOT of work to organize.
