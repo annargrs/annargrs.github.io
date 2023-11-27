@@ -6,14 +6,15 @@ author_profile: true
 #title: Home
 ---
 
-<p>I am an assistant professor in the <a href="https://en.itu.dk/Research/Departments/Computer-Science-Department">Computer Science Department</a> at the IT University of Copenhagen. My main research area is Natural Language Processing, in particular analysis and evaluation of pre-trained language models. I am a co-program-chair of <a href="https://2023.aclweb.org/committees/organization/">the 61st Annual Meeting of the Association for Computational Linguistics (ACL 2023)</a>.</p>
+<p>I am an assistant professor in the <a href="https://en.itu.dk/Research/Departments/Computer-Science-Department">Computer Science Department</a> at the IT University of Copenhagen. My main research area is Natural Language Processing, in particular analysis and evaluation of pre-trained language models. I was a co-program-chair of <a href="https://2023.aclweb.org/committees/organization/">the 61st Annual Meeting of the Association for Computational Linguistics (ACL 2023)</a>.</p>
 
-<p>Before moving to Denmark, I was a postdoctoral research associate in the University of Massachusetts, working with <a href="http://text-machine.cs.uml.edu/">Anna Rumshisky</a> on sentiment analysis, question answering and analysis of Transformer-based language models. Then I was a postdoctoral associate and assistant professor at the <a href="https://sodas.ku.dk/">Center for Social Data Science</a> at the University of Copenhagen, focusing on AI and society. I hold a Ph.D. degree from the <a href="https://www.c.u-tokyo.ac.jp/eng_site/info/academics/grad/lis/">Department of Language and Information Sciences</a> at the University of Tokyo (Japan).</p>
+<p>Before moving to Denmark, I was a postdoc in the University of Massachusetts, working on sentiment analysis, question answering and analysis of Transformer-based language models. Then I joined the <a href="https://sodas.ku.dk/">Center for Social Data Science</a> at the University of Copenhagen, focusing on AI and society (as a postdoc and later assistant professor). I hold a Ph.D. degree from the <a href="https://www.c.u-tokyo.ac.jp/eng_site/info/academics/grad/lis/">Department of Language and Information Sciences</a> at the University of Tokyo (Japan).</p>
 
 ## News
 
 {: .archive__item-excerpt .news}
 
+- **23.11.2023** Speaking at the [Sprogteknologisk Konference 2023](https://cst.ku.dk/kalender/sprogteknologisk-konference-2023/) and [Cambridge Language Technology Lab](https://talks.cam.ac.uk/show/archive/60438)! 
 - **07.11.2023** Speaking in the [Digital Tech Summit](https://event.ing.dk/digitaltechsummit/session/1576137/generative-ai-challenges-and-open-questions) session on challenges and opportunities in generative AI (Copenhagen) 
 - **07.09.2023** Invited lecture at [Analytical Connectionism 2023](https://www.ucl.ac.uk/gatsby/analytical-connectionism-2023) (University College London)
 - **14.08.2023** New preprint with Sasha Luccioni: [Mind your Language (Model): Fact-Checking LLMs and their Role in NLP Research and Practice](https://arxiv.org/abs/2308.07120)
