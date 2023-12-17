@@ -47,7 +47,7 @@ scholar:
   sort_by: year
   order: descending
   bibliography_template: bib
-  use_raw_bibtex_entry: true # to enable {{...}} inside bibtex
+ # use_raw_bibtex_entry: true # to enable {{...}} inside bibtex
 #  bibliography_template: "{{ reference | replace_first: 'Gladkova, A.', '<b>Gladkova, A.</b>' | replace_first: 'Rogers, A.', '<b>Rogers, A.</b>' }}"
 
 include: ['_pages']

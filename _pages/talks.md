@@ -5,14 +5,15 @@ title: Selected Talks
 permalink: /talks/
 ---
 
-🇪🇺 talks at events for policy-makers
+<i class="fa fa-landmark"></i> talks at events for policy-makers
 
 ## 2023
 
-
+* **A Sanity Check on Emergent Properties** <br/>
+  December 6 2023: [GenBench workshop at EMNLP 2023](https://genbench.org/workshop/) (Singapore) [[SLIDES]](https://u.pcloud.link/publink/show?code=XZxF3y0Z62NdIJYPLpXJt6m2K9prVk6SKFVk)
 * **A Sanity Check on Emergent Properties** <br/>
   November 23 2023: [Sprogteknologisk Konference 2023](https://cst.ku.dk/kalender/sprogteknologisk-konference-2023/) and [Cambridge Language Technology Lab](https://talks.cam.ac.uk/show/archive/60438) (online)
-* 🇪🇺 **Generative AI for research: things to keep in mind** <br/>
+* <i class="fa fa-landmark"/> **Generative AI for research: things to keep in mind** <br/>
   November 14 2023: ITU, presentation for the [UFM](https://ufm.dk/) Office on Research and Research Infrastructure
 * **Generative AI: challenges and opportunities** <br/> 
   November 7 2023: [Digital Tech Summit](https://event.ing.dk/digitaltechsummit/session/1576137/generative-ai-challenges-and-open-questions) (Copenhagen) [[SLIDES]](https://u.pcloud.link/publink/show?code=XZPFtcVZUKwYkcA5EdVG3aGD6QAH50evAcay) 
@@ -24,7 +25,7 @@ permalink: /talks/
   June 20 2023: Cross-disciplinary panel at [AI Pioneer center](https://www.aicentre.dk/events/future-of-humanity)
 * **Towards Better Data Governance for Large Language Models** <br/>
   June 13 2023: Keynote at [SwissText](https://www.swisstext.org/), [[SLIDES]](https://u.pcloud.link/publink/show?code=XZCPbOVZIgH2a4MP304R8Ww4Ethh0usw8BDk)
-* 🇪🇺 **Large Language Models: Data Governance** <br/>
+* <i class="fa fa-landmark"/> **Large Language Models: Data Governance** <br/>
   June 6 2023: Invited talk for [CONNECT University](https://futurium.ec.europa.eu/en/connect-university/events/large-language-models-overview-limitations-opportunities), the flagship knowledge-sharing initiative of the European Commission
 * **Panel Discussion: AI’s Impact on Technology, Research and Education** <br/>
   May 16 2023: Panelist at the [Workshop on AI's impact on Society and Advancements in Technology](https://www.microsoft.com/en-us/research/event/the-workshop-on-ais-impact-on-society-and-advancements-in-technology/speakers/), Microsoft Research

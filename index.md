@@ -14,7 +14,9 @@ author_profile: true
 
 {: .archive__item-excerpt .news}
 
-- **23.11.2023** Speaking at the [Sprogteknologisk Konference 2023](https://cst.ku.dk/kalender/sprogteknologisk-konference-2023/) and [Cambridge Language Technology Lab](https://talks.cam.ac.uk/show/archive/60438)! 
+- **13.12.2023** I received [Inge Lehmann grant](https://dff.dk/en/grants/database/view?period%3Alist=eq8rwx3oar&instrument%3Alist=s7hxawmh1p&filed_method%3Alist=all&SearchableText=) to work on efficiency and generalization! 
+- **06.12.2023** Invited talk at the [Genbench workshop 2023](https://genbench.org/workshop/), co-located with EMNLP 2023 (Singapore) 
+- **23.11.2023** Speaking at the [Sprogteknologisk Konference 2023](https://cst.ku.dk/kalender/sprogteknologisk-konference-2023/) and [Cambridge Language Technology Lab](https://talks.cam.ac.uk/show/archive/60438)
 - **07.11.2023** Speaking in the [Digital Tech Summit](https://event.ing.dk/digitaltechsummit/session/1576137/generative-ai-challenges-and-open-questions) session on challenges and opportunities in generative AI (Copenhagen) 
 - **07.09.2023** Invited lecture at [Analytical Connectionism 2023](https://www.ucl.ac.uk/gatsby/analytical-connectionism-2023) (University College London)
 - **14.08.2023** New preprint with Sasha Luccioni: [Mind your Language (Model): Fact-Checking LLMs and their Role in NLP Research and Practice](https://arxiv.org/abs/2308.07120)
