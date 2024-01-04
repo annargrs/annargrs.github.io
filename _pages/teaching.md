@@ -5,10 +5,6 @@ title: Teaching
 permalink: /teaching/
 ---
 
-## Thesis and project supervision
-
-- see the list of possible topics [here](/supervision)
-
 ## University courses
 
 * **Seminars in Data Science**, Fall 2023 <br/> [IT University of Copenhagen](https://learnit.itu.dk/local/coursebase/view.php?ciid=1272), Computer Science Department

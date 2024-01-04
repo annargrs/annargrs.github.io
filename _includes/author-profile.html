@@ -41,7 +41,7 @@
   </div>
 
   <div class="author__urls-wrapper">
-    <button class="btn btn--inverse">{{ site.data.ui-text[site.locale].follow_label | remove: ":" | default: "Follow" }}</button>
+    <button class="btn btn--inverse"><i class="fa fa-bars" aria-hidden="true"></i> &nbsp;{{ site.data.ui-text[site.locale].follow_label | remove: ":" | default: "Profile links" }}</button>
     <ul class="author__urls social-icons">
       {% if author.location %}
         <li itemprop="homeLocation" itemscope itemtype="https://schema.org/Place">

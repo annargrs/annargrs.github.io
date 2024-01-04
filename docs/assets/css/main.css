@@ -1587,11 +1587,11 @@ a.reversefootnote:hover { text-decoration: underline; }
 @media (min-width: 80em) { .splash .sidebar__right { margin-right: 0; } }
 
 /* Author profile and links ========================================================================== */
-.author__avatar { display: table-cell; vertical-align: top; width: 36px; height: 36px; }
+.author__avatar { display: table-cell; vertical-align: top; width: 130px; height: 130px; }
 
 @media (min-width: 64em) { .author__avatar { display: block; width: auto; height: auto; } }
 
-.author__avatar img { max-width: 110px; border-radius: 50%; }
+.author__avatar img { border-radius: 50%; }
 
 @media (min-width: 64em) { .author__avatar img { padding: 5px; border: 1px solid #f2f3f3; } }
 

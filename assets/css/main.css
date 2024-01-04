@@ -3803,15 +3803,16 @@ a.reversefootnote {
 .author__avatar {
   display: table-cell;
   vertical-align: top;
-  width: 36px;
-  height: 36px; }
+  width: auto;
+  height: auto;
+}
   @media (min-width: 64em) {
     .author__avatar {
       display: block;
       width: auto;
       height: auto; } }
   .author__avatar img {
-    max-width: 110px;
+//    max-width: 110px;
     border-radius: 50%; }
     @media (min-width: 64em) {
       .author__avatar img {
@@ -4305,3 +4306,4 @@ a.reversefootnote {
   display: none;
   overflow: hidden;
   font-size: smaller; }
+
