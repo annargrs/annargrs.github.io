@@ -7,6 +7,11 @@ permalink: /talks/
 
 <i class="fa fa-landmark"></i> talks at events for policy-makers
 
+## 2024
+
+* **Generative AI: what it can and can't do for research** <br/>
+ February 8 2024: [DARMA netværksarrangement 2024](https://genbench.org/workshop/) (Fredericia) [SLIDES](https://u.pcloud.link/publink/show?code=XZ5KW50ZWMOfEt3wXe8KFsW7FtXfwuEWUxIk)
+
 ## 2023
 
 * **A Sanity Check on Emergent Properties** <br/>
