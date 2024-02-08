@@ -5,12 +5,13 @@ title: Selected Talks
 permalink: /talks/
 ---
 
-<i class="fa fa-landmark"></i> talks at events for policy-makers
+\* talks at events for <i class="fa fa-landmark"/> policy-makers and <i class="fa fa-users"/> non-academic audiences
 
 ## 2024
 
-* **Generative AI: what it can and can't do for research** <br/>
- February 8 2024: [DARMA netværksarrangement 2024](https://genbench.org/workshop/) (Fredericia) [SLIDES](https://u.pcloud.link/publink/show?code=XZ5KW50ZWMOfEt3wXe8KFsW7FtXfwuEWUxIk)
+* <i class="fa fa-users"/> **Generative AI: what it can and can't do for research** <br/>
+ February 8 2024: [DARMA netværksarrangement 2024](https://genbench.org/workshop/) (Fredericia, Denmark) [SLIDES](https://u.pcloud.link/publink/show?code=XZ5KW50ZWMOfEt3wXe8KFsW7FtXfwuEWUxIk)
+* <i class="fa fa-landmark"/> **Understanding how regulations will affect data spaces participants** <br/> Panel at [Legislation and regulations for data spaces](https://language-data-space.ec.europa.eu/events/legislation-and-regulations-data-spaces-environment-development-european-data-market-2024-01-29_en?prefLang=es) (online)
 
 ## 2023
 
@@ -26,7 +27,7 @@ permalink: /talks/
   September 7 2023: lecture at [Analytical Connectionism](https://www.ucl.ac.uk/gatsby/analytical-connectionism-2023) (UCL, online) [[SLIDES pt1]](https://u.pcloud.link/publink/show?code=XZ5Sw3VZTy6XNswqHGHuY8pATImQ0FbU0tSV) [[SLIDES pt2]](https://u.pcloud.link/publink/show?code=XZrhw3VZGXtd0IcImpzNiu6EmOV6OuaFwQMy)
 * **Data Science in the age of LLMs**<br/>
   June 27 2023: Keynote at [Growing Danish Data Science 2023](https://ddsa.dk/growing-danish-data-science-2023/)
-* **Future of Humanity**</br>
+* <i class="fa fa-users"/> **Future of Humanity** <br/>
   June 20 2023: Cross-disciplinary panel at [AI Pioneer center](https://www.aicentre.dk/events/future-of-humanity)
 * **Towards Better Data Governance for Large Language Models** <br/>
   June 13 2023: Keynote at [SwissText](https://www.swisstext.org/), [[SLIDES]](https://u.pcloud.link/publink/show?code=XZCPbOVZIgH2a4MP304R8Ww4Ethh0usw8BDk)
