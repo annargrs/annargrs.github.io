@@ -7,18 +7,37 @@ permalink: /talks/
 
 \* talks at events for <i class="fa fa-landmark"/> policy-makers and <i class="fa fa-users"/> non-academic audiences
 
+## Upcoming talks 
+
+{: .gray}
+
+* TBA <br/> 
+  July 1-2 2024: NLP seminar at [Cardiff University, Wales](https://cardiffnlp.github.io/)
+* **NarrativeTime: Dense Temporal Annotation on a Timeline** <br/> 
+  May 20-25 2024: LREC-COLING, Turin, Italy
+* TBA <br/>
+  May 17 2024: NLP seminar at [Milan NLP ](https://milanlproc.github.io/)
+* TBA <br/>
+  April 25 2024: [Centre for linguistic theory and studies in probability](https://www.gu.se/en/clasp), Goteborg, Sweden
+* **A Sanity Check on Emergent Properties** <br/> 
+  March 27 2024: [NLP seminar](https://people.cs.umass.edu/~miyyer/nlpseminar/index.html) at [UMass Amherst](https://nlp.cs.umass.edu/) (online)
+* **A Sanity Check on Emergent Properties** <br/> 
+  March 21 2024: [Workshop on Responsible Data Science & AI Research: Fairness, Safety, and Reproducibility](https://www.responsible-ai.science) at Queen Mary University of London (online)
+
 ## 2024
 
 * <i class="fa fa-users"/> **Generative AI: what it can and can't do for research** <br/>
  February 8 2024: [DARMA netværksarrangement 2024](https://genbench.org/workshop/) (Fredericia, Denmark) [SLIDES](https://u.pcloud.link/publink/show?code=XZ5KW50ZWMOfEt3wXe8KFsW7FtXfwuEWUxIk)
 * <i class="fa fa-landmark"/> **Understanding how regulations will affect data spaces participants** <br/> Panel at [Legislation and regulations for data spaces](https://language-data-space.ec.europa.eu/events/legislation-and-regulations-data-spaces-environment-development-european-data-market-2024-01-29_en?prefLang=es) (online)
+* Peer review at ACL'23 <br/>
+Jan 28-Feb 02: [Dagstuhl Seminar 24052: Reviewer No. 2: Old and New Problems in Peer Review](https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/24052). Dagstuhl, Germany
 
 ## 2023
 
 * **A Sanity Check on Emergent Properties** <br/>
   December 6 2023: [GenBench workshop at EMNLP 2023](https://genbench.org/workshop/) (Singapore) [[SLIDES]](https://u.pcloud.link/publink/show?code=XZxF3y0Z62NdIJYPLpXJt6m2K9prVk6SKFVk)
 * **A Sanity Check on Emergent Properties** <br/>
-  November 23 2023: [Sprogteknologisk Konference 2023](https://cst.ku.dk/kalender/sprogteknologisk-konference-2023/) and [Cambridge Language Technology Lab](https://talks.cam.ac.uk/show/archive/60438) (online)
+  November 23 2023: [Sprogteknologisk Konference 2023](https://cst.ku.dk/kalender/sprogteknologisk-konference-2023/) at [Cambridge Language Technology Lab](https://talks.cam.ac.uk/show/archive/60438) (online)
 * <i class="fa fa-landmark"/> **Generative AI for research: things to keep in mind** <br/>
   November 14 2023: ITU, presentation for the [UFM](https://ufm.dk/) Office on Research and Research Infrastructure
 * **Generative AI: challenges and opportunities** <br/> 

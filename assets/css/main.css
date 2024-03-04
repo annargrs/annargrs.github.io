@@ -4307,3 +4307,22 @@ a.reversefootnote {
   overflow: hidden;
   font-size: smaller; }
 
+.upcoming {
+/*  color: #292F33;*/
+  font-size: small;
+  overflow: auto;
+  height: 300px !important;
+  text-align: justify;
+  padding-right: 2em;
+  margin: 0;
+  font-size: 0.75em; }
+  .upcoming + ul {
+    text-indent: 0;
+    color: red !important;}
+  .upcoming a {
+    position: relative; }
+}
+
+.gray {
+  color: gray !important;
+}
