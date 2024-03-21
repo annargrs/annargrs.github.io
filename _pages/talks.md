@@ -21,11 +21,11 @@ permalink: /talks/
   April 25 2024: [Centre for linguistic theory and studies in probability](https://www.gu.se/en/clasp), Goteborg, Sweden
 * **A Sanity Check on Emergent Properties** <br/> 
   March 27 2024: [NLP seminar](https://people.cs.umass.edu/~miyyer/nlpseminar/index.html) at [UMass Amherst](https://nlp.cs.umass.edu/) (online)
-* **A Sanity Check on Emergent Properties** <br/> 
-  March 21 2024: [Workshop on Responsible Data Science & AI Research: Fairness, Safety, and Reproducibility](https://www.responsible-ai.science) at Queen Mary University of London (online)
 
 ## 2024
 
+* **A Sanity Check on Emergent Properties** <br/> 
+  March 21 2024: [Workshop on Responsible Data Science & AI Research: Fairness, Safety, and Reproducibility](https://www.responsible-ai.science) at Queen Mary University of London (online) [[SLIDES]](https://u.pcloud.link/publink/show?code=XZ1CrF0ZqvbhNx3OT15Q32RtQNDiBuegADIy)
 * <i class="fa fa-users"/> **Generative AI: what it can and can't do for research** <br/>
  February 8 2024: [DARMA netværksarrangement 2024](https://genbench.org/workshop/) (Fredericia, Denmark) [SLIDES](https://u.pcloud.link/publink/show?code=XZ5KW50ZWMOfEt3wXe8KFsW7FtXfwuEWUxIk)
 * <i class="fa fa-landmark"/> **Understanding how regulations will affect data spaces participants** <br/> Panel at [Legislation and regulations for data spaces](https://language-data-space.ec.europa.eu/events/legislation-and-regulations-data-spaces-environment-development-european-data-market-2024-01-29_en?prefLang=es) (online)
