@@ -1,7 +1,7 @@
 ---
 layout: single
 author_profile: true
-title: Service
+title: Editorial and organization roles
 permalink: /service/
 ---
 
