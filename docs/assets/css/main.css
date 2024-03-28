@@ -1701,4 +1701,6 @@ a.reversefootnote:hover { text-decoration: underline; }
 
 .abstract { padding: 0.5em; margin-top: 0.5em; margin-bottom: 0.5em; color: gray; display: none; overflow: hidden; font-size: smaller; }
 
+.notice--info, .notice--warning { font-size: 0.9em !important; }
+
 /*# sourceMappingURL=main.css.map */
