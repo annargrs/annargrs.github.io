@@ -10,20 +10,23 @@ permalink: /talks/
 ## Upcoming talks 
 
 {: .gray}
-
+* TBA <br/>
+  September 30-October 3 2024: [Shonan meeting 209: Empowering Local Open Source LLMs](https://shonan.nii.ac.jp/seminars/209/), Kanagawa, Japan
+* TBA <br/>
+  September 26 2024: Athens NLP Summer School, Greece
 * TBA <br/> 
   July 1-2 2024: NLP seminar at [Cardiff University, Wales](https://cardiffnlp.github.io/)
 * **NarrativeTime: Dense Temporal Annotation on a Timeline** <br/> 
-  May 20-25 2024: LREC-COLING, Turin, Italy
+  May 20-25 2024: [LREC-COLING 2024](https://lrec-coling-2024.org/), Turin, Italy
 * TBA <br/>
   May 17 2024: NLP seminar at [Milan NLP ](https://milanlproc.github.io/)
 * TBA <br/>
   April 25 2024: [Centre for linguistic theory and studies in probability](https://www.gu.se/en/clasp), Goteborg, Sweden
-* **A Sanity Check on Emergent Properties** <br/> 
-  March 27 2024: [NLP seminar](https://people.cs.umass.edu/~miyyer/nlpseminar/index.html) at [UMass Amherst](https://nlp.cs.umass.edu/) (online)
 
 ## 2024
 
+* **A Sanity Check on Emergent Properties** <br/> 
+  March 27 2024: [NLP seminar](https://people.cs.umass.edu/~miyyer/nlpseminar/index.html) at [UMass Amherst](https://nlp.cs.umass.edu/) (online)
 * **A Sanity Check on Emergent Properties** <br/> 
   March 21 2024: [Workshop on Responsible Data Science & AI Research: Fairness, Safety, and Reproducibility](https://www.responsible-ai.science) at Queen Mary University of London (online) [[SLIDES]](https://u.pcloud.link/publink/show?code=XZ1CrF0ZqvbhNx3OT15Q32RtQNDiBuegADIy)
 * <i class="fa fa-users"/> **Generative AI: what it can and can't do for research** <br/>

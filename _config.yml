@@ -43,12 +43,13 @@ theme: minimal-mistakes-jekyll
 scholar:
   # more options: https://pages.lip6.fr/Pascal.Poizat/blog/posts/2016/02/01/jekyll-and-bibtex/
   style: _bibliography/apa_modified.csl
-#  style: _bibliography/springer-lecture-notes-in-computer-science.csl
-  sort_by: year
+#  group_by: type
+  sort_by: [year, month]
+#  type_order: [article,inproceedings,thesis,misc,proceedings]
+#  type_aliases: {inproceedings: 'Conference and Workshop Articles', proceedings: 'Edited Volumes', 'misc': 'Preprints'}
   order: descending
   bibliography_template: bib
  # use_raw_bibtex_entry: true # to enable {{...}} inside bibtex
-#  bibliography_template: "{{ reference | replace_first: 'Gladkova, A.', '<b>Gladkova, A.</b>' | replace_first: 'Rogers, A.', '<b>Rogers, A.</b>' }}"
 
 include: ['_pages']
 

@@ -1,6 +1,31 @@
 ---
 ---
 <div class="text-justify">
+
+    {% if entry.type == "proceedings" %}
+    :notebook:
+    {% endif %}
+
+    {% if entry.tier == "workshop" %}
+    :newspaper:
+    {% endif %}
+
+    {% if entry.tier != "workshop" and entry.type == "inproceedings" %}
+    :newspaper: :trophy:
+    {% endif %}
+
+    {% if entry.type == "misc" %}
+    :black_nib:
+    {% endif %}
+
+    {% if entry.type == "article" %}
+    :ledger:
+    {% endif %}
+
+    {% if entry.type == "thesis" %}
+    :mortar_board:
+    {% endif %}
+
     {{reference | replace_first: 'Gladkova, A.', '<b>Gladkova, A.</b>' | replace_first: 'Rogers, A.', '<b>Rogers, A.</b>' }}
 
     {% assign simpleKey = entry.key | split: "_" | slice:0, 4 %}

@@ -7,10 +7,13 @@ permalink: /service/
 
 ## Conferences
 
+* Editor-in-Chief for [ACL Rolling Review](https://aclrollingreview.org/people), starting in March 2024
 * program chair for [ACL 2023](https://2023.aclweb.org/)
 * senior area chair [ACL 2021](https://2021.aclweb.org/), [EMNLP 2022](https://2022.emnlp.org/)   
 * area chair: [EACL 2021](https://2021.eacl.org/), [NAACL 2021](https://2021.naacl.org/)
 * publicity chair for [EMNLP 2020](https://2020.emnlp.org/), [COLING 2020](https://coling2020.org/)
+* reviewed for various *ACL-affiliated conferences and workshops since 2018
+* reviewed for journals: Cognitive Processing (2022), ACM CSUR (2022), NJELT (2023)
 
 ## Workshops
 

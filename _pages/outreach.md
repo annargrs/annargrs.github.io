@@ -8,14 +8,19 @@ permalink: /outreach/
 
 ## Social Media
 
-* **Hacking Semantics**: my blog on computational linguistics, cognition, AI and NLP [URL](https://hackingsemantics.xyz/) 
-* **Academic Twitter**: <a href="https://twitter.com/annargrs?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-lang="en" data-dnt="true" data-show-count="false">Follow @annargrs</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+* **Blog** on NLP research findings, methodology squibs, and thoughts on peer review: [Hacking Semantics](https://hackingsemantics.xyz/) 
+* **Academic Twitter**: <a href="https://twitter.com/annargrs?ref_src=twsrc%5Etfw">@annargrs</a>
+* **LinkedIn**: [https://www.linkedin.com/in/annargrs](annargrs)
+* **BlueSky**: [@annarogers.bsky.social](https://bsky.app/profile/annarogers.bsky.social)
 
-## Media                                  
+## Media (selected)                                  
+\* either stories for which I was interviewed, or highlighting work to which I contributed
 
-* **WIRED**: Artificial Intelligence Confronts a 'Reproducibility' Crisis, 09.16.2019 ([URL](https://www.wired.com/story/artificial-intelligence-confronts-reproducibility-crisis/))
-* **Tech Xplore**: Investigating the self-attention mechanism behind BERT-based architectures, 11.09.2019 ([URL](https://techxplore.com/news/2019-09-self-attention-mechanism-bert-based-architectures.html))
-* **Quanta, WIRED**: Machines Beat Humans on a Reading Test. But Do They Understand?, 17.10.2019 ([URL](https://techxplore.com/news/2019-09-self-attention-mechanism-bert-based-architectures.html), [URL](https://www.wired.com/story/computers-are-learning-to-read-but-theyre-still-not-so-smart/)) 
+* [CNN](https://edition.cnn.com/2023/12/22/health/algorithm-life-expectancy/index.html): Danish researchers use machine learning to predict aspects of individual lives, including when someone might die, 12.23.2023
+* [Science Report](https://sciencereport.dk/ny-viden/nyt-studie-peger-paa-flere-udfordringer-med-peer-review/): Nyt studie peger på flere udfordringer med peer review, 02.12.2021 
+* [WIRED](https://www.wired.com/story/artificial-intelligence-confronts-reproducibility-crisis/): Artificial Intelligence Confronts a 'Reproducibility' Crisis, 09.16.2019
+* [Tech Xplore](https://techxplore.com/news/2019-09-self-attention-mechanism-bert-based-architectures.html): Investigating the self-attention mechanism behind BERT-based architectures, 11.09.2019 
+* [Quanta](https://www.quantamagazine.org/machines-beat-humans-on-a-reading-test-but-do-they-understand-20191017/), [WIRED](https://www.wired.com/story/computers-are-learning-to-read-but-theyre-still-not-so-smart/): Machines Beat Humans on a Reading Test. But Do They Understand?, 17.10.2019 
    
 ## Cross-disciplinary lectures
 
