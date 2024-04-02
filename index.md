@@ -6,9 +6,9 @@ author_profile: true
 #title: Home
 ---
 
-<p>I am a tenured Associate Professor in the <a href="https://en.itu.dk/Research/Departments/Computer-Science-Department">Computer Science Department</a> at the IT University of Copenhagen, affiliated with the <a href="https://nlpnorth.github.io/">NLPNorth</a> section. My main research area is Natural Language Processing, in particular analysis and evaluation of pre-trained language models. Currently I am an editor-in-chief of <a href="https://aclrollingreview.org/people">ACL Rolling Review</a>, the peer review platform for all major NLP conferences.</p>
+I am a tenured Associate Professor in the [Computer Science Department](https://en.itu.dk/Research/Departments/Computer-Science-Department) at the IT University of Copenhagen, affiliated with the [NLPNorth](https://nlpnorth.github.io/) section. My work focuses on interpretability and robustness of NLP applications based on Large Language Models, as well as their sociotechnical impacts. Currently I am an editor-in-chief of [ACL Rolling Review](https://aclrollingreview.org/people), the peer review platform for all major NLP conferences.
 
-<p>Before moving to Denmark, I was a postdoc at the <a href="https://text-machine.cs.uml.edu/">University of Massachusetts</a> (Lowell), working on sentiment analysis, question answering and analysis of Transformer-based language models. Then I joined the <a href="https://sodas.ku.dk/">Center for Social Data Science</a> at the University of Copenhagen, focusing on AI and society (as a postdoc and later assistant professor). I hold a Ph.D. degree from the <a href="https://www.c.u-tokyo.ac.jp/eng_site/info/academics/grad/lis/">Department of Language and Information Sciences</a> at the University of Tokyo (Japan).</p>
+I hold a PhD in Computational Linguistics from the [University of Tokyo](https://www.c.u-tokyo.ac.jp/eng_site/info/academics/grad/lis/)), followed by postdocs in Machine Learning for NLP ([University of Massachusetts](https://text-machine.cs.uml.edu/) (Lowell)) and Social Data Science ([University of Copenhagen](https://sodas.ku.dk/)).
 
 :loudspeaker: Open research positions: see [here](/lab/#phd-and-postdoc-positions)
 
