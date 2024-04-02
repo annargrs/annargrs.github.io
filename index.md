@@ -10,6 +10,8 @@ author_profile: true
 
 <p>Before moving to Denmark, I was a postdoc at the <a href="https://text-machine.cs.uml.edu/">University of Massachusetts</a> (Lowell), working on sentiment analysis, question answering and analysis of Transformer-based language models. Then I joined the <a href="https://sodas.ku.dk/">Center for Social Data Science</a> at the University of Copenhagen, focusing on AI and society (as a postdoc and later assistant professor). I hold a Ph.D. degree from the <a href="https://www.c.u-tokyo.ac.jp/eng_site/info/academics/grad/lis/">Department of Language and Information Sciences</a> at the University of Tokyo (Japan).</p>
 
+:loudspeaker: Open research positions: see [here](/lab/#phd-and-postdoc-positions)
+
 ## News
 
 {: .archive__item-excerpt .news}

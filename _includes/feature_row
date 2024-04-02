@@ -51,6 +51,12 @@
           {% if f.url %}
             <p><a href="{{ f_url }}" class="btn {{ f.btn_class }}">{{ f.btn_label | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }}</a></p>
           {% endif %}
+
+          {% if f.onClick %}
+            <p>
+            <button class="btn {{ f.btn_class }}" onclick="{{ f.onClick }}">{{ f.btn_label | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }}</button>
+            </p>
+          {% endif %}
         </div>
       </div>
     </div>

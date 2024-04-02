@@ -167,6 +167,11 @@ list-style:none!important;
   font-size: smaller;
 }
 
-.notice--info, .notice--warning {
+.notice--info, .notice--warning, .notice--primary, .notice, .notice--danger {
   font-size: 0.9em !important;
+}
+
+.project {
+  display: none;
+  overflow: hidden;
 }
