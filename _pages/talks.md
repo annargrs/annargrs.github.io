@@ -18,9 +18,11 @@ permalink: /talks/
   July 1-2 2024: NLP seminar at [Cardiff University, Wales](https://cardiffnlp.github.io/)
 * **NarrativeTime: Dense Temporal Annotation on a Timeline** <br/> 
   May 20-25 2024: [LREC-COLING 2024](https://lrec-coling-2024.org/), Turin, Italy
-* TBA <br/>
+* **A Sanity Check on Emergent Properties** <br/>
   May 17 2024: NLP seminar at [Milan NLP ](https://milanlproc.github.io/)
-* TBA <br/>
+* **A Sanity Check on Emergent Properties** <br/>
+  May 15 2024: [Georgetown University](https://college.georgetown.edu/), Washington D.C., USA
+* **A Sanity Check on Emergent Properties** <br/>
   April 25 2024: [Centre for linguistic theory and studies in probability](https://www.gu.se/en/clasp), Goteborg, Sweden
 
 ## 2024

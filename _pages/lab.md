@@ -108,7 +108,8 @@ If that sounds like you, please get in touch, including your CV and transcripts!
 **Logistics:** 
 - Generally, to be enrolled in the Ph.D. school in Denmark, you need to have a Master's degree. 
 - The Danish visa process for non-EU citizens usually takes about 3 months (after you receive and accept the offer).
-- You don't have to learn Danish. 
+- You don't have to learn Danish.
+- What would it be like to do a PhD in Denmark and ITU? Here's some [tips and reflections by NLPNorth PhD students](https://nlpnorth.github.io/content/phd-reflections.html) 
 {% endcapture %}
 
 <div class="notice--warning">{{ notice-2 | markdownify }}</div>

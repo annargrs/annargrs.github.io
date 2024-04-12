@@ -5,6 +5,11 @@ title: Editorial and organization roles
 permalink: /service/
 ---
 
+## Professional organizations
+
+- [Association for Computational Linguistics](https://www.aclweb.org/) (ACL, from 2016), currently serving as co-Editor-in-Chief for ACL Rolling Review
+- [Danish Data Science Academy](https://ddsa.dk/), currently serving in the Education & Networking Committee 
+
 ## Conferences
 
 * Editor-in-Chief for [ACL Rolling Review](https://aclrollingreview.org/people), starting in March 2024
@@ -31,16 +36,6 @@ permalink: /service/
   November 11-12 2020: Punta Cana, Dominican Republic (co-located with EMNLP 2020)
 * **RepEval 2019:** [The Third Workshop on Evaluating Vector Space Representations for NLP](https://repeval2019.github.io/) <br/>
   June 6 2019: Minneapolis, USA (co-located with NAACL 2019)
-
-               
-## Tutorials
-
-* **T4 LREC 2018 tutorial:** [Distributional compositional semantics in the age of word embeddings: tasks, resources and methodology](http://text-machine.cs.uml.edu/lrec2018_t4/index.html) <br/>
-            May 7, 2018: Miyazaki, Japan (LREC 2018) </p> <br/>
-* **ACML 2019 tutorial:** [Text Representations Learning and Compositional Semantics](http://www.acml-conf.org/2019/tutorials/) <br/>
-            November 17, 2019: Nagoya, Japan</p> <br/>
-* **COLING 2020 tutorial:** [A guide to the dataset explosion in QA, NLI, and commonsense reasoning](https://coling2020.org/pages/tutorials) <br/>
-            December 13, 2020: Barcelona, Spain</p>             
             
 ## Shared tasks
 

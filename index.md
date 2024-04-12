@@ -16,6 +16,7 @@ I hold a PhD in Computational Linguistics from the [University of Tokyo](https:/
 
 {: .archive__item-excerpt .news}
 
+- **11.04.2024** I will serve in the Education & Networking Committee of the [Danish Data Science Academy](https://ddsa.dk). Excited to help with shaping the future of Data Science in Denmark!
 - **20.03.2024** We are hiring! A <a href="https://candidate.hr-manager.net/ApplicationInit.aspx?cid=119&ProjectId=181678&DepartmentId=3439&MediaId=5">open PhD position</a> for fall 2024, co-supervised by Rob van der Goot and myself! 
 - **12.03.2024** I am joining [ACL Rolling Review](https://aclrollingreview.org/people) as an editor-in-chief!
 - **19.02.2024** [NarrativeTime: Dense Temporal Annotation on a Timeline](https://arxiv.org/abs/1908.11443) was accepted to LREC-COLING 2024!

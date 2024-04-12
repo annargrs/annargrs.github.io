@@ -18,7 +18,7 @@ permalink: /teaching/
 * **Self-supervised representations in NLP**: tutorial at [DTU summer school](www2.imm.dtu.dk/courses/02901/): Denmark Technical University, August 24 2023. [Slides](https://u.pcloud.link/publink/show?code=XZUXKaVZcFzRfRi3dQYreNG1PdJTnf7B2kUk), [Exercise](https://colab.research.google.com/drive/1Fia263yMPSKyoZ3eg8eDW4lAZVARNtpr?usp=sharing)
 * **Machine Reading, Fast and Slow: When Do Models "Understand" Language?** [Analytical Connectionism](https://www.ucl.ac.uk/gatsby/analytical-connectionism-2023): UCL, UK, September 7 2023
 
-## Tutorials
+## Conference Tutorials
 
 * **T4 LREC 2018 tutorial:** [Distributional compositional semantics in the age of word embeddings: tasks, resources and methodology](http://text-machine.cs.uml.edu/lrec2018_t4/index.html) <br/> May 7, 2018: Miyazaki, Japan (LREC 2018) </p> <br/>
 * **ACML 2019 tutorial:** [Text Representations Learning and Compositional Semantics](http://www.acml-conf.org/2019/tutorials/) <br/> November 17, 2019: Nagoya, Japan</p> <br/>
