@@ -87,8 +87,8 @@ Initial recruiting just started! See [available and upcoming positions](#phd-and
 {% capture notice-1 %}
 
 **Current funded positions:**
-  - Ph.D.: ["Linguistic competence of language models in prompt interpretation and text generation"](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=119&ProjectId=181678&DepartmentId=3439&MediaId=5) 
-  - postdoc: 1-year postdoc position focusing on development of a generalization benchmark
+  - ~~**Deadline April 15 2024**: Ph.D.: ["Linguistic competence of language models in prompt interpretation and text generation"](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=119&ProjectId=181678&DepartmentId=3439&MediaId=5)~~
+  - **Deadline May 31 2024**: postdoc: [1-year postdoc position focusing on development of a generalization benchmark](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=119&ProjectId=181688&DepartmentId=3439&MediaId=5)
   - upcoming: PhD positions specializing in (a) influence functions for large language models, (b) semantic search over large databases. 
   - upcoming: 2-year postdoc specializing in reference identification, preferably with prior expertise in scholarly document processing or explainable fact-checking
 

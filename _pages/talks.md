@@ -22,11 +22,11 @@ permalink: /talks/
   May 17 2024: NLP seminar at [Milan NLP ](https://milanlproc.github.io/)
 * **A Sanity Check on Emergent Properties** <br/>
   May 15 2024: [Georgetown University](https://college.georgetown.edu/), Washington D.C., USA
-* **A Sanity Check on Emergent Properties** <br/>
-  April 25 2024: [Centre for linguistic theory and studies in probability](https://www.gu.se/en/clasp), Goteborg, Sweden
 
 ## 2024
 
+* **A Sanity Check on Emergent Properties** <br/>
+  April 25 2024: [Centre for linguistic theory and studies in probability](https://www.gu.se/en/clasp), Goteborg, Sweden
 * **A Sanity Check on Emergent Properties** <br/> 
   March 27 2024: [NLP seminar](https://people.cs.umass.edu/~miyyer/nlpseminar/index.html) at [UMass Amherst](https://nlp.cs.umass.edu/) (online)
 * **A Sanity Check on Emergent Properties** <br/> 

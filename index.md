@@ -10,12 +10,13 @@ I am a tenured Associate Professor in the [Computer Science Department](https://
 
 I hold a PhD in Computational Linguistics from the [University of Tokyo](https://www.c.u-tokyo.ac.jp/eng_site/info/academics/grad/lis/)), followed by postdocs in Machine Learning for NLP ([University of Massachusetts](https://text-machine.cs.uml.edu/) (Lowell)) and Social Data Science ([University of Copenhagen](https://sodas.ku.dk/)).
 
-:loudspeaker: Open research positions: see [here](/lab/#phd-and-postdoc-positions)
+<i class="fa fa-door-open"/> Open research positions: see [here](/lab/#phd-and-postdoc-positions)
 
 ## News
 
 {: .archive__item-excerpt .news}
 
+- **30.04.2024** Looking for a postdoc! A [1-year position](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=119&ProjectId=181688&DepartmentId=3439&MediaId=5) focusing on the development of a new generalization benchmark. 
 - **11.04.2024** I will serve in the Education & Networking Committee of the [Danish Data Science Academy](https://ddsa.dk). Excited to help with shaping the future of Data Science in Denmark!
 - **20.03.2024** We are hiring! A <a href="https://candidate.hr-manager.net/ApplicationInit.aspx?cid=119&ProjectId=181678&DepartmentId=3439&MediaId=5">open PhD position</a> for fall 2024, co-supervised by Rob van der Goot and myself! 
 - **12.03.2024** I am joining [ACL Rolling Review](https://aclrollingreview.org/people) as an editor-in-chief!
