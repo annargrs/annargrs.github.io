@@ -11,22 +11,18 @@ redirect_from: "/supervision/"
 feature_title: "Research directions"
 feature_row:
   - image_path: /assets/images/project_cards_transparency.png
-#    title: "Placeholder 3"
     excerpt: "How can we tell _why_ a NLP system produces a certain output?"
     btn_label: "Research questions and outputs"
     btn_class: "btn--primary"
     onClick: "showBibtex('interpretability')"  
   - image_path: assets/images/project_cards_robustness.png
     alt: "placeholder image 1"
-#    title: "Placeholder 1"
     excerpt: "How do we know and make sure that a NLP system will work well in the real world?"
     btn_label: "Research questions and outputs"
     btn_class: "btn--primary"
     onClick: "showBibtex('robustness')"  
   - image_path: /assets/images/project_cards_sustainability.png
-#    image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
     alt: "placeholder image 2"
-#    title: "Placeholder 2"
     excerpt: "The current SOTA models are huge. How do we make them more efficient?"
     btn_label: "Research questions and outputs"
     btn_class: "btn--primary"
@@ -65,7 +61,7 @@ Some relevant past work:
 
 {% capture efficiency %}
 
-## Safe and Robust NLP
+## Efficient NLP
 
 The current cutting-edge NLP systems are based on large language models, some with hundreds with billions of parameters. As they are increasingly embedded in everyday applications and used of millions of people, the carbon costs of their use are also skyrocketing. It is imperative that in the future we find more efficient methods to achieve the same or better levels of performance.
 
