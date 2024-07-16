@@ -110,13 +110,6 @@ author:
 #      icon: "fab fa-brands fa-mastodon"
 #      url: "https://sigmoid.social/@annargrs"
 
-# SEO and Analytics
-#google_site_verification : "todo"
-#bing_site_verification   : "todo"
-analytics:
-  provider: "google-gtag" # false (default), "google", "google-universal", "custom"
-  google:
-    tracking_id: "UA-127096214-3"
 environment: production # should work, if not check if env set to development
 
 plugins:

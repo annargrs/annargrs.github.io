@@ -16,6 +16,10 @@ I hold a PhD in Computational Linguistics from the [University of Tokyo](https:/
 
 {: .archive__item-excerpt .news}
 
+- **15.07.2024** [Max Müller-Eberstein](https://mxij.me/) is joining my lab for a project efficiency and generalization, funded by DFF. More jobs coming up soon.
+- **11.07.2024** We present the results of our [ACL'24 study on detection of synthetic news content](https://arxiv.org/abs/2406.12128) as expert discussants in a technical dialogue between the European AI Office (EUAIO) and the U.S. AI Safety Institute (USAISI), held at the U.S. Department of Commerce in Washington, D.C. and online.
+- **15.05.2024** [AI 'News' Content Farms Are Easy to Make and Hard to Detect: A Case Study in Italian](https://arxiv.org/abs/2406.12128) was accepted to ACL 2024!
+- **02.05.2024** [Mind your Language (Model): Fact-Checking LLMs and their Role in NLP Research and Practice](https://arxiv.org/abs/2308.07120) was accepted to ICML 2024!
 - **30.04.2024** Looking for a postdoc! A [1-year position](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=119&ProjectId=181688&DepartmentId=3439&MediaId=5) focusing on the development of a new generalization benchmark. 
 - **11.04.2024** I will serve in the Education & Networking Committee of the [Danish Data Science Academy](https://ddsa.dk). Excited to help with shaping the future of Data Science in Denmark!
 - **20.03.2024** We are hiring! A <a href="https://candidate.hr-manager.net/ApplicationInit.aspx?cid=119&ProjectId=181678&DepartmentId=3439&MediaId=5">open PhD position</a> for fall 2024, co-supervised by Rob van der Goot and myself! 

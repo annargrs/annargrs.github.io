@@ -80,17 +80,23 @@ Some relevant past work:
 
 # People
 
-Initial recruiting just started! See [available and upcoming positions](#phd-and-postdoc-positions).
+(starting in fall 2024)
+
+- postdoc: [Max Müller-Eberstein](https://mxij.me/) (specializing in research on generalization and data efficiency)
+- Ph.D. student: [Andreas Geert Motzfeldt](https://scholar.google.com/citations?user=exKjb8YAAAAJ&hl=en&oi=ao) (specializing in explainability for clinical NLP)
+- Ph.D. student: Bertram Højer (specializing in interpretability and model analysis)
+- Ph.D. student: TBA 
+
+Recruiting is continuing! See [upcoming positions](#phd-and-postdoc-positions).
 
 # Ph.D. and Postdoc Positions
 
 {% capture notice-1 %}
 
-**Current funded positions:**
-  - ~~**Deadline April 15 2024**: Ph.D.: ["Linguistic competence of language models in prompt interpretation and text generation"](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=119&ProjectId=181678&DepartmentId=3439&MediaId=5)~~
-  - **Deadline May 31 2024**: postdoc: [1-year postdoc position focusing on development of a generalization benchmark](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=119&ProjectId=181688&DepartmentId=3439&MediaId=5)
-  - upcoming: PhD positions specializing in (a) influence functions for large language models, (b) semantic search over large databases. 
-  - upcoming: 2-year postdoc specializing in reference identification, preferably with prior expertise in scholarly document processing or explainable fact-checking
+**Upcoming funded positions:**
+  - PhD positions specializing in (a) influence functions for large language models, (b) semantic search over large databases. 
+  - 2-year postdoc specializing in reference identification, preferably with prior expertise in scholarly document processing or explainable fact-checking
+
 
 **Getting your own funding** (if you have your own idea for a PhD or postdoc that you'd like to pursue with me):
   - Danish Data Science Academy funding opportunities (have a look at 2023 calls for [PhD](https://ddsa.dk/phdfellowshipprogramme/) and [postdoc](https://ddsa.dk/postdocfellowshipprogramme/) applications)
@@ -100,7 +106,7 @@ Initial recruiting just started! See [available and upcoming positions](#phd-and
 
 <div class="notice--info">{{ notice-1 | markdownify }}</div>
 
-If that sounds like you, please get in touch, including your CV and transcripts! Also check my [upcoming talks](https://annargrs.github.io/talks/#upcoming-talks), maybe there's an opportunity to meet at an upcoming conference.
+If that sounds like you, please get in touch, including your CV and transcripts! Ads for funded positions will come up in September 2024. Also check my [upcoming talks](https://annargrs.github.io/talks/#upcoming-talks), maybe there's an opportunity to meet at an upcoming conference.
 
 <!-- **Winning your own grant:** if you have your own idea for a PhD or postdoc position that you'd like to pursue with me, have a look at the current DDSA funding opportunities ([PhD](https://ddsa.dk/phdfellowshipprogramme/), [postdoc](https://ddsa.dk/postdocfellowshipprogramme/)) and reach out. I can also host [Marie Curie postodcs](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships). -->
 

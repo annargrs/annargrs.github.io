@@ -12,9 +12,21 @@ permalink: /talks/
 {: .gray}
 * TBA <br/>
   September 30-October 3 2024: [Shonan meeting 209: Empowering Local Open Source LLMs](https://shonan.nii.ac.jp/seminars/209/), Kanagawa, Japan
-* TBA <br/>
+* LLMs and factuality <br/>
   September 26 2024: Athens NLP Summer School, Greece
-* TBA <br/> 
+* **A Sanity Check on Emergent Properties** <br/>
+  August 16 2024: [The 1st Workshop on Data Contamination @ ACL2024, Bangkok](https://conda-workshop.github.io/)
+* **Large language models as research assistants: workflows and challenges** <br/>
+  August 16 2024: [Fourth Workshop on Scholarly Document Processing @ ACL2024, Bangkok](https://sdproc.org/2024/)
+* **Key Claims in LLM Research Have a Long Tail of Footnotes** <br/>
+  July 24 2024: [ICML 2024](https://icml.cc/)
+
+## 2024
+
+
+* <i class="fa fa-landmark"/> Expert discussant at the Roundtable on Watermarking/Content Authentication/Synthetic Content with Academia and Civil Society. <br/>
+  July 11 2024: This event was a technical dialogue between the European AI Office (EUAIO) and the U.S. AI Safety Institute (USAISI), held at the U.S. Department of Commerce in Washington, D.C. and online.
+* **A Sanity Check on Emergent Properties** <br/>
   July 1-2 2024: NLP seminar at [Cardiff University, Wales](https://cardiffnlp.github.io/)
 * **NarrativeTime: Dense Temporal Annotation on a Timeline** <br/> 
   May 20-25 2024: [LREC-COLING 2024](https://lrec-coling-2024.org/), Turin, Italy
@@ -22,9 +34,8 @@ permalink: /talks/
   May 17 2024: NLP seminar at [Milan NLP ](https://milanlproc.github.io/)
 * **A Sanity Check on Emergent Properties** <br/>
   May 15 2024: [Georgetown University](https://college.georgetown.edu/), Washington D.C., USA
-
-## 2024
-
+* Commentator at [NSF workshop "New Horizons in Language Science"](https://newhorizonsinlanguagescience.github.io/) <br/>
+ May 13-14 The U.S. National Science Foundation (NSF). Alexandria, Virginia, USA
 * **A Sanity Check on Emergent Properties** <br/>
   April 25 2024: [Centre for linguistic theory and studies in probability](https://www.gu.se/en/clasp), Goteborg, Sweden
 * **A Sanity Check on Emergent Properties** <br/> 
