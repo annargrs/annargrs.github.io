@@ -61,7 +61,7 @@ Some relevant past work:
 
 {% capture efficiency %}
 
-## Efficient NLP
+## Sustainable NLP
 
 The current cutting-edge NLP systems are based on large language models, some with hundreds with billions of parameters. As they are increasingly embedded in everyday applications and used of millions of people, the carbon costs of their use are also skyrocketing. It is imperative that in the future we find more efficient methods to achieve the same or better levels of performance.
 
@@ -79,9 +79,9 @@ Some relevant past work:
 (starting in fall 2024)
 
 - postdoc: [Max Müller-Eberstein](https://mxij.me/) (specializing in research on generalization and data efficiency)
-- Ph.D. student: [Andreas Geert Motzfeldt](https://scholar.google.com/citations?user=exKjb8YAAAAJ&hl=en&oi=ao) (specializing in explainability for clinical NLP)
-- Ph.D. student: Bertram Højer (specializing in interpretability and model analysis)
-- Ph.D. student: TBA 
+- Ph.D. student: [Andreas Geert Motzfeldt](https://scholar.google.com/citations?user=exKjb8YAAAAJ&hl=en&oi=ao) (explainability for clinical NLP)
+- Ph.D. student: Bertram Højer (interpretability and model analysis)
+- Ph.D. student: Arzu Burcu Guven (robustness, generalization)
 
 Recruiting is continuing! See [upcoming positions](#phd-and-postdoc-positions).
 
@@ -102,7 +102,7 @@ Recruiting is continuing! See [upcoming positions](#phd-and-postdoc-positions).
 
 <div class="notice--info">{{ notice-1 | markdownify }}</div>
 
-If that sounds like you, please get in touch, including your CV and transcripts! Ads for funded positions will come up in September 2024. Also check my [upcoming talks](https://annargrs.github.io/talks/#upcoming-talks), maybe there's an opportunity to meet at an upcoming conference.
+If that sounds like you, please get in touch, including your CV and transcripts! Please do *not* use AI writing assistance, I would rather have a shorter text that tells me more about you. Ads for funded positions will come up in September 2024. Also check my [upcoming talks](https://annargrs.github.io/talks/#upcoming-talks), maybe there's an opportunity to meet at an upcoming conference. 
 
 <!-- **Winning your own grant:** if you have your own idea for a PhD or postdoc position that you'd like to pursue with me, have a look at the current DDSA funding opportunities ([PhD](https://ddsa.dk/phdfellowshipprogramme/), [postdoc](https://ddsa.dk/postdocfellowshipprogramme/)) and reach out. I can also host [Marie Curie postodcs](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships). -->
 
@@ -118,11 +118,13 @@ If that sounds like you, please get in touch, including your CV and transcripts!
 
 # Thesis and project supervision at ITU
 
+{% capture itu %}
+
 If you're a B.Sc. or M.Sc. student at IT University of Copenhagen, and you would like to work with me, please: 
 
 - reach out stating `[ITU M.Sc. thesis]`, `[ITU B.Sc. thesis]` or `[ITU research project]` at the start of the subject.
 - introduce yourself and state:
-  - a few concrete topics that you are interested in,
+  - a few concrete topics that could be in our shared interests 
   - your background and any relevant experience. 
 
 Here are some of the research directions that I would be interested in: 
@@ -134,3 +136,7 @@ Here are some of the research directions that I would be interested in:
 - **Sustainable NLP**: how can we build systems that work well, but don't require billions of parameters and terabytes of data? 
 
 Feel free to also look at my [publications](/publications) and see if there's anything you'd like to build on.
+
+{% endcapture %}
+
+<div class="bla">{{ itu | markdownify }}</div>
