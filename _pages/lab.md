@@ -81,15 +81,15 @@ Some relevant past work:
 - postdoc: [Max Müller-Eberstein](https://mxij.me/) (specializing in research on generalization and data efficiency)
 - Ph.D. student: [Andreas Geert Motzfeldt](https://scholar.google.com/citations?user=exKjb8YAAAAJ&hl=en&oi=ao) (explainability for clinical NLP)
 - Ph.D. student: Bertram Højer (interpretability and model analysis)
-- Ph.D. student: Arzu Burcu Guven (robustness, generalization)
+- Ph.D. student: Arzu Burcu Güven (robustness, generalization)
 
 Recruiting is continuing! See [upcoming positions](#phd-and-postdoc-positions).
 
-# Ph.D. and Postdoc Positions
+# PhD and Postdoc Positions
 
 {% capture notice-1 %}
 
-**Upcoming funded positions:**
+**Upcoming funded positions:** (official ads coming in September 2024)
   - PhD positions specializing in (a) influence functions for large language models, (b) semantic search over large databases. 
   - 2-year postdoc specializing in reference identification, preferably with prior expertise in scholarly document processing or explainable fact-checking
 
@@ -98,11 +98,12 @@ Recruiting is continuing! See [upcoming positions](#phd-and-postdoc-positions).
   - Danish Data Science Academy funding opportunities (have a look at 2023 calls for [PhD](https://ddsa.dk/phdfellowshipprogramme/) and [postdoc](https://ddsa.dk/postdocfellowshipprogramme/) applications)
   - [Marie Curie postodcs](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships)
 
+If you'd like to work with me, please get in touch and let me know the specific interests we have in common. Please include your CV, and do *not* use AI writing assistance (I would rather have a shorter text that tells me more about you). Also check my [upcoming talks](https://annargrs.github.io/talks/#upcoming-talks), maybe there's an opportunity to meet at an upcoming conference.
+
 {% endcapture %}
 
 <div class="notice--info">{{ notice-1 | markdownify }}</div>
 
-If that sounds like you, please get in touch, including your CV and transcripts! Please do *not* use AI writing assistance, I would rather have a shorter text that tells me more about you. Ads for funded positions will come up in September 2024. Also check my [upcoming talks](https://annargrs.github.io/talks/#upcoming-talks), maybe there's an opportunity to meet at an upcoming conference. 
 
 <!-- **Winning your own grant:** if you have your own idea for a PhD or postdoc position that you'd like to pursue with me, have a look at the current DDSA funding opportunities ([PhD](https://ddsa.dk/phdfellowshipprogramme/), [postdoc](https://ddsa.dk/postdocfellowshipprogramme/)) and reach out. I can also host [Marie Curie postodcs](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships). -->
 
@@ -110,11 +111,11 @@ If that sounds like you, please get in touch, including your CV and transcripts!
 **Logistics:** 
 - Generally, to be enrolled in the Ph.D. school in Denmark, you need to have a Master's degree. 
 - The Danish visa process for non-EU citizens usually takes about 3 months (after you receive and accept the offer).
-- You don't have to learn Danish.
+- You *don't* have to learn Danish.
 - What would it be like to do a PhD in Denmark and ITU? Here's some [tips and reflections by NLPNorth PhD students](https://nlpnorth.github.io/content/phd-reflections.html) 
 {% endcapture %}
 
-<div class="notice--warning">{{ notice-2 | markdownify }}</div>
+<div>{{ notice-2 | markdownify }}</div>
 
 # Thesis and project supervision at ITU
 

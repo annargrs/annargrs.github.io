@@ -173,9 +173,9 @@ list-style:none!important;
 
 .notice--primary {
   display: none;
-  overflow: hidden;
+  overflow: scrollbar;
 }
 
 #interpretability, #robustness, #efficiency {
-  display: none !important;
+  display: none;
 }
