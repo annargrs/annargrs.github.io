@@ -74,9 +74,9 @@ Some relevant past work:
 
 <div id="efficiency" class="notice--primary project">{{ efficiency| markdownify }}</div>
 
-# People
+# Lab
 
-(starting in fall 2024)
+Starting in fall 2024:
 
 - postdoc: [Max Müller-Eberstein](https://mxij.me/) (specializing in research on generalization and data efficiency)
 - Ph.D. student: [Andreas Geert Motzfeldt](https://scholar.google.com/citations?user=exKjb8YAAAAJ&hl=en&oi=ao) (explainability for clinical NLP)
@@ -84,6 +84,8 @@ Some relevant past work:
 - Ph.D. student: Arzu Burcu Güven (robustness, generalization)
 
 Recruiting is continuing! See [upcoming positions](#phd-and-postdoc-positions). 
+
+The lab is part of [NLPNorth research group](https://nlpnorth.github.io/), with 3 other faculty working in NLP. The group participates in the [AI Pioneer center](https://www.aicentre.dk/people), where it is possible to interact with other NLP researchers in University of Copenhagen and other institutions. Here are some [reflections by NLPNorth PhD students](https://nlpnorth.github.io/content/phd-reflections.html) on what it's like to live and study in Denmark.
 
 # PhD and Postdoc Positions
 
@@ -97,23 +99,22 @@ Recruiting is continuing! See [upcoming positions](#phd-and-postdoc-positions).
   - Danish Data Science Academy funding opportunities (have a look at 2023 calls for [PhD](https://ddsa.dk/phdfellowshipprogramme/) and [postdoc](https://ddsa.dk/postdocfellowshipprogramme/) applications)
   - [Marie Curie postodcs](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships)
 
-If you'd like to work with me, please get in touch and let me know **what are the specific research interests we have in common** (based on the above lab research directions or my past work). Generic "please look at my CV" emails will be ignored. Please do *not* use AI writing assistance: I would rather have a shorter text that tells me more about you. Also check my [upcoming talks](https://annargrs.github.io/talks/#upcoming-talks), maybe there's an opportunity to meet at an upcoming conference.
+{% endcapture %}
+
+If you'd like to work with me, please get in touch and let me know **what are the specific research interests we have in common** (based on the above lab research directions or my past work). Generic "please look at my CV" emails will be ignored. Please do *not* use AI writing assistance: I would rather have a shorter text that tells me more about you. Also check my [upcoming talks](https://annargrs.github.io/talks/#upcoming-talks), maybe there's an opportunity to meet at an upcoming conference. 
 
 I do *not* currently have the possibility to host interns.
 
-{% endcapture %}
-
 <div class="notice--info">{{ notice-1 | markdownify }}</div>
-
 
 <!-- **Winning your own grant:** if you have your own idea for a PhD or postdoc position that you'd like to pursue with me, have a look at the current DDSA funding opportunities ([PhD](https://ddsa.dk/phdfellowshipprogramme/), [postdoc](https://ddsa.dk/postdocfellowshipprogramme/)) and reach out. I can also host [Marie Curie postodcs](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships). -->
 
 {% capture notice-2 %}
 **Logistics:** 
 - Generally, to be enrolled in the Ph.D. school in Denmark, you need to have a Master's degree. 
+- The PhD in Denmark is fixed-term (3 years). It is possible to take breaks to go on internships.
 - The Danish visa process for non-EU citizens usually takes about 3 months (after you receive and accept the offer).
-- You *don't* have to learn Danish.
-- What would it be like to do a PhD in Denmark and ITU? Here's some [tips and reflections by NLPNorth PhD students](https://nlpnorth.github.io/content/phd-reflections.html) 
+- You *don't* have to learn Danish, either for professional or everyday life.
 {% endcapture %}
 
 <div>{{ notice-2 | markdownify }}</div>
