@@ -99,11 +99,9 @@ The lab is part of [NLPNorth research group](https://nlpnorth.github.io/), with 
   - Danish Data Science Academy funding opportunities (have a look at 2023 calls for [PhD](https://ddsa.dk/phdfellowshipprogramme/) and [postdoc](https://ddsa.dk/postdocfellowshipprogramme/) applications)
   - [Marie Curie postodcs](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships)
 
+If you'd like to work with me, please get in touch and let me know **what are the specific research interests we have in common** (based on the above lab research directions or my past work). Generic "please look at my CV" emails will be ignored. Please do *not* use AI writing assistance: I would rather have a shorter text that tells me more about you. Also check my [upcoming talks](https://annargrs.github.io/talks/#upcoming-talks), maybe there's an opportunity to meet at an upcoming conference. I do *not* currently have the possibility to host interns.
+
 {% endcapture %}
-
-If you'd like to work with me, please get in touch and let me know **what are the specific research interests we have in common** (based on the above lab research directions or my past work). Generic "please look at my CV" emails will be ignored. Please do *not* use AI writing assistance: I would rather have a shorter text that tells me more about you. Also check my [upcoming talks](https://annargrs.github.io/talks/#upcoming-talks), maybe there's an opportunity to meet at an upcoming conference. 
-
-I do *not* currently have the possibility to host interns.
 
 <div class="notice--info">{{ notice-1 | markdownify }}</div>
 
