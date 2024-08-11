@@ -18,12 +18,11 @@ permalink: /talks/
   August 16 2024: [The 1st Workshop on Data Contamination @ ACL2024, Bangkok](https://conda-workshop.github.io/)
 * **Large language models as research assistants: workflows and challenges** <br/>
   August 16 2024: [Fourth Workshop on Scholarly Document Processing @ ACL2024, Bangkok](https://sdproc.org/2024/)
-* **Key Claims in LLM Research Have a Long Tail of Footnotes** <br/>
-  July 24 2024: [ICML 2024](https://icml.cc/)
 
 ## 2024
 
-
+* **Key Claims in LLM Research Have a Long Tail of Footnotes** <br/>
+  July 24 2024: [ICML 2024](https://icml.cc/)
 * <i class="fa fa-landmark"/> Expert discussant at the Roundtable on Watermarking/Content Authentication/Synthetic Content with Academia and Civil Society. <br/>
   July 11 2024: This event was a technical dialogue between the European AI Office (EUAIO) and the U.S. AI Safety Institute (USAISI), held at the U.S. Department of Commerce in Washington, D.C. and online.
 * **A Sanity Check on Emergent Properties** <br/>
