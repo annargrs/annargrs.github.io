@@ -4342,3 +4342,6 @@ a.reversefootnote {
   flex: 50%;
 }
 
+#interpretability, #robustness, #efficiency {
+  display: none;
+}
