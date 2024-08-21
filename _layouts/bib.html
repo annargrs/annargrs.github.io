@@ -31,6 +31,10 @@
     {% assign simpleKey = entry.key | split: "_" | slice:0, 4 %}
     {% assign simpleKey = simpleKey | join: "_" %}
 
+    {% if entry.award %}
+    :trophy: <b>{{ entry.award }}</b>
+    {% endif %}
+
     {% if entry.abstract %}
     <button class="btn--info" onclick="showBibtex('{{ simpleKey }}_abs')">Abstract</button>
     {% endif %}
