@@ -125,18 +125,19 @@ If you're a B.Sc. or M.Sc. student at IT University of Copenhagen, and you would
 
 - reach out stating `[ITU M.Sc. thesis]`, `[ITU B.Sc. thesis]` or `[ITU research project]` at the start of the subject.
 - introduce yourself and state:
-  - a few concrete topics that could be in our shared interests 
-  - your background and any relevant experience. 
+  - the topic(s) that could be in our shared interests (see mine below) 
+  - your background and any **relevant experience**. For an NLP project, you would ideally have taken an NLP course (even online or self-taught), or you have hands-on experience with the subject matter relevant to your preferred topic.
 
 Here are some of the research directions that I would be interested in: 
-- **Language model analysis**: identifying the types of knowledge acquired from language model pre-training
+
+- **Language model analysis**: identifying the types of knowledge acquired from language model pre-training.  
 - **Language processing strategies**: do NLP models perform well for the right reasons? What strategies should they follow when solving reasoning tasks?
 - **Robustness and generalization**: do NLP models reliably perform their tasks out of training distribution, and what can we do to help them?
 - **NLP system auditing and documentation**: establishing the cases where a system is safe to deploy
 - **NLP system interpretability**: how can we establish how a deep learning model arrives at its decisions?
 - **Sustainable NLP**: how can we build systems that work well, but don't require billions of parameters and terabytes of data? 
 
-Feel free to also look at my [publications](/publications) and see if there's anything you'd like to build on.
+Feel free to also look at my recent [publications](/publications) and see if there's anything you'd like to build on.
 
 {% endcapture %}
 

@@ -1,17 +1,25 @@
 @inproceedings{puccetti2024ainewscontentfarms,
-      title={AI "News" Content Farms Are Easy to Make and Hard to Detect: A Case Study in Italian}, 
-      author={Giovanni Puccetti and Anna Rogers and Chiara Alzetta and Felice Dell'Orletta and Andrea Esuli},
-      year={2024},
-      month={08},
-      eprint={2406.12128},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2406.12128}, 
-      project="robustness",      
-      booktitle = {ACL 2024},
-      abstract = {Large Language Models (LLMs) are increasingly used as "content farm" models (CFMs), to generate synthetic text that could pass for real news articles. This is already happening even for languages that do not have high-quality monolingual LLMs. We show that fine-tuning Llama (v1), mostly trained on English, on as little as 40K Italian news articles, is sufficient for producing news-like texts that native speakers of Italian struggle to identify as synthetic. We investigate three LLMs and three methods of detecting synthetic texts (log-likelihood, DetectGPT, and supervised classification), finding that they all perform better than human raters, but they are all impractical in the real world (requiring either access to token likelihood information or a large dataset of CFM texts). We also explore the possibility of creating a proxy CFM: an LLM fine-tuned on a similar dataset to one used by the real "content farm". We find that even a small amount of fine-tuning data suffices for creating a successful detector, but we need to know which base LLM is used, which is a major challenge. Our results suggest that there are currently no practical methods for detecting synthetic news-like texts 'in the wild', while generating them is too easy. We highlight the urgency of more NLP research on this problem.},
-      award = {Area Chair Award}
+    title = "{AI} {`}News{'} Content Farms Are Easy to Make and Hard to Detect: A Case Study in {I}talian",
+    author = "Puccetti, Giovanni  and
+      Rogers, Anna  and
+      Alzetta, Chiara  and
+      Dell{'}Orletta, Felice  and
+      Esuli, Andrea",
+    editor = "Ku, Lun-Wei  and
+      Martins, Andre  and
+      Srikumar, Vivek",
+    booktitle = "Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    month = aug,
+    year = "2024",
+    address = "Bangkok, Thailand",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.acl-long.817",
+    pages = "15312--15338",
+    award = {Area Chair Award},    
+    project="robustness",          
+    abstract = "Large Language Models (LLMs) are increasingly used as {`}content farm{'} models (CFMs), to generate synthetic text that could pass for real news articles. This is already happening even for languages that do not have high-quality monolingual LLMs. We show that fine-tuning Llama (v1), mostly trained on English, on as little as 40K Italian news articles, is sufficient for producing news-like texts that native speakers of Italian struggle to identify as synthetic.We investigate three LLMs and three methods of detecting synthetic texts (log-likelihood, DetectGPT, and supervised classification), finding that they all perform better than human raters, but they are all impractical in the real world (requiring either access to token likelihood information or a large dataset of CFM texts). We also explore the possibility of creating a proxy CFM: an LLM fine-tuned on a similar dataset to one used by the real {`}content farm{'}. We find that even a small amount of fine-tuning data suffices for creating a successful detector, but we need to know which base LLM is used, which is a major challenge.Our results suggest that there are currently no practical methods for detecting synthetic news-like texts {`}in the wild{'}, while generating them is too easy. We highlight the urgency of more NLP research on this problem.",
 }
+
 
 @misc{KuznetsovAfzalEtAl_2024_What_Can_Natural_Language_Processing_Do_for_Peer_Review,
   title = {What {{Can Natural Language Processing Do}} for {{Peer Review}}?},
