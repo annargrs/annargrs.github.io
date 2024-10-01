@@ -22,6 +22,8 @@ permalink: /talks/
   August 16 2024: [The 1st Workshop on Data Contamination @ ACL2024, Bangkok](https://conda-workshop.github.io/)
 * **Large language models as research assistants: workflows and challenges** <br/>
   August 16 2024: [Fourth Workshop on Scholarly Document Processing @ ACL2024, Bangkok](https://sdproc.org/2024/)
+* **AI "News" Content Farms Are Easy to Make and Hard to Detect: A Case Study in Italian** <br/>
+August 12 2024: [ACL 2024](https://aclanthology.org/2024.acl-long.817/), Bangkok  
 * **Key Claims in LLM Research Have a Long Tail of Footnotes** <br/>
   July 24 2024: [ICML 2024](https://icml.cc/)
 * <i class="fa fa-landmark"/> Expert discussant at the Roundtable on Watermarking/Content Authentication/Synthetic Content with Academia and Civil Society. <br/>
