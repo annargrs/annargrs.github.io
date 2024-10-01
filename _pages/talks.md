@@ -12,14 +12,12 @@ permalink: /talks/
 {: .gray}
 * **A Sanity Check on Emergent Properties** <br/>
  October 11 2024: [Infrastructures of (Non-)Knowledge](https://www.virtuelle-lebenswelten.de/blog-post/second-annual-conference-infrastructures-of-non--knowledge-9--11-october-2024), Ruhr-University Bochum, Germany (online)
-* TBA <br/>
-  September 30-October 3 2024: [Shonan meeting 209: Empowering Local Open Source LLMs](https://shonan.nii.ac.jp/seminars/209/), Kanagawa, Japan
-* **LLMs and factuality** <br/>
-  September 26 2024: Athens NLP Summer School, Greece
-
 
 ## 2024
 
+* September 30-October 3 2024: [Shonan meeting 209: Empowering Local Open Source LLMs](https://shonan.nii.ac.jp/seminars/209/), Kanagawa, Japan
+* **LLMs and factuality** <br/>
+  September 26 2024: [Athens NLP Summer School](https://athnlp.github.io/2024/), Greece
 * **A Sanity Check on Emergent Properties** <br/>
   August 16 2024: [The 1st Workshop on Data Contamination @ ACL2024, Bangkok](https://conda-workshop.github.io/)
 * **Large language models as research assistants: workflows and challenges** <br/>
