@@ -76,8 +76,6 @@ Some relevant past work:
 
 # Lab
 
-Starting in fall 2024:
-
 - postdoc: [Max Müller-Eberstein](https://mxij.me/) (specializing in research on generalization and data efficiency)
 - Ph.D. student: [Andreas Geert Motzfeldt](https://scholar.google.com/citations?user=exKjb8YAAAAJ&hl=en&oi=ao) (explainability for clinical NLP)
 - Ph.D. student: Bertram Højer (interpretability and model analysis)
@@ -85,15 +83,15 @@ Starting in fall 2024:
 
 Recruiting is continuing! See [upcoming positions](#phd-and-postdoc-positions). 
 
-The lab is part of [NLPNorth research group](https://nlpnorth.github.io/), with 3 other faculty working in NLP. The group participates in the [AI Pioneer center](https://www.aicentre.dk/people), where it is possible to interact with other NLP researchers in University of Copenhagen and other institutions. Here are some [reflections by NLPNorth PhD students](https://nlpnorth.github.io/content/phd-reflections.html) on what it's like to live and study in Denmark.
+The lab is part of [NLPNorth research group](https://nlpnorth.github.io/), with 4 other faculty working in NLP. The group participates in the [AI Pioneer center](https://www.aicentre.dk/people), where it is possible to interact with other NLP researchers in University of Copenhagen and other institutions. Here are some [reflections by NLPNorth PhD students](https://nlpnorth.github.io/content/phd-reflections.html) on what it's like to live and study in Denmark.
 
 # PhD and Postdoc Positions
 
 {% capture notice-1 %}
 
-**Upcoming funded positions:** (official ads coming in September 2024)
-  - PhD positions specializing in (a) influence functions for large language models, (b) semantic search over large databases. 
-  - 2-year postdoc specializing in reference identification, preferably with prior expertise in scholarly document processing or explainable fact-checking
+**Upcoming funded positions:** 
+  - PhD positions specializing in (a) influence functions for large language models, (b) semantic search over large databases. [Apply by Nov 22 2024](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=119&ProjectId=181734&DepartmentId=3439&MediaId=5)
+  - 2-year postdoc specializing in reference identification, preferably with prior expertise in scholarly document processing or explainable fact-checking [Apply by Nov 15 2024](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=119&ProjectId=181730&DepartmentId=3439&MediaId=5)
 
 **Getting your own funding** (if you have your own idea for a PhD or postdoc that you'd like to pursue with me):
   - Danish Data Science Academy funding opportunities (have a look at 2023 calls for [PhD](https://ddsa.dk/phdfellowshipprogramme/) and [postdoc](https://ddsa.dk/postdocfellowshipprogramme/) applications)

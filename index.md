@@ -6,7 +6,7 @@ author_profile: true
 #title: Home
 ---
 
-I am a tenured Associate Professor in the [Computer Science Department](https://en.itu.dk/Research/Departments/Computer-Science-Department) at the IT University of Copenhagen, affiliated with the [NLPNorth](https://nlpnorth.github.io/) section. My work focuses on interpretability and robustness of NLP applications based on Large Language Models, as well as their sociotechnical impacts. Currently I am an editor-in-chief of [ACL Rolling Review](https://aclrollingreview.org/people), the peer review platform for all major NLP conferences.
+I am a tenured Associate Professor in the [Computer Science Department](https://en.itu.dk/Research/Departments/Computer-Science-Department) at the IT University of Copenhagen, affiliated with the [NLPNorth](https://nlpnorth.github.io/) section. My work focuses on interpretability and robustness of NLP applications based on Large Language Models, as well as their sociotechnical impacts. I am currently an editor-in-chief of [ACL Rolling Review](https://aclrollingreview.org/people), the peer review platform for all major NLP conferences.
 
 I hold a PhD in Computational Linguistics from the [University of Tokyo](https://www.c.u-tokyo.ac.jp/eng_site/info/academics/grad/lis/)), followed by postdocs in Machine Learning for NLP ([University of Massachusetts](https://text-machine.cs.uml.edu/) (Lowell)) and Social Data Science ([University of Copenhagen](https://sodas.ku.dk/)).
 
@@ -16,6 +16,9 @@ I hold a PhD in Computational Linguistics from the [University of Tokyo](https:/
 
 {: .archive__item-excerpt .news}
 
+- **08.10.2024** 🏆 I received [Villum Synergy](https://villumfonden.dk/da/nyhed/47-millioner-til-tvaerfaglig-forskning) grant for an interdisciplinary (NLP-sociology) project
+- **03.10.2024** I was elected an [ELLIS fellow](https://ellis.eu/fellows)! 
+- **13.08.2024** 🏆 [AI 'News' Content Farms Are Easy to Make and Hard to Detect: A Case Study in Italian](https://aclanthology.org/2024.acl-long.817/) received an area chair award at ACL'24!
 - **15.07.2024** [Max Müller-Eberstein](https://mxij.me/) is joining my lab for a project efficiency and generalization, funded by DFF. More jobs coming up soon.
 - **11.07.2024** We present the results of our [ACL'24 study on detection of synthetic news content](https://arxiv.org/abs/2406.12128) as expert discussants in a technical dialogue between the European AI Office (EUAIO) and the U.S. AI Safety Institute (USAISI), held at the U.S. Department of Commerce in Washington, D.C. and online.
 - **15.05.2024** [AI 'News' Content Farms Are Easy to Make and Hard to Detect: A Case Study in Italian](https://arxiv.org/abs/2406.12128) was accepted to ACL 2024!
