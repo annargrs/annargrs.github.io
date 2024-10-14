@@ -9,12 +9,15 @@ permalink: /talks/
 
 ## Upcoming talks and events
 
+* **AI "News" Content Farms Are Easy to Make and Hard to Detect: A Case Study in Italian** <br/>
+OCtober 25 2024: Pioneer Center for AI, Copenhagen  
 {: .gray}
-* **A Sanity Check on Emergent Properties** <br/>
- October 11 2024: [Infrastructures of (Non-)Knowledge](https://www.virtuelle-lebenswelten.de/blog-post/second-annual-conference-infrastructures-of-non--knowledge-9--11-october-2024), Ruhr-University Bochum, Germany (online)
+
 
 ## 2024
 
+* **A Sanity Check on Emergent Properties** <br/>
+ October 11 2024: [Infrastructures of (Non-)Knowledge](https://www.virtuelle-lebenswelten.de/blog-post/second-annual-conference-infrastructures-of-non--knowledge-9--11-october-2024), Ruhr-University Bochum, Germany (online)
 * September 30-October 3 2024: [Shonan meeting 209: Empowering Local Open Source LLMs](https://shonan.nii.ac.jp/seminars/209/), Kanagawa, Japan
 * **LLMs and factuality** <br/>
   September 26 2024: [Athens NLP Summer School](https://athnlp.github.io/2024/), Greece
