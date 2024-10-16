@@ -93,13 +93,17 @@ The lab is part of [NLPNorth research group](https://nlpnorth.github.io/), with 
   - PhD positions specializing in (a) influence functions for large language models, (b) semantic search over large databases. [Apply by Nov 22 2024](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=119&ProjectId=181734&DepartmentId=3439&MediaId=5)
   - 2-year postdoc specializing in reference identification, preferably with prior expertise in scholarly document processing or explainable fact-checking [Apply by Nov 15 2024](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=119&ProjectId=181730&DepartmentId=3439&MediaId=5)
 
-**Getting your own funding** (if you have your own idea for a PhD or postdoc that you'd like to pursue with me):
-  - Danish Data Science Academy funding opportunities (have a look at 2023 calls for [PhD](https://ddsa.dk/phdfellowshipprogramme/) and [postdoc](https://ddsa.dk/postdocfellowshipprogramme/) applications)
-  - [Marie Curie postodcs](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships)
+In your research statement, please focus on the kinds of questions you might want to pursue, given the focus of the project, and why you have the ability or experience to contribute to answering such questions. Brevity is appreciated, no need for fluff. 
 
-If you'd like to work with me, please get in touch and let me know **what are the specific research interests we have in common** (based on the above lab research directions or my past work). Generic "please look at my CV" emails will be ignored. Please do *not* use AI writing assistance: I would rather have a shorter text that tells me more about you. Also check my [upcoming talks](https://annargrs.github.io/talks/#upcoming-talks), maybe there's an opportunity to meet at an upcoming conference. I do *not* currently have the possibility to host interns.
+Generic "please look at my CV" emails will be ignored. I do *not* currently have the possibility to host interns. I maintain a list of [upcoming talks and events](https://annargrs.github.io/talks/#upcoming-talks), where it might be possible to meet in person.
 
 {% endcapture %}
+
+**Getting your own funding** (if you have your own idea for a PhD or postdoc that you'd like to pursue with me):
+  - Danish Data Science Academy funding opportunities (have a look at 2023 calls for [PhD](https://ddsa.dk/phdfellowshipprogramme/) and [postdoc](https://ddsa.dk/postdocfellowshipprogramme/) applications)
+  - [Marie Curie postodcs](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships): next application round is in the fall 2025. For EU-based applicants it is possible to obtain funding for a short visit to ITU for developing the application in spring 2025.
+
+If you'd like me to support your funding application, please get in touch and let me know **what are the specific research interests we have in common** (based on the above lab research directions or my past work).  
 
 <div class="notice--info">{{ notice-1 | markdownify }}</div>
 

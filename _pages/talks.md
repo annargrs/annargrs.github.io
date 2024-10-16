@@ -9,10 +9,12 @@ permalink: /talks/
 
 ## Upcoming talks and events
 
+* TBA: Dec 18-19, Chalmers University, Sweden
 * **AI "News" Content Farms Are Easy to Make and Hard to Detect: A Case Study in Italian** <br/>
-OCtober 25 2024: Pioneer Center for AI, Copenhagen  
+October 25 2024: Pioneer Center for AI, Copenhagen  
 {: .gray}
-
+* [D3A](https://d3aconference.dk/) conference (day 1 only) <br/>
+ October 22 2024
 
 ## 2024
 
