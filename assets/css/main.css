@@ -1450,7 +1450,7 @@ th {
   padding: 1em;
   color: #494e52;
   font-family: "Roboto", "Helvetica Neue", sans-serif;
-  font-size: 0.75em !important;
+/* font-size: 0.75em !important; */
   text-indent: initial;
   /* override*/
   background-color: #f8f9f9;

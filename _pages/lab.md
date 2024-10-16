@@ -99,13 +99,14 @@ Generic "please look at my CV" emails will be ignored. I do *not* currently have
 
 {% endcapture %}
 
+<div class="notice--info">{{ notice-1 | markdownify }}</div>
+
 **Getting your own funding** (if you have your own idea for a PhD or postdoc that you'd like to pursue with me):
   - Danish Data Science Academy funding opportunities (have a look at 2023 calls for [PhD](https://ddsa.dk/phdfellowshipprogramme/) and [postdoc](https://ddsa.dk/postdocfellowshipprogramme/) applications)
   - [Marie Curie postodcs](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships): next application round is in the fall 2025. For EU-based applicants it is possible to obtain funding for a short visit to ITU for developing the application in spring 2025.
 
 If you'd like me to support your funding application, please get in touch and let me know **what are the specific research interests we have in common** (based on the above lab research directions or my past work).  
 
-<div class="notice--info">{{ notice-1 | markdownify }}</div>
 
 <!-- **Winning your own grant:** if you have your own idea for a PhD or postdoc position that you'd like to pursue with me, have a look at the current DDSA funding opportunities ([PhD](https://ddsa.dk/phdfellowshipprogramme/), [postdoc](https://ddsa.dk/postdocfellowshipprogramme/)) and reach out. I can also host [Marie Curie postodcs](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships). -->
 
