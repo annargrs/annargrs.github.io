@@ -1524,18 +1524,18 @@ th {
   margin: 2em 0 !important;
   /* override*/
   padding: 1em;
-  color: #494e52;
+  color: #fff;
   font-family: "Roboto", "Helvetica Neue", sans-serif;
-  font-size: 0.75em !important;
+  font-size: 1em !important;
   text-indent: initial;
   /* override*/
-  background-color: #ebf5f8;
+  background-color: #032539;
   border-radius: 4px;
   box-shadow: 0 1px 1px rgba(59, 156, 186, 0.25); }
   .notice--info h4 {
     margin-top: 0 !important;
     /* override*/
-    margin-bottom: 0.75em; }
+    margin-bottom: 1em; }
   .page__content .notice--info h4 {
     /* using at-root to override .page-content h4 font size*/
     margin-bottom: 0;
