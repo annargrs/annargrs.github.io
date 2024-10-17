@@ -1450,7 +1450,7 @@ th {
   padding: 1em;
   color: #494e52;
   font-family: "Roboto", "Helvetica Neue", sans-serif;
-/* font-size: 0.75em !important; */
+  font-size: 0.9em !important; 
   text-indent: initial;
   /* override*/
   background-color: #f8f9f9;
@@ -1488,7 +1488,7 @@ th {
   padding: 1em;
   color: #494e52;
   font-family: "Roboto", "Helvetica Neue", sans-serif;
-  font-size: 0.75em !important;
+  font-size: 0.9em !important;
   text-indent: initial;
   /* override*/
   background-color: #e6e9eb;
@@ -1497,7 +1497,7 @@ th {
   .notice--primary h4 {
     margin-top: 0 !important;
     /* override*/
-    margin-bottom: 0.75em; }
+    margin-bottom: 0.9em; }
   .page__content .notice--primary h4 {
     /* using at-root to override .page-content h4 font size*/
     margin-bottom: 0;
