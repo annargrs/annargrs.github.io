@@ -76,7 +76,7 @@ Some relevant past work:
 
 # Lab
 
-- postdoc: [Max Müller-Eberstein](https://mxij.me/) (specializing in research on generalization and data efficiency)
+- postdoc: [Max Müller-Eberstein](https://mxij.me/) (generalization and data efficiency)
 - Ph.D. student: [Andreas Geert Motzfeldt](https://scholar.google.com/citations?user=exKjb8YAAAAJ&hl=en&oi=ao) (explainability for clinical NLP)
 - Ph.D. student: Bertram Højer (interpretability and model analysis)
 - Ph.D. student: Arzu Burcu Güven (robustness, generalization)
@@ -91,7 +91,7 @@ The lab is part of [NLPNorth research group](https://nlpnorth.github.io/), with 
 
 **Upcoming funded positions:** 
   - PhD positions specializing in (a) influence functions for large language models, (b) semantic search over large databases. [Apply by Nov 22 2024](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=119&ProjectId=181734&DepartmentId=3439&MediaId=5)
-  - 2-year postdoc specializing in reference identification, preferably with prior expertise in scholarly document processing or explainable fact-checking [Apply by Nov 15 2024](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=119&ProjectId=181730&DepartmentId=3439&MediaId=5)
+  - 2-year postdoc specializing in reference identification, preferably with prior expertise in scholarly document processing or explainable fact-checking. [Apply by Nov 15 2024](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=119&ProjectId=181730&DepartmentId=3439&MediaId=5)
 
 In your research statement, please focus on the kinds of questions you might want to pursue, given the focus of the project, and why you have the ability or experience to contribute to answering such questions. Brevity is appreciated, no need for fluff. 
 
@@ -112,7 +112,7 @@ If you'd like me to support your funding application, please get in touch and le
 
 {% capture notice-2 %}
 **Logistics:** 
-- Generally, to be enrolled in the Ph.D. school in Denmark, you need to have a Master's degree. 
+- Generally, to be enrolled in the Ph.D. school in Denmark, you need to have a Master's degree. The only possible exception at ITU is candidates who have 180 ECTS points from their B.Sc. program plus 1 year of master's level studies of 60 ECTS points (a total of 240 ECTS points). Such candidates would generally need to start by spending a year to finish their Master's degree, at a lower salary. 
 - The PhD in Denmark is fixed-term (3 years). It is possible to take breaks to go on internships.
 - The Danish visa process for non-EU citizens usually takes about 3 months (after you receive and accept the offer).
 - You *don't* have to learn Danish, either for professional or everyday life.

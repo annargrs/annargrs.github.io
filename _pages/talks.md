@@ -10,14 +10,13 @@ permalink: /talks/
 ## Upcoming talks and events
 
 * TBA: Dec 18-19, Chalmers University, Sweden
-* **AI "News" Content Farms Are Easy to Make and Hard to Detect: A Case Study in Italian** <br/>
-October 25 2024: Pioneer Center for AI, Copenhagen  
+
 {: .gray}
-* [D3A](https://d3aconference.dk/) conference (day 1 only) <br/>
- October 22 2024
 
 ## 2024
 
+* **AI "News" Content Farms Are Easy to Make and Hard to Detect: A Case Study in Italian** <br/>
+October 25 2024: Pioneer Center for AI, Copenhagen  
 * **A Sanity Check on Emergent Properties** <br/>
  October 11 2024: [Infrastructures of (Non-)Knowledge](https://www.virtuelle-lebenswelten.de/blog-post/second-annual-conference-infrastructures-of-non--knowledge-9--11-october-2024), Ruhr-University Bochum, Germany (online)
 * September 30-October 3 2024: [Shonan meeting 209: Empowering Local Open Source LLMs](https://shonan.nii.ac.jp/seminars/209/), Kanagawa, Japan
