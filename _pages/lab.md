@@ -94,7 +94,7 @@ The lab is part of [NLPNorth research group](https://nlpnorth.github.io/), with 
   - PhD positions specializing in (a) influence functions for large language models, (b) semantic search over large databases. [Apply by Nov 22 2024](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=119&ProjectId=181734&DepartmentId=3439&MediaId=5)
   - 2-year postdoc specializing in reference identification, preferably with prior expertise in scholarly document processing or explainable fact-checking. [Apply by Nov 15 2024](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=119&ProjectId=181730&DepartmentId=3439&MediaId=5)
 
-In your research statement, please focus on the kinds of questions you might want to pursue, given the focus of the project, and why you have the ability or experience to contribute to answering such questions. Brevity is appreciated, references are welcome. 
+In your research statement, please focus on the kinds of questions you might want to pursue, given the focus of the project, and why you have the ability or experience to contribute to answering such questions. Brevity is appreciated, references are welcome. The earliest possible starting date is January 1, but later dates can be accomodated.
 
 Generic "please look at my CV" emails will be ignored. I do *not* currently have the possibility to host interns. I maintain a list of [upcoming talks and events](https://annargrs.github.io/talks/#upcoming-talks), where it might be possible to meet in person.
 
