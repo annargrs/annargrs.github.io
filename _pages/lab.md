@@ -76,9 +76,9 @@ Some relevant past work:
 
 # Lab
 
-- postdoc: [Max Müller-Eberstein](https://mxij.me/) (generalization and data efficiency)
-- Ph.D. student: [Andreas Geert Motzfeldt](https://scholar.google.com/citations?user=exKjb8YAAAAJ&hl=en&oi=ao) (explainability for clinical NLP) - co-supervised with [Christian Hardmeier](https://christianhardmeier.rax.ch/)
-- Ph.D. student: Bertram Højer (interpretability and model analysis) - co-supervised with [Stefan Heinrich](https://stefanheinrich.net/)
+- postdoc: [Max Müller-Eberstein](https://mxij.me/) (generalization, data efficiency)
+- Ph.D. student: [Andreas Geert Motzfeldt](https://scholar.google.com/citations?user=exKjb8YAAAAJ&hl=en&oi=ao) (interpretability, robustness for clinical NLP) - co-supervised with [Christian Hardmeier](https://christianhardmeier.rax.ch/)
+- Ph.D. student: Bertram Højer (interpretability, model analysis) - co-supervised with [Stefan Heinrich](https://stefanheinrich.net/)
 - Ph.D. student: Arzu Burcu Güven (robustness, generalization) - co-supervised with [Rob van der Goot](https://robvanderg.github.io/)
 
 Recruiting is continuing! See [upcoming positions](#phd-and-postdoc-positions). 
@@ -90,6 +90,7 @@ The lab is part of [NLPNorth research group](https://nlpnorth.github.io/), with 
 {% capture notice-1 %}
 
 **Upcoming funded positions:** 
+
   - PhD positions specializing in (a) influence functions for large language models, (b) semantic search over large databases. [Apply by Nov 22 2024](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=119&ProjectId=181734&DepartmentId=3439&MediaId=5)
   - 2-year postdoc specializing in reference identification, preferably with prior expertise in scholarly document processing or explainable fact-checking. [Apply by Nov 15 2024](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=119&ProjectId=181730&DepartmentId=3439&MediaId=5)
 
