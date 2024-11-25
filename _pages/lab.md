@@ -78,7 +78,7 @@ Some relevant past work:
 
 - postdoc: [Max Müller-Eberstein](https://mxij.me/) (generalization, data efficiency)
 - Ph.D. student: [Andreas Geert Motzfeldt](https://scholar.google.com/citations?user=exKjb8YAAAAJ&hl=en&oi=ao) (interpretability, robustness for clinical NLP) - co-supervised with [Christian Hardmeier](https://christianhardmeier.rax.ch/)
-- Ph.D. student: Bertram Højer (interpretability, model analysis) - co-supervised with [Stefan Heinrich](https://stefanheinrich.net/)
+- Ph.D. student: [Bertram Højer](https://bertramhojer.github.io/) (interpretability, model analysis) - co-supervised with [Stefan Heinrich](https://stefanheinrich.net/)
 - Ph.D. student: Arzu Burcu Güven (robustness, generalization) - co-supervised with [Rob van der Goot](https://robvanderg.github.io/)
 
 Recruiting is continuing! See [upcoming positions](#phd-and-postdoc-positions). 
