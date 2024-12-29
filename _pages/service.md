@@ -9,8 +9,9 @@ permalink: /service/
 
 - [Association for Computational Linguistics](https://www.aclweb.org/) (ACL, from 2016), currently serving as co-Editor-in-Chief for ACL Rolling Review
 - [Danish Data Science Academy](https://ddsa.dk/), currently serving in the Education & Networking Committee 
+- [European Laboratory for Learning and Intelligent Systems](https://ellis.eu/fellows), currently ELLIS fellow
 
-## Conferences
+## Editorial roles
 
 * Editor-in-Chief for [ACL Rolling Review](https://aclrollingreview.org/people), starting in March 2024
 * program chair for [ACL 2023](https://2023.aclweb.org/)
@@ -21,7 +22,8 @@ permalink: /service/
 * reviewed for journals: Cognitive Processing (2022), ACM CSUR (2022), NJELT (2023)
 
 ## Workshops
-
+* **Insights 2023:** [The Fifth Workshop on Insights from Negative Results in NLP](https://insights-workshop.github.io/) <br/>
+  (co-located with NAACL 2024)  
 * **Insights 2023:** [The Fourth Workshop on Insights from Negative Results in NLP](https://insights-workshop.github.io/) <br/>
   (co-located with EACL 2023)  
 * **Insights 2022:** [The Third Workshop on Insights from Negative Results in NLP](https://insights-workshop.github.io/) <br/>

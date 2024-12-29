@@ -50,7 +50,7 @@ Some relevant past work:
 
 I use "safety" in the engineering sense of the word: the NLP systems should actually do what their developers are promising, the same way as e.g. construction engineers ensure that the bridges they build withstand the target load. This is inextricably linked to the topic of robustness of generalization: the NLP systems are trained on some data, and to perform in the real world they need to generalize to the real-world data.
 
-My current work in this area is backed by 2023 DFF Inge Lehmann grant (see [upcoming positions](#phd-and-postdoc-positions)). It focuses on the development of a benchmark that would reward systems for generalizing rather than memorizing their training data. This project has a planned collaboration with :us: [New York University](https://allenai.org/).
+My current work in this area is backed by 2023 DFF Inge Lehmann grant (see [upcoming positions](#phd-and-postdoc-positions)). It focuses on the development of a benchmark that would reward systems for generalizing rather than memorizing their training data. This project has a planned collaboration with :us: [New York University](https://allenai.org/). I also host an industrial PhD student co-funded by Innovation Fund Denmark, whose work focuses on robust assistance with clinical note entry.
 
 Some relevant past work: 
 {% bibliography --query @*[project=robustness] %}
@@ -76,14 +76,74 @@ Some relevant past work:
 
 # Lab
 
-- postdoc: [Max Müller-Eberstein](https://mxij.me/) (generalization, data efficiency)
-- Ph.D. student: [Andreas Geert Motzfeldt](https://scholar.google.com/citations?user=exKjb8YAAAAJ&hl=en&oi=ao) (interpretability, robustness for clinical NLP) - co-supervised with [Christian Hardmeier](https://christianhardmeier.rax.ch/)
-- Ph.D. student: [Bertram Højer](https://bertramhojer.github.io/) (interpretability, model analysis) - co-supervised with [Stefan Heinrich](https://stefanheinrich.net/)
-- Ph.D. student: Arzu Burcu Güven (robustness, generalization) - co-supervised with [Rob van der Goot](https://robvanderg.github.io/)
+{% capture lab-container %}
+
+{% capture max %}
+
+<img src="../assets/images/max.jpg" width="200"/>
+
+[Max Müller-Eberstein](https://mxij.me/) <br/>
+*generalization, data efficiency*
+
+postdoc 
+
+{% endcapture %}
+
+<div class="lab">{{ max | markdownify }}</div>
+
+{% capture andreas %}
+
+<img src="../assets/images/andreas.jpg" width="200"/>
+
+[Andreas Geert Motzfeldt](https://scholar.google.com/citations?user=exKjb8YAAAAJ&hl=en&oi=ao)<br/>
+*interpretability, robustness in clinical NLP*
+
+PhD student co-supervised with [Christian Hardmeier](https://christianhardmeier.rax.ch/)
+{: .cosupervisor }
+
+{% endcapture %}
+
+<div class="lab">{{ andreas | markdownify }}</div>
+
+
+{% capture arzu %}
+
+<img src="../assets/images/arzu.jpg" width="200"/>
+
+Arzu Burcu Güven<br/>
+*robustness, generalization across linguistic features* 
+
+PhD student co-supervised with [Rob van der Goot](https://robvanderg.github.io/)
+{: .cosupervisor }
+
+{% endcapture %}
+
+<div class="lab">{{ arzu | markdownify }}</div>
+
+{% capture bertram %}
+
+<img src="../assets/images/bertram.jpg" width="200"/>
+
+[Bertram Højer](https://bertramhojer.github.io/)<br/>
+*interpretability, model analysis* 
+
+PhD student co-supervised with [Stefan Heinrich](https://stefanheinrich.net/) 
+{: .cosupervisor }
+
+
+
+{% endcapture %}
+
+<div class="lab">{{ bertram | markdownify }}</div>
+
+
+{% endcapture %}
+
+<div id="lab-container" class="lab-container">{{ lab-container | markdownify }}</div>
 
 Recruiting is continuing! See [upcoming positions](#phd-and-postdoc-positions). 
 
-The lab is part of [NLPNorth research group](https://nlpnorth.github.io/), with 4 other faculty working in NLP. We are also a part of the [AI Pioneer center](https://www.aicentre.dk/people), where it is possible to interact with other NLP researchers in University of Copenhagen and other institutions. Here are some [reflections by NLPNorth PhD students](https://nlpnorth.github.io/content/phd-reflections.html) on what it's like to live and study in Denmark.
+The lab is part of [NLPNorth research group](https://nlpnorth.github.io/), with 4 other full-time faculty working in NLP. We are also a part of the [AI Pioneer center](https://www.aicentre.dk/people), where it is possible to interact with other NLP researchers in University of Copenhagen and other institutions. Here are some [reflections by NLPNorth PhD students](https://nlpnorth.github.io/content/phd-reflections.html) on what it's like to live and study in Denmark.
 
 # PhD and Postdoc Positions
 

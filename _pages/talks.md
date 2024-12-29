@@ -5,16 +5,21 @@ title: Selected Talks
 permalink: /talks/
 ---
 
-\* talks at events for <i class="fa fa-landmark"/> policy-makers and <i class="fa fa-users"/> non-academic audiences
+\* talks at events for <img src="/assets/icons/building-columns-solid.svg" class="sidebaricon"/> policy-makers and <img src="/assets/icons/users-solid.svg" class="sidebaricon"/> non-academic audiences 
 
 ## Upcoming talks and events
 
-* TBA: Dec 18-19, Chalmers University, Sweden
 
 {: .gray}
 
+* **LLMs and factuality** <br/>
+  February 3-5 2025: [HPLT & NLPL 2025 Winter School on Pretraining Data Quality and Multilingual LLM Evaluation](https://wiki.nlpl.eu/index.php/Community/training), Norway
+
+
 ## 2024
 
+* **AI "News" Content Farms Are Easy to Make and Hard to Detect: A Case Study in Italian** <br/>
+Dec 18-19, Chalmers University, Sweden
 * **AI "News" Content Farms Are Easy to Make and Hard to Detect: A Case Study in Italian** <br/>
 October 25 2024: Pioneer Center for AI, Copenhagen  
 * **A Sanity Check on Emergent Properties** <br/>
@@ -30,7 +35,7 @@ October 25 2024: Pioneer Center for AI, Copenhagen
 August 12 2024: [ACL 2024](https://aclanthology.org/2024.acl-long.817/), Bangkok  
 * **Key Claims in LLM Research Have a Long Tail of Footnotes** <br/>
   July 24 2024: [ICML 2024](https://icml.cc/)
-* <i class="fa fa-landmark"/> Expert discussant at the Roundtable on Watermarking/Content Authentication/Synthetic Content with Academia and Civil Society. <br/>
+* building-columns-solid.svg Expert discussant at the Roundtable on Watermarking/Content Authentication/Synthetic Content with Academia and Civil Society. <br/>
   July 11 2024: This event was a technical dialogue between the European AI Office (EUAIO) and the U.S. AI Safety Institute (USAISI), held at the U.S. Department of Commerce in Washington, D.C. and online.
 * **A Sanity Check on Emergent Properties** <br/>
   July 1-2 2024: NLP seminar at [Cardiff University, Wales](https://cardiffnlp.github.io/)
@@ -48,9 +53,9 @@ August 12 2024: [ACL 2024](https://aclanthology.org/2024.acl-long.817/), Bangkok
   March 27 2024: [NLP seminar](https://people.cs.umass.edu/~miyyer/nlpseminar/index.html) at [UMass Amherst](https://nlp.cs.umass.edu/) (online)
 * **A Sanity Check on Emergent Properties** <br/> 
   March 21 2024: [Workshop on Responsible Data Science & AI Research: Fairness, Safety, and Reproducibility](https://www.responsible-ai.science) at Queen Mary University of London (online) [[SLIDES]](https://u.pcloud.link/publink/show?code=XZ1CrF0ZqvbhNx3OT15Q32RtQNDiBuegADIy)
-* <i class="fa fa-users"/> **Generative AI: what it can and can't do for research** <br/>
+* <img src="/assets/icons/users-solid.svg" class="sidebaricon"/> **Generative AI: what it can and can't do for research** <br/>
  February 8 2024: [DARMA netværksarrangement 2024](https://genbench.org/workshop/) (Fredericia, Denmark) [SLIDES](https://u.pcloud.link/publink/show?code=XZ5KW50ZWMOfEt3wXe8KFsW7FtXfwuEWUxIk)
-* <i class="fa fa-landmark"/> **Understanding how regulations will affect data spaces participants** <br/> Panel at [Legislation and regulations for data spaces](https://language-data-space.ec.europa.eu/events/legislation-and-regulations-data-spaces-environment-development-european-data-market-2024-01-29_en?prefLang=es) (online)
+* <img src="/assets/icons/building-columns-solid.svg" class="sidebaricon"/>  **Understanding how regulations will affect data spaces participants** <br/> Panel at [Legislation and regulations for data spaces](https://language-data-space.ec.europa.eu/events/legislation-and-regulations-data-spaces-environment-development-european-data-market-2024-01-29_en?prefLang=es) (online)
 * Peer review at ACL'23 <br/>
 Jan 28-Feb 02: [Dagstuhl Seminar 24052: Reviewer No. 2: Old and New Problems in Peer Review](https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/24052). Dagstuhl, Germany
 
@@ -60,7 +65,7 @@ Jan 28-Feb 02: [Dagstuhl Seminar 24052: Reviewer No. 2: Old and New Problems in 
   December 6 2023: [GenBench workshop at EMNLP 2023](https://genbench.org/workshop/) (Singapore) [[SLIDES]](https://u.pcloud.link/publink/show?code=XZxF3y0Z62NdIJYPLpXJt6m2K9prVk6SKFVk)
 * **A Sanity Check on Emergent Properties** <br/>
   November 23 2023: [Sprogteknologisk Konference 2023](https://cst.ku.dk/kalender/sprogteknologisk-konference-2023/) at [Cambridge Language Technology Lab](https://talks.cam.ac.uk/show/archive/60438) (online)
-* <i class="fa fa-landmark"/> **Generative AI for research: things to keep in mind** <br/>
+* <img src="/assets/icons/building-columns-solid.svg" class="sidebaricon"/>  **Generative AI for research: things to keep in mind** <br/>
   November 14 2023: ITU, presentation for the [UFM](https://ufm.dk/) Office on Research and Research Infrastructure
 * **Generative AI: challenges and opportunities** <br/> 
   November 7 2023: [Digital Tech Summit](https://event.ing.dk/digitaltechsummit/session/1576137/generative-ai-challenges-and-open-questions) (Copenhagen) [[SLIDES]](https://u.pcloud.link/publink/show?code=XZPFtcVZUKwYkcA5EdVG3aGD6QAH50evAcay) 
@@ -68,11 +73,11 @@ Jan 28-Feb 02: [Dagstuhl Seminar 24052: Reviewer No. 2: Old and New Problems in 
   September 7 2023: lecture at [Analytical Connectionism](https://www.ucl.ac.uk/gatsby/analytical-connectionism-2023) (UCL, online) [[SLIDES pt1]](https://u.pcloud.link/publink/show?code=XZ5Sw3VZTy6XNswqHGHuY8pATImQ0FbU0tSV) [[SLIDES pt2]](https://u.pcloud.link/publink/show?code=XZrhw3VZGXtd0IcImpzNiu6EmOV6OuaFwQMy)
 * **Data Science in the age of LLMs**<br/>
   June 27 2023: Keynote at [Growing Danish Data Science 2023](https://ddsa.dk/growing-danish-data-science-2023/)
-* <i class="fa fa-users"/> **Future of Humanity** <br/>
+* <img src="/assets/icons/users-solid.svg" class="sidebaricon"/> **Future of Humanity** <br/>
   June 20 2023: Cross-disciplinary panel at [AI Pioneer center](https://www.aicentre.dk/events/future-of-humanity)
 * **Towards Better Data Governance for Large Language Models** <br/>
   June 13 2023: Keynote at [SwissText](https://www.swisstext.org/), [[SLIDES]](https://u.pcloud.link/publink/show?code=XZCPbOVZIgH2a4MP304R8Ww4Ethh0usw8BDk)
-* <i class="fa fa-landmark"/> **Large Language Models: Data Governance** <br/>
+* <img src="/assets/icons/building-columns-solid.svg" class="sidebaricon"/>  **Large Language Models: Data Governance** <br/>
   June 6 2023: Invited talk for [CONNECT University](https://futurium.ec.europa.eu/en/connect-university/events/large-language-models-overview-limitations-opportunities), the flagship knowledge-sharing initiative of the European Commission
 * **Panel Discussion: AI’s Impact on Technology, Research and Education** <br/>
   May 16 2023: Panelist at the [Workshop on AI's impact on Society and Advancements in Technology](https://www.microsoft.com/en-us/research/event/the-workshop-on-ais-impact-on-society-and-advancements-in-technology/speakers/), Microsoft Research

@@ -7,7 +7,7 @@ permalink: /outreach/
 
 ## Talks for non-academic audience
 
-See [talks](/talks) list for events for <i class="fa fa-landmark"/> policy-makers and <i class="fa fa-users"/> non-academic audiences
+See [talks](/talks) list for events for policy-makers and non-academic audiences.
 
 ## Social Media
 

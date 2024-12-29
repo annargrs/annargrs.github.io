@@ -4345,3 +4345,68 @@ a.reversefootnote {
 #interpretability, #robustness, #efficiency {
   display: none;
 }
+
+.myicon {
+  line-height: 1;
+  height: 1em;
+  width: 1em; 
+  background:red;
+}
+
+.myicon svg path{
+  fill: green !important;
+}
+
+.lab {
+  /*  display: inline;*/
+  /*  max-width: 23%;
+    text-align: center;
+    margin: auto; */
+    margin: 0em;
+    padding: 1em;
+    max-width: 100%;
+    display: block;
+    text-align: center;
+  }
+
+@media screen and (min-width: 768px) {
+
+.lab {
+/*  display: inline;*/
+/*  max-width: 23%;
+  text-align: center;
+  margin: auto; */
+  margin: 0em;
+  padding: 1em;
+  max-width: 22.5%;
+  display: block;
+  text-align: center;
+}
+
+.lab-container {
+  display: flex;
+  justify-content: center;
+}
+
+.lab img {
+  text-align: center;
+}
+}
+
+.cosupervisor {
+  font-size: smaller !important;
+  margin-top: -1em !important;
+}
+
+.sidebaricon {
+  width: inherit !important;
+  display:inline-block;
+  font-size:inherit !important;
+  height:1em;
+  overflow:visible;
+  vertical-align:-.125em;
+}
+
+.page {
+  padding-right: 50px;
+}

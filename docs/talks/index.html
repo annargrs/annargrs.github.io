@@ -18,7 +18,7 @@
 <meta property="og:locale" content="en_US">
 <meta property="og:site_name" content="Anna Rogers">
 <meta property="og:title" content="Selected Talks">
-<meta property="og:url" content="https://annargrs.github.io/talks/">
+<meta property="og:url" content="http://localhost:4000/talks/">
 
 
 
@@ -32,7 +32,7 @@
 
 
 
-<link rel="canonical" href="https://annargrs.github.io/talks/">
+<link rel="canonical" href="http://localhost:4000/talks/">
 
 
 
@@ -96,9 +96,28 @@ function showBibtex(bibDiv) {
 
 <!--link rel="icon" type="image/png" href="/assets/images/logo-3col.png"-->
 
-<link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet" type="text/css">
-<link href="https://fonts.googleapis.com/css?family=Oswald&display=swap" rel="stylesheet" type="text/css">
+<!--link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet" type="text/css"-->
+<!--link href="https://fonts.googleapis.com/css?family=Oswald&display=swap" rel="stylesheet" type="text/css"-->
 <link rel="stylesheet" href="/assets/css/academicons.min.css"/>
+<style>
+    @font-face {
+        font-family: "Roboto";
+        src: url("/assets/fonts/Roboto-Regular.ttf") format('truetype');
+        font-weight: sans-serif;
+        font-style: normal;
+    }
+
+    @font-face {
+        font-family: "Oswald";
+        src: url("/assets/fonts/Oswald-Regular.ttf") format('truetype');
+        font-weight: sans-serif;
+        font-style: normal;
+    }
+
+    body {
+        font-family: "Roboto", sans-serif;
+    }
+</style>
 <!-- end custom head snippets -->
 
   </head>
@@ -189,11 +208,13 @@ function showBibtex(bibDiv) {
     <ul class="author__urls social-icons">
       
 
-      
+        <li><a href="https://pure.itu.dk/en/persons/anna-rogers"> <img src="/assets/icons/landmark-solid.svg" class="sidebaricon" aria-hidden="true"/> IT University of Copenhagen</a></li>
+        <li> <img src="/assets/icons/envelope-solid.svg" class="sidebaricon" aria-hidden="true"/> arog <img src="/assets/icons/at-solid.svg" class="sidebaricon" aria-hidden="true"/> itu.dk</li>
+        <li><a href="https://bsky.app/profile/annarogers.bsky.social"> <img src="/assets/icons/bluesky-brands-solid.svg" class="sidebaricon" aria-hidden="true"/> BlueSky</a></li>
+        <li><a href="https://www.linkedin.com/in/annargrs/"> <img src="/assets/icons/linkedin-brands-solid.svg" class="sidebaricon" aria-hidden="true"/> LinkedIn</a></li>
+
         
-          
-            <li><a href="https://pure.itu.dk/en/persons/anna-rogers" rel="nofollow noopener noreferrer"><i class="fas fa-fw fa-university" aria-hidden="true"></i> IT University of Copenhagen</a></li>
-          
+        
         
           
             <li><a href="https://scholar.google.com/citations?user=5oCYOE0AAAAJ&hl=en" rel="nofollow noopener noreferrer"><i class="ai ai-google-scholar ai" aria-hidden="true"></i> Google Scholar</a></li>
@@ -213,32 +234,13 @@ function showBibtex(bibDiv) {
       
 
       
-        <li>
-          <a href="mailto:arog@itu.dk">
-            <meta itemprop="email" content="arog@itu.dk" />
-            <i class="fas fa-fw fa-envelope-square" aria-hidden="true"></i> Email
-          </a>
-        </li>
+
       
 
       
 
       
-        <li>
-          <a href="https://twitter.com/annargrs" itemprop="sameAs" rel="nofollow noopener noreferrer">
-            <i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter
-          </a>
-        </li>
-      
 
-      
-
-      
-        <li>
-          <a href="https://www.linkedin.com/in/annargrs" itemprop="sameAs" rel="nofollow noopener noreferrer">
-            <i class="fab fa-fw fa-linkedin" aria-hidden="true"></i> LinkedIn
-          </a>
-        </li>
       
 
       
@@ -326,17 +328,20 @@ https://www.gungorbudak.com/blog/2017/12/08/tags-cloud-sorted-by-post-count-for-
 
       <section class="page__content" itemprop="text">
         
-        <p>* talks at events for <i class="fa fa-landmark"></i> policy-makers and <i class="fa fa-users"></i> non-academic audiences</p>
+        <p>* talks at events for <img src="/assets/icons/building-columns-solid.svg" class="sidebaricon" /> policy-makers and <img src="/assets/icons/users-solid.svg" class="sidebaricon" /> non-academic audiences</p>
 
 <h2 id="upcoming-talks-and-events">Upcoming talks and events</h2>
 
-<ul>
-  <li>TBA: Dec 18-19, Chalmers University, Sweden</li>
+<ul class="gray">
+  <li><strong>LLMs and factuality</strong> <br />
+February 3-5 2025: <a href="https://wiki.nlpl.eu/index.php/Community/training">HPLT &amp; NLPL 2025 Winter School on Pretraining Data Quality and Multilingual LLM Evaluation</a>, Norway</li>
 </ul>
 
-<h2 class="gray" id="2024">2024</h2>
+<h2 id="2024">2024</h2>
 
 <ul>
+  <li><strong>AI “News” Content Farms Are Easy to Make and Hard to Detect: A Case Study in Italian</strong> <br />
+Dec 18-19, Chalmers University, Sweden</li>
   <li><strong>AI “News” Content Farms Are Easy to Make and Hard to Detect: A Case Study in Italian</strong> <br />
 October 25 2024: Pioneer Center for AI, Copenhagen</li>
   <li><strong>A Sanity Check on Emergent Properties</strong> <br />
@@ -352,7 +357,7 @@ August 16 2024: <a href="https://sdproc.org/2024/">Fourth Workshop on Scholarly 
 August 12 2024: <a href="https://aclanthology.org/2024.acl-long.817/">ACL 2024</a>, Bangkok</li>
   <li><strong>Key Claims in LLM Research Have a Long Tail of Footnotes</strong> <br />
 July 24 2024: <a href="https://icml.cc/">ICML 2024</a></li>
-  <li><i class="fa fa-landmark"></i> Expert discussant at the Roundtable on Watermarking/Content Authentication/Synthetic Content with Academia and Civil Society. <br />
+  <li>building-columns-solid.svg Expert discussant at the Roundtable on Watermarking/Content Authentication/Synthetic Content with Academia and Civil Society. <br />
 July 11 2024: This event was a technical dialogue between the European AI Office (EUAIO) and the U.S. AI Safety Institute (USAISI), held at the U.S. Department of Commerce in Washington, D.C. and online.</li>
   <li><strong>A Sanity Check on Emergent Properties</strong> <br />
 July 1-2 2024: NLP seminar at <a href="https://cardiffnlp.github.io/">Cardiff University, Wales</a></li>
@@ -370,9 +375,9 @@ April 25 2024: <a href="https://www.gu.se/en/clasp">Centre for linguistic theory
 March 27 2024: <a href="https://people.cs.umass.edu/~miyyer/nlpseminar/index.html">NLP seminar</a> at <a href="https://nlp.cs.umass.edu/">UMass Amherst</a> (online)</li>
   <li><strong>A Sanity Check on Emergent Properties</strong> <br /> 
 March 21 2024: <a href="https://www.responsible-ai.science">Workshop on Responsible Data Science &amp; AI Research: Fairness, Safety, and Reproducibility</a> at Queen Mary University of London (online) <a href="https://u.pcloud.link/publink/show?code=XZ1CrF0ZqvbhNx3OT15Q32RtQNDiBuegADIy">[SLIDES]</a></li>
-  <li><i class="fa fa-users"></i> <strong>Generative AI: what it can and can’t do for research</strong> <br />
+  <li><img src="/assets/icons/users-solid.svg" class="sidebaricon" /> <strong>Generative AI: what it can and can’t do for research</strong> <br />
  February 8 2024: <a href="https://genbench.org/workshop/">DARMA netværksarrangement 2024</a> (Fredericia, Denmark) <a href="https://u.pcloud.link/publink/show?code=XZ5KW50ZWMOfEt3wXe8KFsW7FtXfwuEWUxIk">SLIDES</a></li>
-  <li><i class="fa fa-landmark"></i> <strong>Understanding how regulations will affect data spaces participants</strong> <br /> Panel at <a href="https://language-data-space.ec.europa.eu/events/legislation-and-regulations-data-spaces-environment-development-european-data-market-2024-01-29_en?prefLang=es">Legislation and regulations for data spaces</a> (online)</li>
+  <li><img src="/assets/icons/building-columns-solid.svg" class="sidebaricon" />  <strong>Understanding how regulations will affect data spaces participants</strong> <br /> Panel at <a href="https://language-data-space.ec.europa.eu/events/legislation-and-regulations-data-spaces-environment-development-european-data-market-2024-01-29_en?prefLang=es">Legislation and regulations for data spaces</a> (online)</li>
   <li>Peer review at ACL’23 <br />
 Jan 28-Feb 02: <a href="https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/24052">Dagstuhl Seminar 24052: Reviewer No. 2: Old and New Problems in Peer Review</a>. Dagstuhl, Germany</li>
 </ul>
@@ -384,7 +389,7 @@ Jan 28-Feb 02: <a href="https://www.dagstuhl.de/en/seminars/seminar-calendar/sem
 December 6 2023: <a href="https://genbench.org/workshop/">GenBench workshop at EMNLP 2023</a> (Singapore) <a href="https://u.pcloud.link/publink/show?code=XZxF3y0Z62NdIJYPLpXJt6m2K9prVk6SKFVk">[SLIDES]</a></li>
   <li><strong>A Sanity Check on Emergent Properties</strong> <br />
 November 23 2023: <a href="https://cst.ku.dk/kalender/sprogteknologisk-konference-2023/">Sprogteknologisk Konference 2023</a> at <a href="https://talks.cam.ac.uk/show/archive/60438">Cambridge Language Technology Lab</a> (online)</li>
-  <li><i class="fa fa-landmark"></i> <strong>Generative AI for research: things to keep in mind</strong> <br />
+  <li><img src="/assets/icons/building-columns-solid.svg" class="sidebaricon" />  <strong>Generative AI for research: things to keep in mind</strong> <br />
 November 14 2023: ITU, presentation for the <a href="https://ufm.dk/">UFM</a> Office on Research and Research Infrastructure</li>
   <li><strong>Generative AI: challenges and opportunities</strong> <br /> 
 November 7 2023: <a href="https://event.ing.dk/digitaltechsummit/session/1576137/generative-ai-challenges-and-open-questions">Digital Tech Summit</a> (Copenhagen) <a href="https://u.pcloud.link/publink/show?code=XZPFtcVZUKwYkcA5EdVG3aGD6QAH50evAcay">[SLIDES]</a></li>
@@ -392,11 +397,11 @@ November 7 2023: <a href="https://event.ing.dk/digitaltechsummit/session/1576137
 September 7 2023: lecture at <a href="https://www.ucl.ac.uk/gatsby/analytical-connectionism-2023">Analytical Connectionism</a> (UCL, online) <a href="https://u.pcloud.link/publink/show?code=XZ5Sw3VZTy6XNswqHGHuY8pATImQ0FbU0tSV">[SLIDES pt1]</a> <a href="https://u.pcloud.link/publink/show?code=XZrhw3VZGXtd0IcImpzNiu6EmOV6OuaFwQMy">[SLIDES pt2]</a></li>
   <li><strong>Data Science in the age of LLMs</strong><br />
 June 27 2023: Keynote at <a href="https://ddsa.dk/growing-danish-data-science-2023/">Growing Danish Data Science 2023</a></li>
-  <li><i class="fa fa-users"></i> <strong>Future of Humanity</strong> <br />
+  <li><img src="/assets/icons/users-solid.svg" class="sidebaricon" /> <strong>Future of Humanity</strong> <br />
 June 20 2023: Cross-disciplinary panel at <a href="https://www.aicentre.dk/events/future-of-humanity">AI Pioneer center</a></li>
   <li><strong>Towards Better Data Governance for Large Language Models</strong> <br />
 June 13 2023: Keynote at <a href="https://www.swisstext.org/">SwissText</a>, <a href="https://u.pcloud.link/publink/show?code=XZCPbOVZIgH2a4MP304R8Ww4Ethh0usw8BDk">[SLIDES]</a></li>
-  <li><i class="fa fa-landmark"></i> <strong>Large Language Models: Data Governance</strong> <br />
+  <li><img src="/assets/icons/building-columns-solid.svg" class="sidebaricon" />  <strong>Large Language Models: Data Governance</strong> <br />
 June 6 2023: Invited talk for <a href="https://futurium.ec.europa.eu/en/connect-university/events/large-language-models-overview-limitations-opportunities">CONNECT University</a>, the flagship knowledge-sharing initiative of the European Commission</li>
   <li><strong>Panel Discussion: AI’s Impact on Technology, Research and Education</strong> <br />
 May 16 2023: Panelist at the <a href="https://www.microsoft.com/en-us/research/event/the-workshop-on-ais-impact-on-society-and-advancements-in-technology/speakers/">Workshop on AI’s impact on Society and Advancements in Technology</a>, Microsoft Research</li>
@@ -545,7 +550,7 @@ June 8 2021: presentation at <a href="https://2021.naacl.org/">NAACL 2021</a> <a
 
     
   <script src="/assets/js/main.min.js"></script>
-  <script defer src="https://use.fontawesome.com/releases/v5.8.2/js/all.js" integrity="sha384-DJ25uNYET2XCl5ZF++U8eNxPWqcKohUUBUpKGlNLMchM7q4Wjg2CUpjHLaL8yYPH" crossorigin="anonymous"></script>
+  <!--script defer src="https://use.fontawesome.com/releases/v5.8.2/js/all.js" integrity="sha384-DJ25uNYET2XCl5ZF++U8eNxPWqcKohUUBUpKGlNLMchM7q4Wjg2CUpjHLaL8yYPH" crossorigin="anonymous"></script-->
 
 
 

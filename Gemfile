@@ -22,6 +22,7 @@ gem "jekyll-feed"
 gem "jekyll-sitemap"
 gem "bibtex-ruby", "~> 6.0.0"
 gem "webrick"
+gem "jekyll-inline-svg"
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.

@@ -10,7 +10,7 @@ I am a tenured Associate Professor in the [Computer Science Department](https://
 
 I hold a PhD in Computational Linguistics from the [University of Tokyo](https://www.c.u-tokyo.ac.jp/eng_site/info/academics/grad/lis/)), followed by postdocs in Machine Learning for NLP ([University of Massachusetts](https://text-machine.cs.uml.edu/) (Lowell)) and Social Data Science ([University of Copenhagen](https://sodas.ku.dk/)).
 
-<i class="fa fa-door-open"/> Open research positions: see [here](/lab/#phd-and-postdoc-positions)
+<img src="/assets/icons/door-open-solid.svg" class="sidebaricon" aria-hidden="true"/> Open research positions: see [here](/lab/#phd-and-postdoc-positions)
 
 ## News
 

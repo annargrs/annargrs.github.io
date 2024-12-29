@@ -20,7 +20,6 @@ description: >- # this means to ignore newlines until "baseurl:"
   Anna Rogers' personal page
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: annargrs
 github_username:  annargrs
 url: "https://annargrs.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 repository: "annargrs/annargrs.github.io"
@@ -37,6 +36,7 @@ plugins:
   - jekyll-scholar
   - jekyll-sitemap
   - jemoji
+  - jekyll-inline-svg
 
 theme: minimal-mistakes-jekyll
 
@@ -50,6 +50,9 @@ scholar:
   order: descending
   bibliography_template: bib
  # use_raw_bibtex_entry: true # to enable {{...}} inside bibtex
+
+svg:
+  optimize: true
 
 include: ['_pages']
 
@@ -87,15 +90,15 @@ author:
   avatar: "/assets/images/aro.jpg"
 #  bio: "University of Copenhagen"
 #  uri: "http://www.annargrs.github.io"
-  twitter: "annargrs"
-  linkedin: "annargrs"
+#  twitter: "annargrs"
+#  bluesky: "annarogers.bsky.social"
+#  linkedin: "annargrs"
 #  github: "annargrs"
 #  vine: "doesn't matter"
-  email: "arog@itu.dk"
   links:
-    - label: "IT University of Copenhagen"
-      icon: "fas fa-fw fa-university"
-      url: "https://pure.itu.dk/en/persons/anna-rogers"
+#    - label: "IT University of Copenhagen"
+#      icon: "fas fa-fw fa-university"
+#      url: "https://pure.itu.dk/en/persons/anna-rogers"
     - label: "Google Scholar"
       icon: "ai ai-google-scholar ai"
       # ai-semantic-scholar, ai-orcid - see more at https://jpswalsh.github.io/academicons/
@@ -109,8 +112,11 @@ author:
 #    - label: "Mastodon"
 #      icon: "fab fa-brands fa-mastodon"
 #      url: "https://sigmoid.social/@annargrs"
+#    - label: "fab fa-bluesky"
+#      icon: ":butterfly"
+#      url: "https://bsky.app/profile/annarogers.bsky.social"
+#    - label: "LinkedIn"
+#      icon: "fab fa-brands fa-linkedin"
+#      url: "https://www.linkedin.com/in/annargrs/"
 
 environment: production # should work, if not check if env set to development
-
-plugins:
-  - jemoji
