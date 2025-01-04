@@ -4346,16 +4346,6 @@ a.reversefootnote {
   display: none;
 }
 
-.myicon {
-  line-height: 1;
-  height: 1em;
-  width: 1em; 
-  background:red;
-}
-
-.myicon svg path{
-  fill: green !important;
-}
 
 .lab {
   /*  display: inline;*/
