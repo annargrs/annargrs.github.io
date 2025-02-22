@@ -131,7 +131,6 @@ PhD student co-supervised with [Stefan Heinrich](https://stefanheinrich.net/)
 {: .cosupervisor }
 
 
-
 {% endcapture %}
 
 <div class="lab">{{ bertram | markdownify }}</div>
@@ -151,7 +150,7 @@ The lab is part of [NLPNorth research group](https://nlpnorth.github.io/), with 
 
 **Upcoming funded position:** 
 
- - 2-year postdoc specializing local, privacy-preserving LLM-based chatbots for conducting qualitative interviews for social science research. Part of a cross-interdisciplinary, cross-institution project in collaboration with the Center for Social Data Science at the University of Copenhagen. Application link coming soon.
+ - 2-year postdoc specializing local, privacy-preserving LLM-based chatbots for conducting qualitative interviews for social science research. Part of a cross-interdisciplinary, cross-institution project in collaboration with the Center for Social Data Science at the University of Copenhagen. Apply [here](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=119&ProjectId=181760&DepartmentId=3439&MediaId=5).
 
 In your research statement, please focus on the kinds of questions you might want to pursue, given the focus of the project, and why you have the ability or experience to contribute to answering such questions. Brevity is appreciated, references are welcome. The earliest possible starting date is May 1, but later dates can be accomodated.
 

@@ -16,6 +16,9 @@ I hold a PhD in Computational Linguistics from the [University of Tokyo](https:/
 
 {: .archive__item-excerpt .news}
 
+- **20.02.2025** All positions in the data attribution project are filled! Welcome to [Amelie Wührl](https://scholar.google.com/citations?user=jwkTGVYAAAAJ&hl=en&oi=ao), [Mattes Ruckdeschel](https://scholar.google.com/citations?user=9nRUy1AAAAAJ&hl=en&oi=ao) and Johannes Gabriel Sindlinger.
+- **03.02.2025** Lectures at [HPLT & NLPL 2025 Winter School on Pretraining Data Quality and Multilingual LLM Evaluation](https://wiki.nlpl.eu/index.php/Community/training), Norway 
+- **15.01.2025** Job ad is up for [Postdoc position on AInterviewer project](/lab/#phd-and-postdoc-positions)
 - **14.10.2024** Job ads are up for [PhD and Postdoc positions on data attribution for LLMs](/lab/#phd-and-postdoc-positions)
 - **08.10.2024** 🏆 I received [Villum Synergy](https://villumfonden.dk/da/nyhed/47-millioner-til-tvaerfaglig-forskning) grant for an interdisciplinary (NLP-sociology) project
 - **03.10.2024** I am now an [ELLIS fellow](https://ellis.eu/fellows)! 

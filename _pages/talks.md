@@ -12,19 +12,32 @@ permalink: /talks/
 
 {: .gray}
 
+* **LLMs and factuality** </br>
+April 14 2025: Fred Jelinek Seminar lecture, UFAL, Charles University, Czech Republic 
+* TBA </br>
+May 9 2025: [Truth is in the Eyes of the Machines](https://www.cwi.nl/en/events/cwi-research-semester-programmes/truth-is-in-the-eyes-of-the-machines-symposium/), Amsterdam
+* TBA <br/>
+September 8 2025: Keynote at [RANLP 2025](https://ranlp.org/ranlp2025/), Varna, Bulgaria
+* TBA <br/>
+September 24 2025: Keynote at [Bridges and Gaps between Formal and Computational Linguistics (an IWCS 2025 workshop)](https://brigap-workshop.github.io/), Düsseldorf, Germany
+* TBA <br/>
+19-21 November 2025: Keynote at [BNAIC 2025](https://docs.unamur.be/en/bnaic2025), University of Namur, Belgium
+
+## 2025
+
 * **LLMs and factuality** <br/>
   February 3-5 2025: [HPLT & NLPL 2025 Winter School on Pretraining Data Quality and Multilingual LLM Evaluation](https://wiki.nlpl.eu/index.php/Community/training), Norway
-
 
 ## 2024
 
 * **AI "News" Content Farms Are Easy to Make and Hard to Detect: A Case Study in Italian** <br/>
-Dec 18-19, Chalmers University, Sweden
+December 18-19, Chalmers University, Sweden
 * **AI "News" Content Farms Are Easy to Make and Hard to Detect: A Case Study in Italian** <br/>
 October 25 2024: Pioneer Center for AI, Copenhagen  
 * **A Sanity Check on Emergent Properties** <br/>
  October 11 2024: [Infrastructures of (Non-)Knowledge](https://www.virtuelle-lebenswelten.de/blog-post/second-annual-conference-infrastructures-of-non--knowledge-9--11-october-2024), Ruhr-University Bochum, Germany (online)
-* September 30-October 3 2024: [Shonan meeting 209: Empowering Local Open Source LLMs](https://shonan.nii.ac.jp/seminars/209/), Kanagawa, Japan
+* Participant of [Shonan meeting 209: Empowering Local Open Source LLMs](https://shonan.nii.ac.jp/seminars/209/) <br/>
+September 30-October 3 2024, Kanagawa, Japan
 * **LLMs and factuality** <br/>
   September 26 2024: [Athens NLP Summer School](https://athnlp.github.io/2024/), Greece
 * **A Sanity Check on Emergent Properties** <br/>
@@ -35,7 +48,7 @@ October 25 2024: Pioneer Center for AI, Copenhagen
 August 12 2024: [ACL 2024](https://aclanthology.org/2024.acl-long.817/), Bangkok  
 * **Key Claims in LLM Research Have a Long Tail of Footnotes** <br/>
   July 24 2024: [ICML 2024](https://icml.cc/)
-* building-columns-solid.svg Expert discussant at the Roundtable on Watermarking/Content Authentication/Synthetic Content with Academia and Civil Society. <br/>
+* <img src="/assets/icons/building-columns-solid.svg" class="sidebaricon"/> Expert discussant at the Roundtable on Watermarking/Content Authentication/Synthetic Content with Academia and Civil Society. <br/>
   July 11 2024: This event was a technical dialogue between the European AI Office (EUAIO) and the U.S. AI Safety Institute (USAISI), held at the U.S. Department of Commerce in Washington, D.C. and online.
 * **A Sanity Check on Emergent Properties** <br/>
   July 1-2 2024: NLP seminar at [Cardiff University, Wales](https://cardiffnlp.github.io/)
