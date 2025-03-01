@@ -12,9 +12,9 @@ permalink: /talks/
 
 {: .gray}
 
-* **LLMs and factuality** </br>
+* **LLMs and factuality** <br/>
 April 14 2025: Fred Jelinek Seminar lecture, UFAL, Charles University, Czech Republic 
-* TBA </br>
+* TBA <br/>
 May 9 2025: [Truth is in the Eyes of the Machines](https://www.cwi.nl/en/events/cwi-research-semester-programmes/truth-is-in-the-eyes-of-the-machines-symposium/), Amsterdam
 * TBA <br/>
 September 8 2025: Keynote at [RANLP 2025](https://ranlp.org/ranlp2025/), Varna, Bulgaria
