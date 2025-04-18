@@ -140,7 +140,9 @@ PhD student co-supervised with [Stefan Heinrich](https://stefanheinrich.net/)
 
 <div id="lab-container" class="lab-container">{{ lab-container | markdownify }}</div>
 
-2 more PhD students and 1 postdoc are in the hiring pipeline. Recruiting is continuing! See [upcoming positions](#phd-and-postdoc-positions). 
+Newly joined: [Amelie Wührl](https://scholar.google.com/citations?user=jwkTGVYAAAAJ&hl=en&oi=ao), [Mattes Ruckdeschel](https://scholar.google.com/citations?user=9nRUy1AAAAAJ&hl=en&oi=ao), Johannes Gabriel Sindlinger.
+
+<!--2 more PhD students and 1 postdoc are in the hiring pipeline. Recruiting is continuing! See [upcoming positions](#phd-and-postdoc-positions). -->
 
 The lab is part of [NLPNorth research group](https://nlpnorth.github.io/), with 4 other full-time faculty working in NLP. We are also a part of the [AI Pioneer center](https://www.aicentre.dk/people), where it is possible to interact with other NLP researchers in University of Copenhagen and other institutions. Here are some [reflections by NLPNorth PhD students](https://nlpnorth.github.io/content/phd-reflections.html) on what it's like to live and study in Denmark.
 
@@ -150,7 +152,7 @@ The lab is part of [NLPNorth research group](https://nlpnorth.github.io/), with 
 
 **Upcoming funded position:** 
 
- - 2-year postdoc specializing local, privacy-preserving LLM-based chatbots for conducting qualitative interviews for social science research. Part of a cross-interdisciplinary, cross-institution project in collaboration with the Center for Social Data Science at the University of Copenhagen. Apply [here](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=119&ProjectId=181760&DepartmentId=3439&MediaId=5).
+ - PhD position in a EU-funded project on paper-reviewer matching for conference peer review. Application upcoming in the fall 2025.
 
 In your research statement, please focus on the kinds of questions you might want to pursue, given the focus of the project, and why you have the ability or experience to contribute to answering such questions. Brevity is appreciated, references are welcome. The earliest possible starting date is May 1, but later dates can be accomodated.
 

@@ -16,6 +16,7 @@ I hold a PhD in Computational Linguistics from the [University of Tokyo](https:/
 
 {: .archive__item-excerpt .news}
 
+- **04.04.2025** 🏆 Our EU doctoral network proposal was successful! We will collaborate with Kevin Tierney (Bielefeld University) on the problem of optimizing paper-reviewer matching for conference peer review.
 - **20.02.2025** All positions in the data attribution project are filled! Welcome to [Amelie Wührl](https://scholar.google.com/citations?user=jwkTGVYAAAAJ&hl=en&oi=ao), [Mattes Ruckdeschel](https://scholar.google.com/citations?user=9nRUy1AAAAAJ&hl=en&oi=ao) and Johannes Gabriel Sindlinger.
 - **03.02.2025** Lectures at [HPLT & NLPL 2025 Winter School on Pretraining Data Quality and Multilingual LLM Evaluation](https://wiki.nlpl.eu/index.php/Community/training), Norway 
 - **15.01.2025** Job ad is up for [Postdoc position on AInterviewer project](/lab/#phd-and-postdoc-positions)
