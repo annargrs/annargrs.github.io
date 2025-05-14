@@ -6,7 +6,7 @@ author_profile: true
 #title: Home
 ---
 
-I am a tenured Associate Professor in the [Computer Science Department](https://en.itu.dk/Research/Departments/Computer-Science-Department) at the IT University of Copenhagen, affiliated with the [NLPNorth](https://nlpnorth.github.io/) section. My work focuses on interpretability and robustness of NLP applications based on Large Language Models, as well as their sociotechnical impacts. I am currently an editor-in-chief of [ACL Rolling Review](https://aclrollingreview.org/people), the peer review platform for all major NLP conferences.
+I am a tenured Associate Professor in the [Data Science Section](https://en.itu.dk/Research/Research-Sections/Data-Science) at the IT University of Copenhagen, affiliated with the [NLPNorth](https://nlpnorth.github.io/) research group. My work focuses on interpretability and robustness of NLP applications based on Large Language Models, as well as their sociotechnical impacts. I am currently an editor-in-chief of [ACL Rolling Review](https://aclrollingreview.org/people), the peer review platform for all major NLP conferences. I am also one of the chief scientists of [the National Centre for Artificial Intelligence in Society (CAISA)](https://news.ku.dk/all_news/2025/caisa-start/).
 
 I hold a PhD in Computational Linguistics from the [University of Tokyo](https://www.c.u-tokyo.ac.jp/eng_site/info/academics/grad/lis/)), followed by postdocs in Machine Learning for NLP ([University of Massachusetts](https://text-machine.cs.uml.edu/) (Lowell)) and Social Data Science ([University of Copenhagen](https://sodas.ku.dk/)).
 
