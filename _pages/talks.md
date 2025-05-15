@@ -12,23 +12,32 @@ permalink: /talks/
 
 {: .gray}
 
-* **LLMs and factuality** <br/>
-April 14 2025: Fred Jelinek Seminar lecture, UFAL, Charles University, Czech Republic 
-* TBA <br/>
-May 9 2025: [Truth is in the Eyes of the Machines](https://www.cwi.nl/en/events/cwi-research-semester-programmes/truth-is-in-the-eyes-of-the-machines-symposium/), Amsterdam
+* Organizer: Copenhagen NLP Symposium <br/>
+June 20 2025, Copenhagen, Denmark
+* Organizer: **Linguistics and Language Models: What Can They Learn from Each Other?** <br/>
+20-25 July 2025, [Dagstuhl seminar 25301](https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/25301), Dagstuhl, Germany
+* ARR co-editor-in-chief: [The 63rd Annual Meeting of the Association for Computational Linguistics](https://2025.aclweb.org/) <br/>
+July 27–August 1st, 2025, Vienna, Austria
 * TBA <br/>
 September 8 2025: Keynote at [RANLP 2025](https://ranlp.org/ranlp2025/), Varna, Bulgaria
 * TBA <br/>
 September 24 2025: Keynote at [Bridges and Gaps between Formal and Computational Linguistics (an IWCS 2025 workshop)](https://brigap-workshop.github.io/), Düsseldorf, Germany
+* Panelist: Digital sovereignty <br/>
+5-6 November 2025, [Digital Tech Summit](https://direc.dk/digital-tech-summit-bridging-academia-and-industry-copy/), Copenhagen, Denmark
 * TBA <br/>
 19-21 November 2025: Keynote at [BNAIC 2025](https://docs.unamur.be/en/bnaic2025), University of Namur, Belgium
 
 ## 2025
 
 * **LLMs and factuality** <br/>
+April 14 2025: [Fred Jelinek Seminar lecture](https://ufal.mff.cuni.cz/events/llms-and-factuality), UFAL, Charles University, Czech Republic 
+* **AI "News" Content Farms Are Easy to Make and Hard to Detect** <br/>
+May 9 2025: [Truth is in the Eyes of the Machines](https://www.cwi.nl/en/events/cwi-research-semester-programmes/truth-is-in-the-eyes-of-the-machines-symposium/), Amsterdam
+* **LLMs and factuality** <br/>
   February 3-5 2025: [HPLT & NLPL 2025 Winter School on Pretraining Data Quality and Multilingual LLM Evaluation](https://wiki.nlpl.eu/index.php/Community/training), Norway
 
 ## 2024
+
 
 * **AI "News" Content Farms Are Easy to Make and Hard to Detect: A Case Study in Italian** <br/>
 December 18-19, Chalmers University, Sweden

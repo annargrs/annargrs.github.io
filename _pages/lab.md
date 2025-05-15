@@ -129,7 +129,7 @@ PhD student co-supervised with [Rob van der Goot](https://robvanderg.github.io/)
 
 PhD student co-supervised with [Stefan Heinrich](https://stefanheinrich.net/) 
 {: .cosupervisor }
-
+ 
 
 {% endcapture %}
 
@@ -140,7 +140,7 @@ PhD student co-supervised with [Stefan Heinrich](https://stefanheinrich.net/)
 
 <div id="lab-container" class="lab-container">{{ lab-container | markdownify }}</div>
 
-Newly joined: [Amelie Wührl](https://scholar.google.com/citations?user=jwkTGVYAAAAJ&hl=en&oi=ao), [Mattes Ruckdeschel](https://scholar.google.com/citations?user=9nRUy1AAAAAJ&hl=en&oi=ao), Johannes Gabriel Sindlinger.
+Newly joined: [Amelie Wührl](https://scholar.google.com/citations?user=jwkTGVYAAAAJ&hl=en&oi=ao), [Mattes Ruckdeschel](https://scholar.google.com/citations?user=9nRUy1AAAAAJ&hl=en&oi=ao), Johannes Gabriel Sindlinger, [Nikolaos Vitsakis](https://scholar.google.com/citations?user=K97CGdYAAAAJ&hl=en&oi=ao), [Arturo Valdivia](https://scholar.google.com/citations?user=tEMOke8AAAAJ&hl=en&oi=ao).
 
 <!--2 more PhD students and 1 postdoc are in the hiring pipeline. Recruiting is continuing! See [upcoming positions](#phd-and-postdoc-positions). -->
 
