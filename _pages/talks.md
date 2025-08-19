@@ -12,23 +12,25 @@ permalink: /talks/
 
 {: .gray}
 
-* Organizer: Copenhagen NLP Symposium <br/>
-June 20 2025, Copenhagen, Denmark
-* Organizer: **Linguistics and Language Models: What Can They Learn from Each Other?** <br/>
-20-25 July 2025, [Dagstuhl seminar 25301](https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/25301), Dagstuhl, Germany
-* ARR co-editor-in-chief: [The 63rd Annual Meeting of the Association for Computational Linguistics](https://2025.aclweb.org/) <br/>
-July 27–August 1st, 2025, Vienna, Austria
-* TBA <br/>
+* Large language models and factuality <br/>
 September 8 2025: Keynote at [RANLP 2025](https://ranlp.org/ranlp2025/), Varna, Bulgaria
+* Large language models and factuality <br/>
+September 10 2025: Lecture at [AthensNLP 2025](https://athnlp.github.io/2025/), Athens, Greece
 * TBA <br/>
 September 24 2025: Keynote at [Bridges and Gaps between Formal and Computational Linguistics (an IWCS 2025 workshop)](https://brigap-workshop.github.io/), Düsseldorf, Germany
 * Panelist: Digital sovereignty <br/>
 5-6 November 2025, [Digital Tech Summit](https://direc.dk/digital-tech-summit-bridging-academia-and-industry-copy/), Copenhagen, Denmark
-* TBA <br/>
+* Factuality and Attribution for Large Language Models <br/>
 19-21 November 2025: Keynote at [BNAIC 2025](https://docs.unamur.be/en/bnaic2025), University of Namur, Belgium
 
 ## 2025
 
+* Multiple presentations at [The 63rd Annual Meeting of the Association for Computational Linguistics](https://2025.aclweb.org/) <br/>
+July 27–August 1st, 2025, Vienna, Austria
+* Organizer: **Linguistics and Language Models: What Can They Learn from Each Other** <br/>
+20-25 July 2025, [Dagstuhl seminar 25301](https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/25301), Dagstuhl, Germany
+* Organizer: Copenhagen NLP Symposium <br/>
+June 20 2025, Copenhagen, Denmark
 * **LLMs and factuality** <br/>
 April 14 2025: [Fred Jelinek Seminar lecture](https://ufal.mff.cuni.cz/events/llms-and-factuality), UFAL, Charles University, Czech Republic 
 * **AI "News" Content Farms Are Easy to Make and Hard to Detect** <br/>

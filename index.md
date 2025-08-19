@@ -16,13 +16,14 @@ I hold a PhD in Computational Linguistics from the [University of Tokyo](https:/
 
 {: .archive__item-excerpt .news}
 
+- **08.01.2025** Welcome to the lab to the new postdocs: [Nikolas Vitsakis](https://scholar.google.com/citations?user=K97CGdYAAAAJ&hl=en&oi=ao) and [Arturo Valdivia](https://scholar.google.com/citations?user=tEMOke8AAAAJ&hl=en&oi=ao)!
 - **04.04.2025** 🏆 Our EU doctoral network proposal was successful! We will collaborate with Kevin Tierney (Bielefeld University) on the problem of optimizing paper-reviewer matching for conference peer review.
 - **20.02.2025** All positions in the data attribution project are filled! Welcome to [Amelie Wührl](https://scholar.google.com/citations?user=jwkTGVYAAAAJ&hl=en&oi=ao), [Mattes Ruckdeschel](https://scholar.google.com/citations?user=9nRUy1AAAAAJ&hl=en&oi=ao) and Johannes Gabriel Sindlinger.
 - **03.02.2025** Lectures at [HPLT & NLPL 2025 Winter School on Pretraining Data Quality and Multilingual LLM Evaluation](https://wiki.nlpl.eu/index.php/Community/training), Norway 
 - **15.01.2025** Job ad is up for [Postdoc position on AInterviewer project](/lab/#phd-and-postdoc-positions)
 - **14.10.2024** Job ads are up for [PhD and Postdoc positions on data attribution for LLMs](/lab/#phd-and-postdoc-positions)
 - **08.10.2024** 🏆 I received [Villum Synergy](https://villumfonden.dk/da/nyhed/47-millioner-til-tvaerfaglig-forskning) grant for an interdisciplinary (NLP-sociology) project
-- **03.10.2024** I am now an [ELLIS fellow](https://ellis.eu/fellows)! 
+- **03.10.2024** I am now an [ELLIS scholar](https://ellis.eu/)! 
 - **13.08.2024** 🏆 [AI 'News' Content Farms Are Easy to Make and Hard to Detect: A Case Study in Italian](https://aclanthology.org/2024.acl-long.817/) received an area chair award at ACL'24!
 - **15.07.2024** [Max Müller-Eberstein](https://mxij.me/) is joining my lab for a project efficiency and generalization, funded by DFF. More jobs coming up soon.
 - **11.07.2024** We present the results of our [ACL'24 study on detection of synthetic news content](https://arxiv.org/abs/2406.12128) as expert discussants in a technical dialogue between the European AI Office (EUAIO) and the U.S. AI Safety Institute (USAISI), held at the U.S. Department of Commerce in Washington, D.C. and online.
