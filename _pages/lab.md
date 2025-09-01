@@ -48,7 +48,7 @@ Some relevant past work:
 
 ## Safe and Robust NLP
 
-I use "safety" in the engineering sense of the word: the NLP systems should actually do what their developers are promising, the same way as e.g. construction engineers ensure that the bridges they build withstand the target load. This is inextricably linked to the topic of robustness of generalization: the NLP systems are trained on some data, and to perform in the real world they need to generalize to the real-world data.
+I use "safety" in the engineering sense of the word: the NLP systems should actually do what their developers are promising, the same way as e.g. construction engineers ensure that the bridges they build withstand the target load. This is bordering on the problem of robustness or generalization: the NLP systems are trained on some data, and to perform in the real world they need to generalize to the real-world data.
 
 My current work in this area is backed by 2023 DFF Inge Lehmann grant (see [upcoming positions](#phd-and-postdoc-positions)). It focuses on the development of a benchmark that would reward systems for generalizing rather than memorizing their training data. This project has a planned collaboration with :us: [New York University](https://allenai.org/). I also host an industrial PhD student co-funded by Innovation Fund Denmark, whose work focuses on robust assistance with clinical note entry.
 
@@ -78,6 +78,7 @@ Some relevant past work:
 
 {% capture lab-container %}
 
+
 {% capture max %}
 
 <img src="../assets/images/max.jpg" width="200"/>
@@ -90,6 +91,50 @@ postdoc
 {% endcapture %}
 
 <div class="lab">{{ max | markdownify }}</div>
+
+
+{% capture amelie %}
+
+<img src="../assets/images/amelie.jpg" width="200"/>
+
+[Amelie Wührl](https://scholar.google.com/citations?user=jwkTGVYAAAAJ&hl=en&oi=ao) <br/>
+*data attribution, fact-checking*
+
+postdoc 
+
+{% endcapture %}
+
+<div class="lab">{{ amelie | markdownify }}</div>
+
+
+{% capture nikolas %}
+
+<img src="../assets/images/nikolas.jpg" width="200"/>
+
+[Nikolas Vitsakis](https://scholar.google.com/citations?user=K97CGdYAAAAJ&hl=en&oi=ao) <br/>
+*NLP for Social Science Research, AI ethics*
+
+postdoc 
+
+{% endcapture %}
+
+<div class="lab">{{ nikolas | markdownify }}</div>
+
+
+{% capture arturo %}
+
+<img src="../assets/images/arturo.jpg" width="200"/>
+
+[Arturo Valdivia](https://scholar.google.com/citations?user=tEMOke8AAAAJ&hl=en&oi=ao) <br/>
+*User modeling, NLP for Social Good*
+
+postdoc 
+
+{% endcapture %}
+
+<div class="lab">{{ arturo | markdownify }}</div>
+
+
 
 {% capture andreas %}
 
@@ -120,6 +165,7 @@ PhD student co-supervised with [Rob van der Goot](https://robvanderg.github.io/)
 
 <div class="lab">{{ arzu | markdownify }}</div>
 
+
 {% capture bertram %}
 
 <img src="../assets/images/bertram.jpg" width="200"/>
@@ -129,18 +175,47 @@ PhD student co-supervised with [Rob van der Goot](https://robvanderg.github.io/)
 
 PhD student co-supervised with [Stefan Heinrich](https://stefanheinrich.net/) 
 {: .cosupervisor }
- 
 
 {% endcapture %}
 
 <div class="lab">{{ bertram | markdownify }}</div>
 
 
+
+{% capture mattes %}
+
+<img src="../assets/images/mattes.jpg" width="200"/>
+
+[Mattes Ruckdeschel](https://scholar.google.com/citations?user=9nRUy1AAAAAJ&hl=en&oi=ao)<br/>
+*data attribution, argumentation analysis* 
+
+PhD student co-supervised with [Toine Bogers](http://toinebogers.com/) 
+{: .cosupervisor }
+
+{% endcapture %}
+
+<div class="lab">{{ mattes | markdownify }}</div>
+
+
+{% capture johannes %}
+
+<img src="../assets/images/johannes.jpg" width="200"/>
+
+[Johannes Gabriel Sindlinger]()<br/>
+*data attribution, interpretability* 
+
+PhD student 
+{: .cosupervisor }
+
+{% endcapture %}
+
+<div class="lab">{{ johannes | markdownify }}</div>
+
+
+
 {% endcapture %}
 
 <div id="lab-container" class="lab-container">{{ lab-container | markdownify }}</div>
-
-Newly joined: [Amelie Wührl](https://scholar.google.com/citations?user=jwkTGVYAAAAJ&hl=en&oi=ao), [Mattes Ruckdeschel](https://scholar.google.com/citations?user=9nRUy1AAAAAJ&hl=en&oi=ao), Johannes Gabriel Sindlinger, [Nikolaos Vitsakis](https://scholar.google.com/citations?user=K97CGdYAAAAJ&hl=en&oi=ao), [Arturo Valdivia](https://scholar.google.com/citations?user=tEMOke8AAAAJ&hl=en&oi=ao).
 
 <!--2 more PhD students and 1 postdoc are in the hiring pipeline. Recruiting is continuing! See [upcoming positions](#phd-and-postdoc-positions). -->
 
@@ -152,7 +227,8 @@ The lab is part of [NLPNorth research group](https://nlpnorth.github.io/), with 
 
 **Upcoming funded position:** 
 
- - PhD position in a EU-funded project on paper-reviewer matching for conference peer review. Application upcoming in the fall 2025.
+ - PhD position in a EU-funded project on paper-reviewer matching for conference peer review. Application upcoming in the fall 2025
+ - Interdisciplinary postdoc position on real-world evaluation of AI systems (hosted at Aalborg University and led by [Roman Jurowetzki](https://rjuro.com/), co-advised by me). The job ad will be posted soon. 
 
 In your research statement, please focus on the kinds of questions you might want to pursue, given the focus of the project, and why you have the ability or experience to contribute to answering such questions. Brevity is appreciated, references are welcome. The earliest possible starting date is May 1, but later dates can be accomodated.
 
@@ -163,8 +239,8 @@ I do *not* currently have the possibility to host interns. I maintain a list of 
 <div class="notice--info">{{ notice-1 | markdownify }}</div>
 
 **Getting your own funding** (if you have your own idea for a PhD or postdoc that you'd like to pursue with me):
-  - Danish Data Science Academy funding opportunities (have a look at 2023 calls for [PhD](https://ddsa.dk/phdfellowshipprogramme/) and [postdoc](https://ddsa.dk/postdocfellowshipprogramme/) applications)
-  - [Marie Curie postodcs](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships): next application round is in the fall 2025. For EU-based applicants it is possible to obtain funding for a short visit to ITU for developing the application in spring 2025.
+  - DARA and DDSA funding opportunities (have a look at prior/current calls for [PhD](https://www.daracademy.dk/fellowship/fellowships-summer-2025) and [postdoc](https://ddsa.dk/postdocfellowshipprogramme/) applications)
+  - [Marie Curie postodcs](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships): next application round is in the fall 2026. For EU-based applicants it is possible to obtain funding for a short visit to ITU for developing the application in spring 2026.
 
 If you'd like me to support your funding application, please get in touch and let me know **what are the specific research interests we have in common** (based on the above lab research directions or my past work).  
 
