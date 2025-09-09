@@ -12,11 +12,10 @@ permalink: /talks/
 
 {: .gray}
 
-* Large language models and factuality <br/>
-September 8 2025: Keynote at [RANLP 2025](https://ranlp.org/ranlp2025/), Varna, Bulgaria
+
 * Large language models and factuality <br/>
 September 10 2025: Lecture at [AthensNLP 2025](https://athnlp.github.io/2025/), Athens, Greece
-* TBA <br/>
+* Studying Generalization in the Age of Contamination <br/>
 September 24 2025: Keynote at [Bridges and Gaps between Formal and Computational Linguistics (an IWCS 2025 workshop)](https://brigap-workshop.github.io/), Düsseldorf, Germany
 * Panelist: Digital sovereignty <br/>
 5-6 November 2025, [Digital Tech Summit](https://direc.dk/digital-tech-summit-bridging-academia-and-industry-copy/), Copenhagen, Denmark
@@ -25,6 +24,11 @@ September 24 2025: Keynote at [Bridges and Gaps between Formal and Computational
 
 ## 2025
 
+
+* Large language models and factuality <br/>
+September 8 2025: Keynote at [RANLP 2025](https://ranlp.org/ranlp2025/), Varna, Bulgaria
+* Studying Generalization in the Age of Contamination <br/>
+September 7 2025: Tutorial at [RANLP 2025](https://ranlp.org/ranlp2025/index.php/tutorials/), Varna, Bulgaria
 * Multiple presentations at [The 63rd Annual Meeting of the Association for Computational Linguistics](https://2025.aclweb.org/) <br/>
 July 27–August 1st, 2025, Vienna, Austria
 * Organizer: **Linguistics and Language Models: What Can They Learn from Each Other** <br/>

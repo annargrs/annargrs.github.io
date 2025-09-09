@@ -76,7 +76,7 @@ Some relevant past work:
 
 # Lab
 
-{% capture lab-container %}
+{% capture postdocs %}
 
 
 {% capture max %}
@@ -123,17 +123,21 @@ postdoc
 
 {% capture arturo %}
 
-<img src="../assets/images/arturo.jpg" width="200"/>
+<img src="../assets/images/arturo.jpeg" width="200"/>
 
 [Arturo Valdivia](https://scholar.google.com/citations?user=tEMOke8AAAAJ&hl=en&oi=ao) <br/>
 *User modeling, NLP for Social Good*
 
-postdoc 
+postdoc (joint affiliation with [CAISA](https://news.ku.dk/all_news/2025/caisa-start/))
 
 {% endcapture %}
 
 <div class="lab">{{ arturo | markdownify }}</div>
 
+{% endcapture %}
+
+
+{% capture students %}
 
 
 {% capture andreas %}
@@ -181,6 +185,10 @@ PhD student co-supervised with [Stefan Heinrich](https://stefanheinrich.net/)
 <div class="lab">{{ bertram | markdownify }}</div>
 
 
+{% endcapture %}
+
+
+{% capture students2 %}
 
 {% capture mattes %}
 
@@ -211,13 +219,13 @@ PhD student
 
 <div class="lab">{{ johannes | markdownify }}</div>
 
-
-
 {% endcapture %}
 
-<div id="lab-container" class="lab-container">{{ lab-container | markdownify }}</div>
+<div id="postdocs" class="lab-container">{{ postdocs | markdownify }}</div>
 
-<!--2 more PhD students and 1 postdoc are in the hiring pipeline. Recruiting is continuing! See [upcoming positions](#phd-and-postdoc-positions). -->
+<div id="students" class="lab-container">{{ students | markdownify }}</div>
+
+<div id="students2" class="lab-container">{{ students2 | markdownify }}</div>
 
 The lab is part of [NLPNorth research group](https://nlpnorth.github.io/), with 4 other full-time faculty working in NLP. We are also a part of the [AI Pioneer center](https://www.aicentre.dk/people), where it is possible to interact with other NLP researchers in University of Copenhagen and other institutions. Here are some [reflections by NLPNorth PhD students](https://nlpnorth.github.io/content/phd-reflections.html) on what it's like to live and study in Denmark.
 
