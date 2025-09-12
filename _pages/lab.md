@@ -128,7 +128,7 @@ postdoc
 [Arturo Valdivia](https://scholar.google.com/citations?user=tEMOke8AAAAJ&hl=en&oi=ao) <br/>
 *User modeling, NLP for Social Good*
 
-postdoc (joint affiliation with [CAISA](https://news.ku.dk/all_news/2025/caisa-start/))
+postdoc (joint affiliation with [CAISA](https://caisa.dk))
 
 {% endcapture %}
 
