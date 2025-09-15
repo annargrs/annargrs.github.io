@@ -16,6 +16,10 @@ Total pubs: {% bibliography_count -f references %}
 
 Bibliometrics: [h-index 25, 6.2K+ citations on Google Scholar](https://scholar.google.com/citations?user=5oCYOE0AAAAJ&hl=en)
 
+## 2025
+
+{% bibliography --query @*[year=2025] %}
+
 ## 2024
 
 {% bibliography --query @*[year=2024] %}
