@@ -12,9 +12,6 @@ permalink: /talks/
 
 {: .gray}
 
-
-* Large language models and factuality <br/>
-September 10 2025: Lecture at [AthensNLP 2025](https://athnlp.github.io/2025/), Athens, Greece
 * Studying Generalization in the Age of Contamination <br/>
 September 24 2025: Keynote at [Bridges and Gaps between Formal and Computational Linguistics (an IWCS 2025 workshop)](https://brigap-workshop.github.io/), Düsseldorf, Germany
 * Panelist: Digital sovereignty <br/>
@@ -24,7 +21,8 @@ September 24 2025: Keynote at [Bridges and Gaps between Formal and Computational
 
 ## 2025
 
-
+* Large language models and factuality <br/>
+September 10 2025: Lecture at [AthensNLP 2025](https://athnlp.github.io/2025/), Athens, Greece
 * Large language models and factuality <br/>
 September 8 2025: Keynote at [RANLP 2025](https://ranlp.org/ranlp2025/), Varna, Bulgaria
 * Studying Generalization in the Age of Contamination <br/>
@@ -56,9 +54,9 @@ September 30-October 3 2024, Kanagawa, Japan
 * **LLMs and factuality** <br/>
   September 26 2024: [Athens NLP Summer School](https://athnlp.github.io/2024/), Greece
 * **A Sanity Check on Emergent Properties** <br/>
-  August 16 2024: [The 1st Workshop on Data Contamination @ ACL2024, Bangkok](https://conda-workshop.github.io/)
+  August 16 2024: Keynote at the [1st Workshop on Data Contamination @ ACL2024, Bangkok](https://conda-workshop.github.io/)
 * **Large language models as research assistants: workflows and challenges** <br/>
-  August 16 2024: [Fourth Workshop on Scholarly Document Processing @ ACL2024, Bangkok](https://sdproc.org/2024/)
+  August 16 2024: Keynote at the [Fourth Workshop on Scholarly Document Processing @ ACL2024, Bangkok](https://sdproc.org/2024/)
 * **AI "News" Content Farms Are Easy to Make and Hard to Detect: A Case Study in Italian** <br/>
 August 12 2024: [ACL 2024](https://aclanthology.org/2024.acl-long.817/), Bangkok  
 * **Key Claims in LLM Research Have a Long Tail of Footnotes** <br/>
@@ -80,7 +78,7 @@ August 12 2024: [ACL 2024](https://aclanthology.org/2024.acl-long.817/), Bangkok
 * **A Sanity Check on Emergent Properties** <br/> 
   March 27 2024: [NLP seminar](https://people.cs.umass.edu/~miyyer/nlpseminar/index.html) at [UMass Amherst](https://nlp.cs.umass.edu/) (online)
 * **A Sanity Check on Emergent Properties** <br/> 
-  March 21 2024: [Workshop on Responsible Data Science & AI Research: Fairness, Safety, and Reproducibility](https://www.responsible-ai.science) at Queen Mary University of London (online) [[SLIDES]](https://u.pcloud.link/publink/show?code=XZ1CrF0ZqvbhNx3OT15Q32RtQNDiBuegADIy)
+  March 21 2024: Keynote at the [Workshop on Responsible Data Science & AI Research: Fairness, Safety, and Reproducibility](https://www.responsible-ai.science) at Queen Mary University of London (online) [[SLIDES]](https://u.pcloud.link/publink/show?code=XZ1CrF0ZqvbhNx3OT15Q32RtQNDiBuegADIy)
 * <img src="/assets/icons/users-solid.svg" class="sidebaricon"/> **Generative AI: what it can and can't do for research** <br/>
  February 8 2024: [DARMA netværksarrangement 2024](https://genbench.org/workshop/) (Fredericia, Denmark) [SLIDES](https://u.pcloud.link/publink/show?code=XZ5KW50ZWMOfEt3wXe8KFsW7FtXfwuEWUxIk)
 * <img src="/assets/icons/building-columns-solid.svg" class="sidebaricon"/>  **Understanding how regulations will affect data spaces participants** <br/> Panel at [Legislation and regulations for data spaces](https://language-data-space.ec.europa.eu/events/legislation-and-regulations-data-spaces-environment-development-european-data-market-2024-01-29_en?prefLang=es) (online)
