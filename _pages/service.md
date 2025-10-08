@@ -8,8 +8,8 @@ permalink: /service/
 ## Professional organizations
 
 - [Association for Computational Linguistics](https://www.aclweb.org/) (ACL, from 2016), currently serving as co-Editor-in-Chief for ACL Rolling Review
-- [Danish Data Science Academy](https://ddsa.dk/), currently serving in the Education & Networking Committee 
-- [European Laboratory for Learning and Intelligent Systems](https://ellis.eu/fellows), currently ELLIS fellow
+- [European Laboratory for Learning and Intelligent Systems](https://ellis.eu/fellows), ELLIS scholar
+- [Danish Data Science Academy](https://ddsa.dk/): the Education & Networking Committee (2024-2025)
 
 ## Editorial roles
 

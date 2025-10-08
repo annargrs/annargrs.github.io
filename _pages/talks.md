@@ -12,8 +12,6 @@ permalink: /talks/
 
 {: .gray}
 
-* Studying Generalization in the Age of Contamination <br/>
-September 24 2025: Keynote at [Bridges and Gaps between Formal and Computational Linguistics (an IWCS 2025 workshop)](https://brigap-workshop.github.io/), Düsseldorf, Germany
 * Panelist: Digital sovereignty <br/>
 5-6 November 2025, [Digital Tech Summit](https://direc.dk/digital-tech-summit-bridging-academia-and-industry-copy/), Copenhagen, Denmark
 * Factuality and Attribution for Large Language Models <br/>
@@ -21,6 +19,8 @@ September 24 2025: Keynote at [Bridges and Gaps between Formal and Computational
 
 ## 2025
 
+* Studying Generalization in the Age of Contamination <br/>
+September 24 2025: Keynote at [Bridges and Gaps between Formal and Computational Linguistics (an IWCS 2025 workshop)](https://brigap-workshop.github.io/), Düsseldorf, Germany
 * Large language models and factuality <br/>
 September 10 2025: Lecture at [AthensNLP 2025](https://athnlp.github.io/2025/), Athens, Greece
 * Large language models and factuality <br/>

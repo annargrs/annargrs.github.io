@@ -4389,7 +4389,7 @@ a.reversefootnote {
 }
 
 .sidebaricon {
-  width: inherit !important;
+  width: 1em !important;
   display:inline-block;
   font-size:inherit !important;
   height:1em;

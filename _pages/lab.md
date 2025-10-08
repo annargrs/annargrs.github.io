@@ -209,10 +209,11 @@ PhD student co-supervised with [Toine Bogers](http://toinebogers.com/)
 
 <img src="../assets/images/johannes.jpg" width="200"/>
 
-[Johannes Gabriel Sindlinger]()<br/>
+Johannes Gabriel Sindlinger<br/>
 *data attribution, interpretability* 
 
 PhD student 
+PhD student co-supervised with [Leon Derczynski](https://www.derczynski.com/itu/) 
 {: .cosupervisor }
 
 {% endcapture %}
@@ -236,7 +237,7 @@ The lab is part of [NLPNorth research group](https://nlpnorth.github.io/), with 
 **Upcoming funded position:** 
 
  - PhD position in a EU-funded project on paper-reviewer matching for conference peer review. Application upcoming in the fall 2025
- - Interdisciplinary postdoc position on real-world evaluation of AI systems (hosted at Aalborg University and led by [Roman Jurowetzki](https://rjuro.com/), co-advised by me). The job ad will be posted soon. 
+ - Interdisciplinary postdoc position on real-world evaluation of AI systems, hosted at Aalborg University and led by [Roman Jurowetzki](https://rjuro.com/), co-advised by me. See [here](https://caisa-postdoc-interest.rjuro.com/) for details.  
 
 In your research statement, please focus on the kinds of questions you might want to pursue, given the focus of the project, and why you have the ability or experience to contribute to answering such questions. Brevity is appreciated, references are welcome. The earliest possible starting date is May 1, but later dates can be accomodated.
 
