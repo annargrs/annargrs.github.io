@@ -79,20 +79,6 @@ Some relevant past work:
 {% capture postdocs %}
 
 
-{% capture max %}
-
-<img src="../assets/images/max.jpg" width="200"/>
-
-[Max Müller-Eberstein](https://mxij.me/) <br/>
-*generalization, data efficiency*
-
-postdoc 
-
-{% endcapture %}
-
-<div class="lab">{{ max | markdownify }}</div>
-
-
 {% capture amelie %}
 
 <img src="../assets/images/amelie.jpg" width="200"/>
@@ -230,18 +216,33 @@ PhD student co-supervised with [Leon Derczynski](https://www.derczynski.com/itu/
 
 The lab is part of [NLPNorth research group](https://nlpnorth.github.io/), with 4 other full-time faculty working in NLP. We are also a part of the [AI Pioneer center](https://www.aicentre.dk/people), where it is possible to interact with other NLP researchers in University of Copenhagen and other institutions. Here are some [reflections by NLPNorth PhD students](https://nlpnorth.github.io/content/phd-reflections.html) on what it's like to live and study in Denmark.
 
+# Alumni
+
+{% capture max %}
+
+<img src="../assets/images/max.jpg" width="200"/>
+
+[Max Müller-Eberstein](https://mxij.me/) <br/>
+*generalization, data efficiency*
+
+postdoc, currently postdoc at the [University of Tokyo](https://phiz.c.u-tokyo.ac.jp/~oseki/en/members.html) 
+
+{% endcapture %}
+
+<div class="lab">{{ max | markdownify }}</div>
+
 # PhD and Postdoc Positions
 
 {% capture notice-1 %}
 
 **Upcoming funded position:** 
 
- - PhD position in a EU-funded project on paper-reviewer matching for conference peer review. Application upcoming in the fall 2025
+ - PhD position in a EU-funded project on paper-reviewer matching for conference peer review. Application upcoming in the end of 2025
  - Interdisciplinary postdoc position on real-world evaluation of AI systems, hosted at Aalborg University and led by [Roman Jurowetzki](https://rjuro.com/), co-advised by me. See [here](https://caisa-postdoc-interest.rjuro.com/) for details.  
 
-In your research statement, please focus on the kinds of questions you might want to pursue, given the focus of the project, and why you have the ability or experience to contribute to answering such questions. Brevity is appreciated, references are welcome. The earliest possible starting date is May 1, but later dates can be accomodated.
+In your research statement, please focus on the kinds of questions you might want to pursue, given the focus of the project, and why you have the ability or experience to contribute to answering such questions. Brevity is appreciated, references are welcome. The earliest possible starting date is May 1, but later dates can be accomodated. 
 
-I do *not* currently have the possibility to host interns. I maintain a list of [upcoming talks and events](https://annargrs.github.io/talks/#upcoming-talks), where it might be possible to meet in person.
+I do *not* currently have the possibility to host interns. I maintain a list of [upcoming talks and events](https://annargrs.github.io/talks/#upcoming-talks), where it might be possible to meet in person. 
 
 {% endcapture %}
 

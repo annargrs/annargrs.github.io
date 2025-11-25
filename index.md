@@ -16,7 +16,7 @@ I hold a PhD in Computational Linguistics from the [University of Tokyo](https:/
 
 {: .archive__item-excerpt .news}
 
-- **04.09.2025** [Code Like Humans](https://arxiv.org/abs/2509.05378) is out (to be published in Findings of EMNLP)
+- **04.09.2025** [Code Like Humans](https://arxiv.org/abs/2509.05378) is out! (to be published in Findings of EMNLP)
 - **09.01.2025** Welcome to Johannes Gabriel Sindlinger, the new PhD in the group!
 - **08.01.2025** Welcome to the lab to the new postdocs: [Nikolas Vitsakis](https://scholar.google.com/citations?user=K97CGdYAAAAJ&hl=en&oi=ao) and [Arturo Valdivia](https://scholar.google.com/citations?user=tEMOke8AAAAJ&hl=en&oi=ao)!
 - **04.04.2025** 🏆 Our EU doctoral network proposal was successful! We will collaborate with Kevin Tierney (Bielefeld University) on the problem of optimizing paper-reviewer matching for conference peer review.
