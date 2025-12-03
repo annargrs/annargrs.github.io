@@ -237,10 +237,10 @@ postdoc, currently postdoc at the [University of Tokyo](https://phiz.c.u-tokyo.a
 
 **Upcoming funded position:** 
 
- - PhD position in a EU-funded project on paper-reviewer matching for conference peer review. Application upcoming in the end of 2025
+ - PhD position in a EU-funded project on paper-reviewer matching for conference peer review. Apply for position DC6 [here](https://www.cords-dn.at/how-to-apply/) by Jan 6.
  - Interdisciplinary postdoc position on real-world evaluation of AI systems, hosted at Aalborg University and led by [Roman Jurowetzki](https://rjuro.com/), co-advised by me. See [here](https://caisa-postdoc-interest.rjuro.com/) for details.  
 
-In your research statement, please focus on the kinds of questions you might want to pursue, given the focus of the project, and why you have the ability or experience to contribute to answering such questions. Brevity is appreciated, references are welcome. The earliest possible starting date is May 1, but later dates can be accomodated. 
+In your research statement, please focus on the kinds of questions you might want to pursue, given the focus of the project, and why you have the ability or experience to contribute to answering such questions. Brevity is appreciated, references are welcome. The earliest possible starting date is March 1, but later dates can be accomodated. Please include your preferred starting date in the cover letter.
 
 I do *not* currently have the possibility to host interns. I maintain a list of [upcoming talks and events](https://annargrs.github.io/talks/#upcoming-talks), where it might be possible to meet in person. 
 
