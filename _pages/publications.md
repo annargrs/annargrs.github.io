@@ -11,6 +11,7 @@ Total pubs: {% bibliography_count -f references %}
 
 - :ledger: Journal articles: {% bibliography_count -f references --query @article %}
 - :newspaper: Conference and workshop articles: {% bibliography_count -f references --query @inproceedings %}, including {% bibliography_count -f references --query @inproceedings[tier!=workshop] %} in :large_orange_diamond:  top-tier venues 
+- :cyclone: interdisciplinary work: 6
 - :notebook: Edited volumes: {% bibliography_count -f references --query @proceedings %}
 - :black_nib: Preprints and other non-peer-reviewed publications (excluding blog articles): {% bibliography_count -f references --query @misc %}
 
