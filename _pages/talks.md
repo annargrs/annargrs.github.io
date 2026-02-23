@@ -9,27 +9,29 @@ permalink: /talks/
 
 ## Upcoming talks and events
 
-
 {: .gray}
 
-* TBA <br/> 
-23 December 2025. Keynote at [The 1st workshop on Confabulation, Hallucinations & Overgeneration in Multilingual and Practical Settings](https://chomps2025.github.io/) workshop (AACL 2025), online
-* TBA <br/> 
-23 December 2025. Keynote at [the 1st Workshop on Human–LLM Collaboration for Ethical and Responsible Science Production](https://sciprodllm.github.io/2025/) workshop (AACL 2025), online
+* TBA <br/>
+5 March 2026. [Uppsala NLP seminars and meetings](https://www2.lingfil.uu.se/cl/seminars/), Uppsala, Sweden
+
 
 ## 2025
 
-* Factuality and Attribution for Large Language Models <br/>
+* **Factuality and Attribution for Large Language Models** <br/> 
+23 December 2025. Keynote at [The 1st workshop on Confabulation, Hallucinations & Overgeneration in Multilingual and Practical Settings](https://chomps2025.github.io/) workshop (AACL 2025), online
+* **Publication ethics and the spectrum of AI assistance** <br/> 
+23 December 2025. Keynote at [the 1st Workshop on Human–LLM Collaboration for Ethical and Responsible Science Production](https://sciprodllm.github.io/2025/) workshop (AACL 2025), online
+* **Factuality and Attribution for Large Language Models** <br/>
 19-21 November 2025: Keynote at [BNAIC 2025](https://docs.unamur.be/en/bnaic2025), University of Namur, Belgium
 * Panelist: Digital sovereignty <br/>
 5-6 November 2025, [Digital Tech Summit](https://direc.dk/digital-tech-summit-bridging-academia-and-industry-copy/), Copenhagen, Denmark
-* Studying Generalization in the Age of Contamination <br/>
+* **Studying Generalization in the Age of Contamination** <br/>
 September 24 2025: Keynote at [Bridges and Gaps between Formal and Computational Linguistics (an IWCS 2025 workshop)](https://brigap-workshop.github.io/), Düsseldorf, Germany
-* Large language models and factuality <br/>
+* **Large language models and factuality** <br/>
 September 10 2025: Lecture at [AthensNLP 2025](https://athnlp.github.io/2025/), Athens, Greece
-* Large language models and factuality <br/>
+* **Large language models and factuality** <br/>
 September 8 2025: Keynote at [RANLP 2025](https://ranlp.org/ranlp2025/), Varna, Bulgaria
-* Studying Generalization in the Age of Contamination <br/>
+* **Studying Generalization in the Age of Contamination** <br/>
 September 7 2025: Tutorial at [RANLP 2025](https://ranlp.org/ranlp2025/index.php/tutorials/), Varna, Bulgaria
 * Multiple presentations at [The 63rd Annual Meeting of the Association for Computational Linguistics](https://2025.aclweb.org/) <br/>
 July 27–August 1st, 2025, Vienna, Austria

@@ -14,7 +14,11 @@ Total pubs: {% bibliography_count -f references %}
 - :notebook: Edited volumes: {% bibliography_count -f references --query @proceedings %}
 - :black_nib: Preprints and other non-peer-reviewed publications (excluding blog articles): {% bibliography_count -f references --query @misc %}
 
-Bibliometrics: [h-index 28, 8.1K+ citations on Google Scholar](https://scholar.google.com/citations?user=5oCYOE0AAAAJ&hl=en)
+Bibliometrics: [h-index 30, 9.1K+ citations on Google Scholar](https://scholar.google.com/citations?user=5oCYOE0AAAAJ&hl=en)
+
+## 2026
+
+{% bibliography --query @*[year=2026] %}
 
 ## 2025
 

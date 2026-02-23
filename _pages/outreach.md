@@ -12,7 +12,6 @@ See [talks](/talks) list for events for policy-makers and non-academic audiences
 ## Social Media
 
 * **Blog** on NLP research findings, methodology squibs, and thoughts on peer review: [Hacking Semantics](https://hackingsemantics.xyz/) 
-* **Academic Twitter**: <a href="https://twitter.com/annargrs?ref_src=twsrc%5Etfw">@annargrs</a>
 * **LinkedIn**: [https://www.linkedin.com/in/annargrs](annargrs)
 * **BlueSky**: [@annarogers.bsky.social](https://bsky.app/profile/annarogers.bsky.social)
 
@@ -27,4 +26,5 @@ See [talks](/talks) list for events for policy-makers and non-academic audiences
  
 ## Cross-disciplinary lectures
 
+* **Large Language Models and Factuality** (2026): guest lecture in the Data Governance course (Social Data Science program at the University of Copenhagen) 
 * **NLP with Python @ ESSLLI 2019**: an introductory NLP course aimed primarily at linguists rather than computer scientists ([URL](https://sites.google.com/view/esslli2019-nlp/home), [reflections on the course](https://hackingsemantics.xyz/2019/nlp4linguists/)
