@@ -5,12 +5,12 @@
   eprint = {2602.10995},
   eprinttype = {arXiv},
   eprintclass = {cs},
-  doi = {10.48550/arXiv.2602.10995},
+  abstract = "In the current Large Language Model (LLM) ecosystem, creators have little agency over how their data is used, and LLM users may find themselves unknowingly plagiarizing existing sources. Attribution of LLM-generated text to LLM input data could help with these challenges, but so far we have more questions than answers: what elements of LLM outputs require attribution, what goals should it serve, how should it be implemented? We contribute a human-centric data attribution framework, which situates the attribution problem within the broader data economy. Specific use cases for attribution, such as creative writing assistance or fact-checking, can be specified via a set of parameters (including stakeholder objectives and implementation criteria). These criteria are up for negotiation by the relevant stakeholder groups: creators, LLM users, and their intermediaries (publishers, platforms, AI companies). The outcome of domain-specific negotiations can be implemented and tested for whether the stakeholder goals are achieved. The proposed approach provides a bridge between methodological NLP work on data attribution, governance work on policy interventions, and economic analysis of creator incentives for a sustainable equilibrium in the data economy.",
+  url = {https://arxiv.org/abs/2602.10995},
   pubstate = {prepublished}
 }
 
-@inproceedings{
-   rogers2026the,
+@inproceedings{rogers2026the,
    title={The human knowledge loophole in the 'bitter lesson' for LLMs},
    author={Rogers, Anna},
    booktitle={The Fifth Blogpost Track at ICLR 2026},
@@ -24,6 +24,8 @@
   date = {2025-11-25},
   journaltitle = {Harvard Kennedy School Misinformation Review},
   shortjournal = {HKS Misinfo Review},
+  interdisciplinary = "true",
+  abstract="This research note investigates the aftermath of YouTube’s global ban on Russian state-affiliated media channels in the wake of Russia’s full-scale invasion of Ukraine in 2022. Using over 12 million YouTube comments across 40 Russian-language channels, we analyzed the effectiveness of the ban and the shifts in user activity before and after the platform’s intervention. We found that YouTube, in accordance with its promise, effectively removed user activity across the banned channels. However, the ban did not prevent users from seeking out ideologically similar content on other channels and, in turn, increased user engagement on otherwise less visible pro-Kremlin channels.",
   doi = {10.37016/mr-2020-190}
 }
 
@@ -43,6 +45,7 @@
     booktitle = "Proceedings of the 1st Workshop on Confabulation, Hallucinations and Overgeneration in Multilingual and Practical Settings (CHOMPS 2025)",
     month = dec,
     year = "2025",
+    abstract="Chain-of-Thought (CoT) ‘reasoning’ promises to enhance the performance and transparency of Large Language Models (LLMs). Models, such as Deepseek R1, are trained via reinforcement learning to automatically generate CoT explanations in their outputs. Their faithfulness, i.e. how well the explanations actually reflect their internal reasoning process, has been called into doubt by recent studies (Chen et al., 2025a; Chua and Evans, 2025). This paper extends previous work by probing Deepseek R1 with 445 logical puzzles under zero- and few-shot settings. We find that whilst the model explicitly acknowledges a strong harmful hint in 94.6% of cases, it reports less than 2% of helpful hints. Further analysis reveals implicit unfaithfulness as the model significantly reduces answer-rechecking behaviour for helpful hints (p<0.01) despite rarely mentioning them in its CoT, demonstrating a discrepancy between its reported and actual decision process. In line with prior reports for GPT, Claude, Gemini and other models, our results for DeepSeek raise concerns about the use of CoT as an explainability technique.",
     address = "Mumbai, India",
     publisher = "Association for Computational Linguistics",
     url = "https://aclanthology.org/2025.chomps-main.2/",
@@ -149,6 +152,7 @@
     pages = "25796--25812",
     ISBN = "979-8-89176-256-5",
     project = "interpretability", 
+    tier="workshop",
     award="Best Poster award at D3A2025",
     abstract = "Despite the widespread use of `artificial intelligence' (AI) framing in Natural Language Processing (NLP) research, it is not clear what researchers mean by ``intelligence''. To that end, we present the results of a survey on the notion of ``intelligence'' among researchers and its role in the research agenda. The survey elicited complete responses from 303 researchers from a variety of fields including NLP, Machine Learning (ML), Cognitive Science, Linguistics, and Neuroscience.We identify 3 criteria of intelligence that the community agrees on the most: generalization, adaptability, {\&} reasoning.Our results suggests that the perception of the current NLP systems as ``intelligent'' is a minority position (29{\%}).Furthermore, only 16.2{\%} of the respondents see developing intelligent systems as a research goal, and these respondents are more likely to consider the current systems intelligent."
 }
@@ -158,6 +162,7 @@
     author={Lucie-Aim{\'e}e Kaffee and Pepa Atanasova and Anna Rogers},
     booktitle={NeurIPS 2025 Workshop on Regulatable ML},
     year={2025},
+    abstract="The rapid adoption of AI across diverse domains has led to the development of organisational guidelines that vary significantly, even within the same sector. This paper examines AI policies in two domains, news organisations and universities, to understand how bottom-up governance approaches shape AI usage and oversight. By analysing these policies, we identify key areas of convergence and divergence in how organisations address risks such as bias, privacy, misinformation, and accountability. We then explore the implications of these findings for AI legislation, particularly the EU AI Act, highlighting gaps where practical policy insights could inform regulatory refinements. Our analysis reveals that organisational policies often address issues such as AI literacy, disclosure practices, and environmental impact, areas that are underdeveloped in existing legislative frameworks. We argue that lessons from domain-specific AI policies can contribute to more adaptive and effective AI governance at the global level. This study provides actionable recommendations for policymakers seeking to bridge the gap between local AI practices and regulations.",
     url={https://openreview.net/forum?id=esKOZhgYXc}
 }
 
@@ -169,6 +174,8 @@
       archivePrefix={arXiv},
       primaryClass={cs.CY},
       project="interpretability",
+      interdisciplinary = "true",
+      abstract="Student dropout is a significant concern for educational institutions due to its social and economic impact, driving the need for risk prediction systems to identify at-risk students before enrollment. We explore the accuracy of such systems in the context of higher education by predicting degree completion before admission, with potential applications for prioritizing admissions decisions. Using a large-scale dataset from Danish higher education admissions, we demonstrate that advanced sequential AI models offer more precise and fair predictions compared to current practices that rely on either high school grade point averages or human judgment. These models not only improve accuracy but also outperform simpler models, even when the simpler models use protected sociodemographic attributes. Importantly, our predictions reveal how certain student profiles are better matched with specific programs and fields, suggesting potential efficiency and welfare gains in public policy. We estimate that even the use of simple AI models to guide admissions decisions, particularly in response to a newly implemented nationwide policy reducing admissions by 10 percent, could yield significant economic benefits. However, this improvement would come at the cost of reduced human oversight and lower transparency. Our findings underscore both the potential and challenges of incorporating advanced AI into educational policymaking.",
       url={https://arxiv.org/abs/2411.15348}, 
 }
 
@@ -344,26 +351,10 @@ url={https://openreview.net/forum?id=X4KImMSIRq}
   issn = {2662-8457},
   urldate = {2024-03-28},
   url = "https://arxiv.org/pdf/2306.03009.pdf",
+  interdisciplinary = "true",
   abstract = "Here we represent human lives in a way that shares structural similarity to language, and we exploit this similarity to adapt natural language processing techniques to examine the evolution and predictability of human lives based on detailed event sequences. We do this by drawing on a comprehensive registry dataset, which is available for Denmark across several years, and that includes information about life-events related to health, education, occupation, income, address and working hours, recorded with day-to-day resolution. We create embeddings of life-events in a single vector space, showing that this embedding space is robust and highly structured. Our models allow us to predict diverse outcomes ranging from early mortality to personality nuances, outperforming state-of-the-art models by a wide margin. Using methods for interpreting deep learning models, we probe the algorithm to understand the factors that enable our predictions. Our framework allows researchers to discover potential mechanisms that impact life outcomes as well as the associated possibilities for personalized interventions.",
   copyright = {2023 The Author(s), under exclusive licence to Springer Nature America, Inc.},
   langid = {english}
-}
-
-@misc{LuccioniRogers_2023_Mind_your_Language_Model_FactChecking_LLMs_and_their_Role_in_NLP_Research_and_Practice,
-  title = {Mind Your {{Language}} ({{Model}}): {{Fact-Checking LLMs}} and Their {{Role}} in {{NLP Research}} and {{Practice}}},
-  shorttitle = {Mind Your {{Language}} ({{Model}})},
-  author = {Luccioni, Alexandra Sasha and Rogers, Anna},
-  abstract={Much of the recent discourse within the NLP research community has been centered around Large Language Models (LLMs), their functionality and potential -- yet not only do we not have a working definition of LLMs, but much of this discourse relies on claims and assumptions that are worth re-examining. This position paper contributes a definition of LLMs, explicates some of the assumptions made regarding their functionality, and outlines the existing evidence for and against them. We conclude with suggestions for research directions and their framing in future work.},
-  year = {2023},
-  month = aug,
-  number = {arXiv:2308.07120},
-  eprint = {2308.07120},
-  primaryclass = {cs},
-  project="robustness",
-  publisher = "arXiv (under review)",
-  urldate = {2023-08-22},
-  url="http://arxiv.org/abs/2308.07120",
-  archiveprefix = {arxiv}
 }
 
 @misc{rogers-etal-2023-report,

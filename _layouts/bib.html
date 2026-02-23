@@ -18,8 +18,16 @@
     :black_nib:
     {% endif %}
 
+    {% if entry.type == "online" %}
+    :black_nib:
+    {% endif %}
+
     {% if entry.type == "article" %}
     :ledger:
+    {% endif %}
+
+    {% if entry.interdisciplinary == "true" %}
+    :cyclone:
     {% endif %}
 
     {% if entry.type == "thesis" %}
