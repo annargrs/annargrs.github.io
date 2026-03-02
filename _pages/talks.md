@@ -24,7 +24,7 @@ permalink: /talks/
 * **Factuality and Attribution for Large Language Models** <br/>
 19-21 November 2025: Keynote at [BNAIC 2025](https://docs.unamur.be/en/bnaic2025), University of Namur, Belgium
 * Panelist: Digital sovereignty <br/>
-5-6 November 2025, [Digital Tech Summit](https://direc.dk/digital-tech-summit-bridging-academia-and-industry-copy/), Copenhagen, Denmark
+5-6 November 2025, [Digital Tech Summit](https://event.ing.dk/dts6/speakers), Copenhagen, Denmark
 * **Studying Generalization in the Age of Contamination** <br/>
 September 24 2025: Keynote at [Bridges and Gaps between Formal and Computational Linguistics (an IWCS 2025 workshop)](https://brigap-workshop.github.io/), Düsseldorf, Germany
 * **Large language models and factuality** <br/>
